@@ -22,3 +22,15 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 // END ENQUEUE PARENT ACTION
+
+function load_bootstrap() {
+    wp_enqueue_style("bootstrap", "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css");
+    wp_enqueue_script("bootstrap", "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js", null, null, true);
+}
+add_action("wp_enqueue_scripts", "load_bootstrap");
+
+function load_goal_css() {
+    global $post;
+    wp_enqueue_style("goal-css", get_stylesheet_directory_uri() . "/css/" . $post->post_name . ".css");
+}
+add_action("wp_enqueue_scripts", "load_goal_css");
