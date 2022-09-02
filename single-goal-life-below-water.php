@@ -3,6 +3,7 @@
     <?php while(have_posts()): the_post() ?>
 
     <section class="body">
+        <div class="container">
     <div class="row">
          <div class="top-headline col-11">
             <div class="col-2">
@@ -19,6 +20,7 @@
                     
         </div>
         <div class="col-1"></div>
+    </div>
     </div>
         </section>
 
