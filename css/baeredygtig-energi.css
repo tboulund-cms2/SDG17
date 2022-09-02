@@ -1,4 +1,9 @@
+.banner {
+    width: 100vw;
+    background-color: aliceblue;
+}
+
 h1 {
     font-size: 50px;
-    color: black;
+    color: #F9B70E;
 }
