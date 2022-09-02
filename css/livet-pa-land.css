@@ -6,8 +6,14 @@
 
 .intro {
     background-color: #65B03D;
+    color: #FFFFFF;
 }
 
-.description {
+.description{
+    color: #707070;
+}
+
+.second-description {
     background-color: #537B4C;
+    color: #FFFFFF;
 }

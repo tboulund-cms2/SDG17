@@ -5,7 +5,7 @@
         <div class="heading">MÅL 15: LIVET PÅ LANDET</div>
         <div class="row">
             <div class="col-4">
-                <img class="image" src="<?php the_field("image-2") ?>" alt="">
+                <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
             <div class="col-8">
                 <h3><?php the_field("intro-text") ?></h3>
@@ -22,7 +22,7 @@
             <p><?php the_field("description-2") ?></p>
         </div>
         <div>
-            <img class="image" src="<?php the_field("image-2") ?>" alt="">
+            <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
         </div>
 
     </div>
@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col"></div>
                 <div class="col">
-                    <img class="image" src="<?php the_field("image-2") ?>" alt="">
+                    <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
                 </div>
             </div>
     </div>
