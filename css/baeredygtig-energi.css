@@ -1,6 +1,7 @@
 .banner {
     width: 100vw;
-    background-color: aliceblue;
+    height: 100vh;
+    background-color: black;
 }
 
 h1 {
