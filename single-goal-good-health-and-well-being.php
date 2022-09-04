@@ -19,7 +19,7 @@
                 <div class="item-image item-image-1">
                     <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
                 </div>  
-                <h3>
+                <h3 class="my-2">
                     <?php the_field("action_item_title_1") ?>
                 </h3>
                 <p>
