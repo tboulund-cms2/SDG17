@@ -4,6 +4,21 @@
 
 
 
+
+    <!-- Actions Section - Leifur -->
+
+    <div class="target-section-container">
+        <div class="main-card-target">
+            <div class="item-image item-image-2">
+                    <?php echo wp_get_attachment_image(321, array('565', '375.55')); ?>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- End of Actions Section - LEifur -->
+
+
     <!-- Actions Section - Rose -->
     <div class="action-section container">
         <div class="row action-title-section">
@@ -67,6 +82,8 @@
 
 
     <!-- End of Actions Section - Rose -->
+
+    
     <?php endwhile ?>
 
 <?php get_footer(); ?>
