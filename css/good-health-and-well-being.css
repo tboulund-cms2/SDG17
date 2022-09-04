@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+}
+
+.container {
+  height: 100%;
+  background-color: red;
+}
