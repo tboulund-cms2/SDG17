@@ -5,13 +5,16 @@
 
 
     <!-- Actions Section - Rose -->
-
-
+    <div class="action-section container">
         <h2>
-            <?php 
-                the_field("action_title")
-            ?>
-        </h2>
+                This is a sample text
+                <?php 
+                    the_field("action_title")
+                ?>
+         </h2>
+    </div>
+
+        
 
 
 
