@@ -12,6 +12,9 @@
             <div class="main-icon-img">
                     <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
             </div>
+            <div class="main-info-grid">
+                <h2 class="target-h2"><?php the_field("target_title") ?></h2>
+            </div>
         </div>
 
     </div>
