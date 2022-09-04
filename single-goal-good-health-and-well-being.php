@@ -6,16 +6,19 @@
 
     <!-- Actions Section - Rose -->
     <div class="action-section container">
-        <h2>
-                <?php 
-                    the_field("action_title")
-                ?>
-         </h2>
-         <p>
-                <?php 
-                    the_field("action_description")
-                ?>
-         </p>
+        <div class="row action-title-section">
+            <h2>
+                <?php the_field("action_title") ?>
+            </h2>
+            <p>
+                <?php the_field("action_description") ?>
+            </p>
+        </div>
+        <div class="row action-items-section">
+            <div class="item-image">
+                <?php echo wp_get_attachment_image( "action_item_image_1"); ?>
+            </div>
+        </div>
     </div>
 
         
