@@ -8,6 +8,10 @@ body {
   background-color: green;
 }
 
+.main-card-target {
+  display: flex;
+}
+
 .main-icon-img img {
   width: 500px;
 }
