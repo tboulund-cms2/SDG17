@@ -12,8 +12,16 @@ body {
   display: flex;
 }
 
+.main-icon-img {
+  width: 50%;
+}
+
 .main-icon-img img {
-  width: 500px;
+  width: 100%;
+}
+
+.main-info-grid {
+  width: 50%;
 }
 
 .action-section {
