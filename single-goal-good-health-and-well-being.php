@@ -15,8 +15,16 @@
             </p>
         </div>
         <div class="row action-items-section">
-            <div class="item-image">
-                <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
+            <div class="item-group-1">
+                <div class="item-image">
+                    <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
+                </div>  
+                <h3>
+                    <?php the_field("action_item_title_1") ?>
+                </h3>
+                <p>
+                    <?php the_field("action_item_description") ?>
+                </p>
             </div>
         </div>
     </div>
