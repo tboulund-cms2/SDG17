@@ -14,7 +14,7 @@
                 <?php the_field("action_description") ?>
             </p>
         </div>
-        <div class="row action-items-section d-flex flex-wrap flex-row">
+        <div class="row action-items-section d-flex flex-row flex-wrap ">
             <div class="item-group-1 mb-5">
                 <div class="item-image item-image-1">
                     <?php echo wp_get_attachment_image(337, array('565', '375.55')); ?>
