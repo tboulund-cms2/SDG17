@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="main-info-grid-icon">
-                    <?php echo wp_get_attachment_image(360, array('500', '500')); ?>
+                    <?php echo wp_get_attachment_image(360, array('40', '40')); ?>
                     <p><?php the_field("small_icon_text") ?></p>
                 </div>
                 
