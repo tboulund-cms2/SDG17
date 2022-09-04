@@ -30,7 +30,7 @@
                 <div class="item-image item-image-2">
                     <?php echo wp_get_attachment_image(338, array('674', '448')); ?>
                 </div>  
-                <h3>
+                <h3 class="my-2">
                     <?php the_field("action_item_title_2") ?>
                 </h3>
                 <p>
@@ -41,7 +41,7 @@
                 <div class="item-image item-image-3">
                     <?php echo wp_get_attachment_image(339, array('674', '448')); ?>
                 </div>  
-                <h3>
+                <h3 class="my-2">
                     <?php the_field("action_item_title_3") ?>
                 </h3>
                 <p>
@@ -52,7 +52,7 @@
                 <div class="item-image item-image-4">
                     <?php echo wp_get_attachment_image(340, array('674', '448')); ?>
                 </div>  
-                <h3>
+                <h3 class="my-2">
                     <?php the_field("action_item_title_4") ?>
                 </h3>
                 <p>
