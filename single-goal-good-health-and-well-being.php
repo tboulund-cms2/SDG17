@@ -9,8 +9,8 @@
 
     <div class="target-section-container">
         <div class="main-card-target">
-            <div class="item-image item-image-2">
-                    <?php echo wp_get_attachment_image(321, array('565', '375.55')); ?>
+            <div class="">
+                    <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
             </div>
         </div>
 
