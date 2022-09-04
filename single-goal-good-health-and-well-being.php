@@ -16,7 +16,7 @@
         </div>
         <div class="row action-items-section d-flex flex-wrap">
             <div class="item-group-1 mb-5">
-                <div class="item-image">
+                <div class="item-image item-image-1">
                     <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
                 </div>  
                 <h3>
@@ -26,8 +26,8 @@
                     <?php the_field("action_item_description") ?>
                 </p>
             </div>
-            <div class="item-group-2">
-                <div class="item-image">
+            <div class="item-group-2 ">
+                <div class="item-image item-image-2">
                     <?php echo wp_get_attachment_image(338, array('674', '448')); ?>
                 </div>  
                 <h3>
@@ -35,6 +35,28 @@
                 </h3>
                 <p>
                     <?php the_field("action_item_description_2") ?>
+                </p>
+            </div>
+            <div class="item-group-3">
+                <div class="item-image item-image-3">
+                    <?php echo wp_get_attachment_image(339, array('674', '448')); ?>
+                </div>  
+                <h3>
+                    <?php the_field("action_item_title_3") ?>
+                </h3>
+                <p>
+                    <?php the_field("action_item_description_3") ?>
+                </p>
+            </div>
+            <div class="item-group-4">
+                <div class="item-image item-image-4">
+                    <?php echo wp_get_attachment_image(340, array('674', '448')); ?>
+                </div>  
+                <h3>
+                    <?php the_field("action_item_title_4") ?>
+                </h3>
+                <p>
+                    <?php the_field("action_item_description_4") ?>
                 </p>
             </div>
         </div>
