@@ -9,7 +9,7 @@
 
     <div class="target-section-container">
         <div class="main-card-target">
-            <div class="">
+            <div class="main-icon-img">
                     <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
             </div>
         </div>
