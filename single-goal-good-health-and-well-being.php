@@ -17,7 +17,7 @@
         <div class="row action-items-section d-flex flex-wrap">
             <div class="item-group-1 mb-5">
                 <div class="item-image item-image-1">
-                    <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
+                    <?php echo wp_get_attachment_image(337, array('565', '375.55')); ?>
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_1") ?>
@@ -28,7 +28,7 @@
             </div>
             <div class="item-group-2 mb-5">
                 <div class="item-image item-image-2">
-                    <?php echo wp_get_attachment_image(338, array('674', '448')); ?>
+                    <?php echo wp_get_attachment_image(338, array('565', '375.55')); ?>
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_2") ?>
@@ -39,7 +39,7 @@
             </div>
             <div class="item-group-3 mb-5">
                 <div class="item-image item-image-3">
-                    <?php echo wp_get_attachment_image(339, array('674', '448')); ?>
+                    <?php echo wp_get_attachment_image(339, array('565', '375.55')); ?>
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_3") ?>
@@ -50,7 +50,7 @@
             </div>
             <div class="item-group-4">
                 <div class="item-image item-image-4">
-                    <?php echo wp_get_attachment_image(340, array('674', '448')); ?>
+                    <?php echo wp_get_attachment_image(340, array('565', '375.55')); ?>
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_4") ?>
