@@ -13,7 +13,16 @@
                     <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
             </div>
             <div class="main-info-grid">
-                <h2 class="target-h2"><?php the_field("target_title") ?></h2>
+                <div class="main-info-grid-title">
+                    <h2 class="target-h2"><?php the_field("target_title") ?></h2>
+                    <p><?php the_field("target_description") ?></p>
+                </div>
+
+                <div class="main-info-grid-icon">
+                    <?php echo wp_get_attachment_image(360, array('500', '500')); ?>
+                    <p><?php the_field("small_icon_text") ?></p>
+                </div>
+                
             </div>
         </div>
 
