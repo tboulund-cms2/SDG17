@@ -8,6 +8,10 @@ body {
   background-color: green;
 }
 
+.main-card-target {
+  width: 500px;
+}
+
 .action-section {
   min-height: 100vh;
   width: 100vw;
