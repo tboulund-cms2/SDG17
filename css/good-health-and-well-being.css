@@ -24,6 +24,10 @@ body {
   width: 50%;
 }
 
+.main-info-grid-icon-box p{
+  width: 40px;
+}
+
 .action-section {
   min-height: 100vh;
   width: 100vw;
