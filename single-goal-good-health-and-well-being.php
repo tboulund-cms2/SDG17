@@ -26,7 +26,7 @@
                     <?php the_field("action_item_description") ?>
                 </p>
             </div>
-            <div class="item-group-2 ">
+            <div class="item-group-2 mb-5">
                 <div class="item-image item-image-2">
                     <?php echo wp_get_attachment_image(338, array('674', '448')); ?>
                 </div>  
@@ -37,7 +37,7 @@
                     <?php the_field("action_item_description_2") ?>
                 </p>
             </div>
-            <div class="item-group-3">
+            <div class="item-group-3 mb-5">
                 <div class="item-image item-image-3">
                     <?php echo wp_get_attachment_image(339, array('674', '448')); ?>
                 </div>  
