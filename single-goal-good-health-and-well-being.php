@@ -16,7 +16,7 @@
         </div>
         <div class="row action-items-section">
             <div class="item-image">
-                <?php echo wp_get_attachment_image( "action_item_image_1"); ?>
+                <?php echo wp_get_attachment_image(337, array('674', '448')); ?>
             </div>
         </div>
     </div>
