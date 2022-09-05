@@ -1,9 +1,43 @@
 .stop-sult{
     background-color: rgba(217, 163, 0, 0.43); 
-
+    
 }
 
-.overskrift {
-    color: white;
+.first {
+    display: flex;
     
+}
+.overskrift {
+    color: white; 
+    font: small-caps;
+    
+}
+
+.tekst {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.first {
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.second {
+    color: white;
+    display: flex;
+    margin-top: 50px;
+}
+
+.third {
+    color: white;
+    display: flex;
+    margin-top: 50px;
+}
+
+.image {
+    height: 400px;
 }

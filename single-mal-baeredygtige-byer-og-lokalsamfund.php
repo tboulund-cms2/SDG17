@@ -24,6 +24,18 @@
             </div>
         </div>
 
+        <div class="description">
+            <div>
+                <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
+            </div>
+            <div>
+                <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
+            </div>
+            <div>
+                <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
+            </div>
+        </div>
+
 
     </div>
 
