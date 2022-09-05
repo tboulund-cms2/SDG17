@@ -102,7 +102,6 @@ h2 {
     height: 200px;
     justify-content: center;
     align-items: center;
-    color:#FFFFFF !important;
 }
 .subgoal.even {
     flex-direction: row-reverse;
@@ -118,6 +117,6 @@ h2 {
     border-radius: 0px 100px 100px 00px;
 }
 
-#greenbox.even {
+#greenbox.odd {
     border-radius: 100px 0px 0px 100px;
 }
