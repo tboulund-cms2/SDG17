@@ -21,11 +21,8 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
 
 <div class=flexcontainer>
     <section>
-        <h1>Title</h1>
+        <h1> Verdensmål 6: I delmål og indikatorer</h1>
         <div>
-         <h2>
-         Verdensmål 6: I delmål og indikatorer
-         </h2>
          
          <div class=container>
             <div class="row">
@@ -34,15 +31,52 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
            <div class="col-5 col-sm-11">
             <p>Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p></div>
 
-           <div class="col-1"></div> 
+           <div class="col-1">6.2</div> 
            <div class="col-5 col-sm-11">
             <p>Inden 2030 skal der opnås lige adgang til egnet sanitet og hygiejne for alle, og ordentlige toilet forhold for alle, med særlig opmærksomhed på kvinder og pigers behov, og på mennesker i sårbare situationer.</p></div> 
 
-           <div class="col-1"></div> 
+           <div class="col-1">6.3</div> 
            <div class="col-5 col-sm-11">
             <p>Inden 2030 skal vandkvaliteten forbedres ved at reducere forurening, afskaffe affaldsdumping og minimere udslip af farlige kemikalier og materialer, og halvere andelen af ubehandlet spildevand og væsentligt øge genanvendelse og sikker genbrug globalt.</p></div>
 
-           <div class="col-1"></div> 
+           <div class="col-1">6.4</div> 
+           <div class="col-5 col-sm-11">
+            <p>
+            Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges væsentligt, og der skal sikres bæredygtig indvinding af og forsyning med ferskvand for at imødegå vandknaphed, og væsentligt reducere antallet af mennesker, der lider af vandmangel, betydeligt.</p></div>
+           <div class="col-1">6.5</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.6</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.a.</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.b.</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.1.1</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.2.1</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.3.1</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.3.2</div> 
+           <div class="col-5 col-sm-11"></div>
+           
+           <div class="col-1">6.4.2</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.5.1</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.5.2</div> 
+           <div class="col-5 col-sm-11"></div>
+
+           <div class="col-1">6.3.2</div> 
            <div class="col-5 col-sm-11"></div>
         </div>
          

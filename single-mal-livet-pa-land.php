@@ -61,12 +61,12 @@
                                 <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
                                     <?php $class = ($i % 2 == 0) ? "odd" : "even" ?>
                                             <div class="subgoal <?php echo $class; ?>">
-                                                <div>
+                                                <div style="background-color:#65B03D ;">
                                                 <img src="<?php the_field("icon") ?>" alt="">
                                                 </div>
                                                 <div>
-                                                    <h3><?php the_field("title") ?></h3>
-                                                    <p><?php the_field("text-field") ?></p>
+                                                    <h3 style="color: #707070; font-weight:900 ;"><?php the_field("title") ?></h3>
+                                                    <p style="color: #707070 ;"><?php the_field("text-field") ?></p>
                                                 </div>
                                             </div>
 

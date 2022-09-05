@@ -13,6 +13,11 @@ body{
     background-size: cover;
 }
 
-h3{
+h3, h1, h2{
    text-align: center;
+   line-height: 25px;
 }
+
+p{
+    line-height: 35px;
+ }
