@@ -1,12 +1,21 @@
 <?php get_header()?>
     <?php while(have_posts()): the_post(); ?>
 
+    <!-- start by Jianming -->
+    <div class="row navbar">        
+            <div class="logo-box col-2">                
+                <div class="square-logo">
+                    <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
+                </div>
+            </div>
+        </div>
+
     <!-- Actions Section - Leifur -->
 
     <div class="target-section-container">
         <div class="main-card-target">
             <div class="main-icon-img">
-                    <?php echo wp_get_attachment_image(375, array('500', '500')); ?>
+                    <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
             </div>
             <div class="main-info-grid">
                 <div class="main-info-grid-title">
@@ -16,7 +25,7 @@
 
                 <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(360, array('40', '40')); ?>
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
 
