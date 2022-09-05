@@ -25,6 +25,10 @@ body {
   padding: 50px;
 }
 
+.box-container-for-icons {
+  display: flex;
+}
+
 .main-info-grid-icon-box {
 
   display: flex;
