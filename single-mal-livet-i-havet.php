@@ -70,7 +70,7 @@
                 </div>
 
                     <div class="last-picture">
- <img src="<?php the_field('hero_picture'); ?>" alt="" /> 
+ <img src="<?php the_field('bottom_picture'); ?>" alt="" /> 
                     </div>
 
                         <div class="bottom">
