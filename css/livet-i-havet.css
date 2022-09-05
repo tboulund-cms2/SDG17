@@ -13,7 +13,6 @@ body{
     background-size: cover;
 }
 
-<<<<<<< HEAD
 h3{
     align-content: center;
  }
@@ -37,5 +36,8 @@ h3, h1, h2{
         line-height: 35px;
      }
 
+     bottom{
+        background-color: #E8B400;
+     }
 
 

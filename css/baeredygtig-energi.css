@@ -34,22 +34,23 @@ h1 {
     display: flex;
     justify-items: center;
     align-items: center;
-    gap: 20%;
+    gap: 100px;
 }
 
 .mål {
-    height: 20%;
-    width: 40%;
+    height: 200px;
+    width: 300px;
 
 }
 
 .forum {
-    height: 20%;
-    width: 40%;
+    height: 200px;
+    width: 300px;
 }
 
 @media screen and (max-width: 1000px) {
     .btns {
-        gap: 0;
+        gap: 20px;
+        flex-direction: column;
     }
   }
