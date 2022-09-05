@@ -136,7 +136,7 @@
                     <?php the_field("action_item_description") ?>
                 </p>
             </div>
-            <div class="item-group-2 mb-5 col-12 col-xl-6">
+            <div class="item-group-2 mb-5 col-12 col-xl-6 p-5">
                 <div class="item-image item-image-2">
                     <img class="action-item-image" src="<?php the_field("action_item_image_2") ?>" alt="Register in Donors Registry">
                 </div>  
@@ -147,7 +147,7 @@
                     <?php the_field("action_item_description_2") ?>
                 </p>
             </div>
-            <div class="item-group-3 mb-5 col-12 col-xl-6">
+            <div class="item-group-3 mb-5 col-12 col-xl-6 p-5">
                 <div class="item-image item-image-3">
                     <img class="action-item-image" src="<?php the_field("action_item_image_3") ?>" alt="Get Vaccinate">
                 </div>  
@@ -158,7 +158,7 @@
                     <?php the_field("action_item_description_3") ?>
                 </p>
             </div>
-            <div class="item-group-4 col-12 col-xl-6">
+            <div class="item-group-4 col-12 col-xl-6 p-5">
                 <div class="item-image item-image-4">
                     <img class="action-item-image" src="<?php the_field("action_item_image_4") ?>" alt="Donate Blood">
                 </div>  
