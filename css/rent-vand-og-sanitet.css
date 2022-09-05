@@ -1,6 +1,6 @@
 body {
-    background-color: #ffff;
-    color: blue;
+    background-color: rgb(80, 80, 235);
+    color: rgb(70, 70, 239);
     font-size: 12px;
 }
 
@@ -19,4 +19,8 @@ margin: 20 10 0;
 .introvideo {
     height: 80px;
     width: 100px;
+}
+
+img {
+
 }
