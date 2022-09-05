@@ -61,7 +61,7 @@
                                 <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
                                     <?php $class = ($i % 2 == 0) ? "odd" : "even" ?>
                                             <div class="subgoal <?php echo $class; ?>">
-                                                <div id="greenbox" class="col-4 <?php echo $class; ?>">
+                                                <div class="greenbox col-4 <?php echo $class; ?>">
                                                 <img src="<?php the_field("icon") ?>" alt="">
                                                 </div>
                                                 <div id="subgoal-text" class="col-8">
