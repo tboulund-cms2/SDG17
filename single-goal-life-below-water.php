@@ -12,9 +12,12 @@
             <img src="<?php the_field("headline_image") ?>" alt="headline" class="col-2">
 
             <div class="col-10">
-
-                 <h1><?php the_field("headline_text") ?></h1>
-
+                <div class="col-2"></div>
+                 
+                <div class="col-8">
+                    <h1><?php the_field("headline_text") ?></h1>
+                </div>
+                 <div class="col-2"></div>
             </div>
         </div>
     </section>
