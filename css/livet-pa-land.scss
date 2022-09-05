@@ -112,10 +112,16 @@ h2 {
 .subgoal.even {
 
     #greenbox {
+    background-color: #62b03b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100% ;
     border-radius: 100px 0px 0px 100px;
     }
 }
 
+.subgoal.odd {
 #greenbox {
     background-color: #62b03b;
     display: flex;
@@ -123,6 +129,7 @@ h2 {
     align-items: center;
     height: 100% ;
     border-radius: 0px 100px 100px 00px;
+}
 }
 
 
