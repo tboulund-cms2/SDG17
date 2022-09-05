@@ -18,7 +18,7 @@
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
 
-            <div class="first paragraph">
+            <div class="first-paragraph">
                 <h3>OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>
                  IS ENDANGERED</h3>
@@ -37,8 +37,9 @@
 
 
                 <div class="video"></div>
-
-                <div class="second paragraph">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/qnyRm05yofs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</iframe>
+                <div class="second-paragraph">
                     <h3>OUR TARGETS</h3>
                         <p>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution <br>
 
@@ -68,8 +69,8 @@
                     </p>
                 </div>
 
-                    <div class="last picture">
- <img src="<?php the_field('bottom_picture'); ?>" alt="" /> 
+                    <div class="last-picture">
+ <img src="<?php the_field('hero_picture'); ?>" alt="" /> 
                     </div>
 
                         <div class="bottom">
