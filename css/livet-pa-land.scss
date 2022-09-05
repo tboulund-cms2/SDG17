@@ -130,7 +130,7 @@ h2 {
 
 
 
-    @media screen and (max-width: 500px) {
+    @media screen and (min-width: 500px) {
         p {
             padding: 30px !important;
         }
