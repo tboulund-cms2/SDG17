@@ -102,13 +102,14 @@ h2 {
     height: 200px;
     justify-content: center;
     align-items: center;
+    background-color: #FFFFFF !important;
 }
 .subgoal.even {
     flex-direction: row-reverse;
     
 }
 
-.greenbox {
+#greenbox {
     background-color: #65B03D;
     display: flex;
     justify-content: center;
@@ -117,10 +118,7 @@ h2 {
     border-radius: 0px 100px 100px 00px;
 }
 
-.greenbox.even {
+#greenbox.even {
     border-radius: 100px 0px 0px 100px;
 }
 
-#subgoal-text {
-    background-color: #FFFFFF !important;
-}
