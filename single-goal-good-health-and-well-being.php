@@ -10,13 +10,15 @@
             </div>
         </div>
         
-    <div class="hero-section"> 
-        <div class="hero-image col-12">
-            <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
-                <div class="row d-flex align-center justify-center">
-                    <h1 class="hero-tiitle col-6"><?php the_field("hero_title") ?></h1>
-                    <h3 class="hero-subtitle col-6"><?php the_field("hero_subtitle") ?></h3>
+    <div class="hero-section-container"> 
+        <div class="row hero-section">
+            <div class="hero-image col-12">
+                <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
+                <div class="row hero-text d-flex justify-content-center align-items-center flex-column flex-wrap">
+                    <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
+                    <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
                 </div>
+            </div>
         </div>
     </div>
     
