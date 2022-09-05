@@ -11,7 +11,11 @@
               <h2>Conserve and sustainably use the oceans, <br>
                seas and marine resources for sustainable development</h2> 
          </div>
-
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
             <div class="first paragraph">
                 <h3>OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>
@@ -28,6 +32,7 @@
                     Life in the sea is one of 17 global goals that are part of the development agenda for sustainable development towards 2030. An integrated approach is essential for progress across the various goals.
                     </p>
             </div>
+
 
     <?php endwhile ?>
 
