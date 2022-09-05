@@ -1,0 +1,22 @@
+body {
+    background-color: #ffff;
+    color: blue;
+    font-size: 12px;
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+margin: 10 5 0;
+}
+
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+margin: 20 10 0;
+}
+
+.introvideo {
+    height: 80px;
+    width: 100px;
+}

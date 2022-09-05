@@ -11,6 +11,14 @@
     color: #FFFFFF;
 }
 
+#intro-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+
 .description{
     color: #707070 !important;
 }
@@ -49,4 +57,36 @@ h2 {
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 60px;
+}
+
+
+
+.button-34 {
+  background: #FFFFFF;
+  border-radius: 999px;
+  box-shadow: #65B03D 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #65B03D;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 900;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  margin: 5px;
+}
+
+#groups {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
 }
