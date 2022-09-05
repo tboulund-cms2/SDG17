@@ -17,7 +17,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 339px;
 }
 img {
     object-fit: cover;
@@ -31,6 +30,21 @@ img {
     color: #0A97D9 !important;
 }
 
+
+
+#quote-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-top: 50px;
+}
+.quote-box{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .text-color h2{
     color: #B6DBF7 !important;
 }

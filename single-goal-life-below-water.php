@@ -24,12 +24,23 @@
 
                
                 
-                <section class="part_2">
-                    <div class="col-12">
-                        <p><?php the_field("quote") ?></p>
+                <section class="quote-section">
+                    <div class="col-12 quote-up">
+                            <div class="col-3"></div>
+                            <div class="col-6">
+                                <h2><?php the_field("quote") ?></h2>
+                            </div>
+                            <div class="col-3"></div>
                     </div>
+                        
                     <div class="col-12">
-                        <p><?php the_field("guote_author") ?></p>
+                        <div class="col-12 quote-down">
+                                <div class="col-4"></div>
+                                <div class="col-4">
+                                    <h2><?php the_field("quote") ?></h2>
+                                </div>
+                                <div class="col-4"></div>
+                        </div>
                     </div>
                 </section>
 
