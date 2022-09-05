@@ -10,7 +10,7 @@
             <div class="col-4">
                 <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
-            <div style="padding-top:30px ;" class="col-8">
+            <div style="padding:30px 50px 30px 50px ;" class="col-8">
                 <h3><?php the_field("intro-text") ?></h3>
             </div>
         </div>
