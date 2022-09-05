@@ -30,13 +30,21 @@ h1 {
 
 .btns {
     height: 40%;
+    width: 50%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 20%;
+
 }
 
 .mål {
     height: 20%;
-    
+    width: 40%;
+
 }
 
 .forum {
     height: 20%;
+    width: 40%;
 }
