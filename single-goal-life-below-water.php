@@ -50,11 +50,14 @@
     </section>
 
 
-    <section id="targets-section" class="col-12">
+    <section id="targets-section" class="col-8">
         <div class="col-12">
             <h2><?php the_field("headline") ?></h2>
         </div>
-        <div class="col-12 target-container">
+
+
+
+        <div class="col-8 target-container">
             <div class="col-6 target-left">
                 <div class="col-4">
                     <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
@@ -72,6 +75,14 @@
                     <div class="col"></div>
                 </div>
             </div>
+
+
+
+
+
+
+
+
 
             <div class="col-6 target-right">
                 <div class="col-4">
