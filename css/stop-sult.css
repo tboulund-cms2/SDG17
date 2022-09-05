@@ -4,6 +4,11 @@
 }
 
 .overskrift {
+    color: white; 
+    font: small-caps;
+}
+
+.first {
     color: white;
     
 }

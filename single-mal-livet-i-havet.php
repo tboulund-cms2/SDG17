@@ -2,7 +2,9 @@
 
     <?php while(have_posts()): the_post() ?>
 
-    weee test
+    <div class="card-container">
+    <?php the_field("hero_picture") ?>" alt="">
+    </div>
 
     <?php endwhile ?>
 
