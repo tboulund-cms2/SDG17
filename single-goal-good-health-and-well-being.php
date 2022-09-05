@@ -3,8 +3,8 @@
 
     <!-- start by Jianming -->
     <div class="row navbar">        
-            <div class="logo-box col-2 py-2">                
-                <div class="square-logo">
+            <div class="logo-box col-2">                
+                <div class="square-logo py-2">
                     <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
                 </div>
             </div>

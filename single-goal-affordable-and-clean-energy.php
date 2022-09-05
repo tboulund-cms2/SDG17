@@ -36,7 +36,7 @@
             <h2 id="banner_description" class="px-0 py-4">Be Up To Date</h2>
             <!-- Convert this to Text Custom Post Type 2-->
             <p class="col-6"><?php the_field("newsletter") ?> </p>
-            <div class="d-flex py-4 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
+            <div class="d-flex px-0 py-4 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
                 <input type="email" class="col-12 py-2" placeholder="email address">
                 <button type="button" class="col-12 col-lg-5 col-xl-5 col-xxl-4 py-2 btn btn-dark mx-md-2">Get In</button>
             </div>
