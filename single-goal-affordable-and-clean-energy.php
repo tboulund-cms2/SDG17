@@ -23,8 +23,7 @@
     <section id="contribution-section" class="d-flex py-4 col-md-12 align-items-center justify-content-center">
         <div class="d-flex col-md-8 flex-row-reverse flex-wrap align-items-center justify-content-center image-text-container">
             <!-- Convert this to Image Custom Post Type 1-->
-            <!-- <img class="col-12 col-md-6" src="<?php the_field("contribution_image") ?>" alt="contribution"> -->
-            <img class="col-12 col-md-6" src="" alt="">
+            <img class="col-12 col-md-6" src="<?php the_field("contributors_image") ?>" alt="contribution">
             <div class="d-flex col-10 col-md-6 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
                 <h2 class="col-4 col-md-12 py-4">Contributor - Be the One!</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
@@ -51,12 +50,9 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful Image Custom Post Type 2 or not -->
             <div class="d-flex flex-wrap col-12 justify-content-between bottom-container">
-                <!-- <img class="col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1"> -->
-                <!-- <img class="col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2"> -->
-                <!-- <img class="col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3"> -->
-                <img class="col-12 col-md-4" src="" alt="">
-                <img class="col-12 col-md-4" src="" alt="">
-                <img class="col-12 col-md-4" src="" alt="">
+                <img class="col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1">
+                <img class="col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2">
+                <img class="col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3">
             </div>
             <button type="button" class="btn btn-warning d-sm-none">See all events</button>
         </div>
@@ -70,22 +66,19 @@
             <!--Inside this div, we probably want a loop getting our beautiful News Custom Post Type -->
             <div class="d-flex flex-wrap py-4 col-md-12 justify-content-between bottom-container">
                 <div class="card col-12 col-md-3">
-                    <img src="" class="card-img-top" alt="...">
-                    <!-- <img class="card-img-top" src="<?php the_field("news_image_1") ?>" alt="news1"> -->
+                    <img class="card-img-top" src="<?php the_field("highlighted_news_article_1_image") ?>" alt="news1">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_1") ?> </p>
                     </div>
                 </div>
                 <div class="card col-12 col-md-3">
-                    <img src="" class="card-img-top" alt="...">
-                    <!-- <img class="card-img-top" src="<?php the_field("news_image_2") ?>" alt="news2"> -->
+                    <img class="card-img-top" src="<?php the_field("highlighted_news_article_2_image") ?>" alt="news2">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_2") ?> </p>
                     </div>
                 </div>
                 <div class="card col-12 col-md-3">
-                    <img src="" class="card-img-top" alt="...">
-                    <!-- <img class="card-img-top" src="<?php the_field("news_image_3") ?>" alt="news3"> -->
+                    <img class="card-img-top" src="<?php the_field("highlighted_news_article_3_image") ?>" alt="news3">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_3") ?> </p>
                     </div>
