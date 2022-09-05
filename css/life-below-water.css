@@ -33,7 +33,7 @@ img {
 
 
 #quote-section{
-    height: 500px;
+    height: 400px;
     margin-top: 50px;
     padding-top: 80px;
 }
@@ -52,4 +52,7 @@ img {
 .text-color h2{
     color: #B6DBF7 !important;
     text-align: center;
+}
+#informative-section{
+    width: 100%;
 }
