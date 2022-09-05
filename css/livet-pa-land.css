@@ -94,3 +94,10 @@ h2 {
 .small-goals {
     color:#EEEEEE !important;
 }
+
+.subgoal {
+    display: flex;
+}
+.subgoal.even {
+    flex-direction: row-reverse;
+}
