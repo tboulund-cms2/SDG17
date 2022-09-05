@@ -1,5 +1,4 @@
 body {
-    width: 100vh;
     background-color: #fff;
     font-size: 12px;
 }
@@ -23,7 +22,6 @@ text-align: left;
 }
 
 p {
-    width: 100px;
     display: flex;
     flex-wrap: wrap-reverse;
 }
