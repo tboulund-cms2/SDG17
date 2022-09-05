@@ -55,9 +55,15 @@ h3, h1, h2{
  }
 
  .last-picture{
-text-align: right;
+float: left;
     
  }
+
+ .last-picture img {
+    float: left;
+    width: 100%;
+}
+    
 
  .first-paragraph{
     background-image: url("background-1.jpeg");
