@@ -11,7 +11,6 @@
 .banner {
     width: 100vw;
     height: 89vh;
-    color: #F9B70E !important
 }
 
 .backgroundimg {
@@ -21,6 +20,7 @@
     background-position: center;
 }
 
-.h1 {
+h1 {
     font-size: 50px;
+    color: #F9B70E;
 }
