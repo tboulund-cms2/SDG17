@@ -53,4 +53,9 @@ h1 {
         gap: 20px;
         flex-direction: column;
     }
+
+    .mål, .forum {
+        height: 150px;
+        width: 200px;
+    }
   }
