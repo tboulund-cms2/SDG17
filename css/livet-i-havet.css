@@ -58,3 +58,8 @@ h3, h1, h2{
 text-align: right;
     
  }
+
+ .first-paragraph{
+    background-image: url("background-1.jpeg");
+        
+     }
