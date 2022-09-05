@@ -25,10 +25,6 @@ p {
     display: flex;
     flex-wrap: wrap-reverse;
 }
-.introvideo {
-    height: 80px;
-    width: 100px;
-}
 
 .flexcontainer {
     color: #4775f1;

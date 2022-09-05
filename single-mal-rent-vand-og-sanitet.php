@@ -10,7 +10,17 @@
     Sikre at alle har adgang til vand og sanitet, og at dette forvaltes bæredygtigt
     </h2>
 
-<video class=introvideo src="https://youtu.be/ln_XaxNJ764"></video>
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ln_XaxNJ764" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<div>
+<grid-container>
+
+</grid-container>
+
+</div>
 
 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem corrupti officiis sint minima beatae perspiciatis ea eaque dolorem perferendis possimus. <br>
 Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusamus.</p>
