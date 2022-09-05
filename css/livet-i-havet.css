@@ -13,7 +13,6 @@ body{
     background-size: cover;
 }
 
-<<<<<<< HEAD
 h3{
     align-content: center;
  }
@@ -37,5 +36,9 @@ h3, h1, h2{
         line-height: 35px;
      }
 
+ .bottomtekst{
+    text-align: center;
+    font-size: 18px;
+ }
 
 
