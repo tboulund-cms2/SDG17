@@ -44,7 +44,7 @@
         </div>
     </section>
 
-    <section id="informative-section">
+    <section id="informative-section"  class="col-12">
         <img class="informative-image" src="<?php the_field("informative_image") ?>" alt="">
         </div>
     </section>
