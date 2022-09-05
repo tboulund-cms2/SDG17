@@ -25,6 +25,10 @@ body {
   padding: 50px;
 }
 
+.box-container-for-icons {
+  display: flex;
+}
+
 .main-info-grid-icon-box {
 
   display: flex;
@@ -58,5 +62,9 @@ body {
 @media only screen and (min-width: 1200px) {
   .item-group-2{
     margin-top: 200px;
+  }
+
+  .item-group-3 {
+    margin-top: -200px;
   }
 }
