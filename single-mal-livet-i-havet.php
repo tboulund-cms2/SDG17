@@ -40,7 +40,7 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnyRm05yofs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </iframe>
                 <div class="second-paragraph">
-                    <h1>OUR TARGETS</h1>
+                    <h1 id="yellowtekst">OUR TARGETS</h1>
                         <p>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution <br>
 
                         By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans <br>
