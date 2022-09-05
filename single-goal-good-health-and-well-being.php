@@ -25,21 +25,48 @@
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
-        <a href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/"><h1>CALL TO ACTION</h1></a>
-    </div>
+    <a href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/">
+        <h1>CALL TO ACTION</h1>
+    </a>
+</div>
 
-    <div class="target-section-container">
-        <div class="main-card-target">
-            <div class="main-icon-img">
-                    <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
+<div class="target-section-container">
+    <div class="main-card-target">
+        <div class="main-icon-img">
+            <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
+        </div>
+        <div class="main-info-grid">
+            <div class="main-info-grid-title">
+                <h2 class="target-h2"><?php the_field("target_title") ?></h2>
+                <p><?php the_field("target_description") ?></p>
             </div>
-            <div class="main-info-grid">
-                <div class="main-info-grid-title">
-                    <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                    <p><?php the_field("target_description") ?></p>
-                </div>
 
+            <div class="box-container-for-icons">
                 <div class="main-info-grid-icon">
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
                     <div class="main-info-grid-icon-box">
                         <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
                         <p><?php the_field("small_icon_text") ?></p>
@@ -47,11 +74,45 @@
 
 
                 </div>
-                
-            </div>
-        </div>
 
+                <div class="main-info-grid-icon">
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
     </div>
+
+</div>
 
     <!-- End of Actions Section - LEifur -->
 
