@@ -1,3 +1,6 @@
+<?php get_header()?>
+
+    <?php while(have_posts()): the_post() ?>
 
 <div class="container">
 
@@ -45,7 +48,21 @@
     </div>
 
     <div class="small-goals">
+        <h2>VERDENSMÅL 15 I DELMÅL OG INDIKATORER</h2>
+                                <?php $loop = new WP_Query(array("post_type" => "livetpåland-goals", "posts_per_page" => -1)) ?>
+                                    <?php while($loop->have_posts()): $loop->the_post() ?>
+                                            <div>
+                                                <div>
+                                                <img src="<?php the_field("icon") ?>" alt="">
+                                                </div>
+                                                <div>
+                                                    <h3><?php the_field("title") ?></h3>
+                                                    <p><?php the_field("text-field") ?></p>
+                                                </div>
+                                            </div>
 
+                                    <?php endwhile ?>
+                                    <?php wp_reset_postdata() ?>
     </div>
 
     <div class="image">
@@ -57,3 +74,7 @@
     </div>
 
 </div>
+
+<?php endwhile ?>
+
+<?php get_footer(); ?>
