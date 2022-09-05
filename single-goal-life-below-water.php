@@ -1,20 +1,25 @@
 <?php get_header()?>
-
     <?php while(have_posts()): the_post() ?>
 
+    <section id="headline-section" class="d-flex col-md-12 align-items-center justify-content-center info-background">
+        <div class="d-flex col-md-10 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start headline-container">
+            <img src="<?php the_field("headline_image") ?>" alt="banner" class="col-12 col-md-3">
+            <div class="d-flex col-12 col-md-9 col-xl-9 justify-content-center px-4 banner-text text-center text-md-start">
+             <h1><?php the_field("headline_text") ?></h1>
+            </div>
+        </div>
+    </section>
 
-        <div class="container">
-            <div class="row">
                 <section class="part_1">
                     <div class="top-headline col-11">
                         <div class="col-2">
-                            <img class="headline-image" src="<?php the_field("headline_image") ?>" alt="">
+                            <img src="<?php the_field("headline_image") ?>" alt="">
                         </div>
 
                         <div class="col-2"></div>
 
                         <div class="headline-text col-6">
-                            <p><?php the_field("headline_text") ?></p>
+                            
                         </div>
                         
                         <div class="col-2"></div>        
@@ -37,8 +42,6 @@
                             <img class="informative-image" src="<?php the_field("informative_image") ?>" alt="">
                     </div>
                 </section>
-            </div>
-      </div>
         
 
     <?php endwhile ?>
