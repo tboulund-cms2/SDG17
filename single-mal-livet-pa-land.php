@@ -19,10 +19,10 @@
 
     <div class="description">
         <div>
-            <p style="padding: 50px 150px 20px 150px;"><?php the_field("description-1") ?></p>
+            <p ><?php the_field("description-1") ?></p>
         </div>
         <div>
-            <p style="padding: 0px 150px 5px 150px;"><?php the_field("description-2") ?></p>
+            <p ><?php the_field("description-2") ?></p>
         </div>
         <div>
             <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
@@ -36,8 +36,8 @@
 
     <div class="second-description">
         <div class="description-3">
-            <p style="padding: 50px 150px 20px 150px;"><?php the_field("description-3") ?></p>
-            <p style="padding: 0px 150px 30px 150px;"><?php the_field("description-4") ?></p>
+            <p ><?php the_field("description-3") ?></p>
+            <p ><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
                 <div id="groups" class="col-md-7 col-sm-12">
