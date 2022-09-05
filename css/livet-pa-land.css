@@ -22,3 +22,21 @@
 .image {
     background-image: cover;
 }
+
+h3 {
+    color: #FFFFFF !important;
+}
+h2 {
+    color: #707070;
+}
+
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 70px;
+}
