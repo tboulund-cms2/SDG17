@@ -13,7 +13,6 @@
         <div class="d-flex col-md-8 flex-wrap align-items-center justify-content-center justify-content-md-between image-text-container">
             <!-- Convert this to Image Custom Post Type 1-->
             <img class="col-12 col-md-6" src="<?php the_field("overview_image") ?>" alt="overview">
-            <img class="col-12 col-md-6" src="" alt="">
             <div class="d-flex col-10 col-md-5 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
                 <h2 class="col-4 col-md-12 py-4">Overview</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
