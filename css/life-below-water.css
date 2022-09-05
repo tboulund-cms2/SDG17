@@ -58,6 +58,9 @@ img {
 margin-left: -318px;
 }
 
+
+
+
 #targets-section{
     height: 4000px;
     margin-top: 50px;
@@ -68,7 +71,12 @@ margin-left: -318px;
     justify-content: center;
     align-items: center;
 }
-.target-one-left{
+.target-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.target-right{
     display: flex;
     justify-content: center;
     align-items: center;
