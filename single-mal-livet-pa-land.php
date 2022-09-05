@@ -56,7 +56,7 @@
 
     <div class="small-goals">
         <h2>VERDENSMÅL 15 I DELMÅL OG INDIKATORER</h2>
-                                <?php $loop = new WP_Query(array("post_type" => "livetpåland-goals", "posts_per_page" => -1)) ?>
+                                <?php $loop = new WP_Query(array("post_type" => "livetpaland-goals", "posts_per_page" => -1)) ?>
                                     <?php while($loop->have_posts()): $loop->the_post() ?>
                                             <div>
                                                 <div>
