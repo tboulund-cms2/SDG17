@@ -1,5 +1,6 @@
 .site{
     background-color: cyan;
+    background: linear-gradient(#0A97D9, #0C558D);
 }
 .headline-section{
     background-color: white;
