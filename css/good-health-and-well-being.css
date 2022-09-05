@@ -1,8 +1,18 @@
 * {
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+
 }
 
+h1 h2 h3 h4 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
 
 body {
   background-color: green;
@@ -23,6 +33,10 @@ body {
 .main-info-grid {
   width: 50%;
   padding: 50px;
+}
+
+.box-container-for-icons {
+  display: flex;
 }
 
 .main-info-grid-icon-box {
@@ -55,6 +69,7 @@ body {
   color: #4C9F38;
 }
 
+<<<<<<< HEAD
 .hero-title {
   position: absolute;
   top: 50%;
@@ -62,3 +77,14 @@ body {
   text-align: center;
   font-size: 18px;
 }
+=======
+@media only screen and (min-width: 1200px) {
+  .item-group-2{
+    margin-top: 200px;
+  }
+
+  .item-group-3 {
+    margin-top: -200px;
+  }
+}
+>>>>>>> 089fcb61d08dfa9ce1aa8b698f12731af895389f

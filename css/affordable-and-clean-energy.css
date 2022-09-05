@@ -9,14 +9,25 @@ img {
 
 #banner-description {
     color: white;
+
+    font-weight: 900;
 }
 
-#banner-description h2 {
-    font-weight: 700;
+#banner-description h1 {
+    font-weight: 900;
 }
 
 .info-background {
     background: #fcb913;
+    color: white;
+    font-weight: 700;
+}
+
+.info-background p {
+    font-weight: 400;
+}
+
+.info-background h2 {
     color: white;
     font-weight: 700;
 }
