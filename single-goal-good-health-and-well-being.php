@@ -1,6 +1,15 @@
 <?php get_header()?>
     <?php while(have_posts()): the_post(); ?>
 
+    <!-- start by Jianming -->
+    <div class="row navbar">        
+            <div class="logo-box col-2">                
+                <div class="square-logo">
+                    <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
+                </div>
+            </div>
+        </div>
+
     <!-- Actions Section - Leifur -->
 
     <div class="target-section-container">
