@@ -98,6 +98,10 @@ img {
     max-height: 80vh;
 }
 
+.card-img-top img {
+    min-height: 120px;
+}
+
 #news-section {
     min-height: 45vh;
 }
