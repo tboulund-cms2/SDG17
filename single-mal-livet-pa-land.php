@@ -40,7 +40,7 @@
             <p style="padding: 0px 150px 30px 150px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
-                <div id="groups" class="col">
+                <div id="groups" class="col-7">
                     <p style="font-size:30px; font-weight:900 ;">Del din mening!</p>
                     <p style="padding: 0px 150px 30px 150px;">Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
                     <a href="http://boulund.com/sdg17/groups/livet-pa-landet/members/all-members/">
@@ -48,7 +48,7 @@
                     </a>
 
                 </div>
-                <div class="col">
+                <div class="col-5">
                     <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
                 </div>
             </div>
