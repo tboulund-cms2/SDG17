@@ -56,4 +56,5 @@ h3, h1, h2{
 
  .last-picture{
     width: 2000px;
+    align-content: center;
  }
