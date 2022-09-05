@@ -47,28 +47,28 @@
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy2") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy2") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy3") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy3") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy4") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy4") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy5") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy5") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy6") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy6") ?></p>
                     </div>
 
 
@@ -76,32 +76,28 @@
 
                 <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy7") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy7") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy8") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy8") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy9") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy9") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy10") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy10") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy11") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy11") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
-                    </div>
-                    <div class="main-info-grid-icon-box">
-                        <img src="<?php the_field("small_icon_image") ?>" alt="">
-                        <p><?php the_field("small_icon_text") ?></p>
+                        <img src="<?php the_field("small_icon_image_copy12") ?>" alt="">
+                        <p><?php the_field("small_icon_text_copy12") ?></p>
                     </div>
 
 
