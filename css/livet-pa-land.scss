@@ -109,8 +109,11 @@ h2 {
     
 }
 
-.subgoal.even#greenbox {
+.subgoal.even {
+
+    #greenbox {
     border-radius: 100px 0px 0px 100px;
+    }
 }
 
 #greenbox {
