@@ -137,8 +137,23 @@ body {
 
 }
 
-.hero-title h1,
-.hero-subtitle h3{
+.hero-section-container {
+  display: inline-block;
+  margin-top: 25px;
+  position: relative;  
+}
 
+.hero-text {
+  position: absolute;
+  top:0;
+  left:0;
+}
+
+
+h1.hero-title,
+h3.hero-subtitle{
   color: #EAEAEA;
+  position: absolute;
+  text-align: center;
+  width: 100vw;
 }
