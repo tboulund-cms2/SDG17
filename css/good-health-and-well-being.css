@@ -39,6 +39,11 @@ body {
   padding-left: 20px;
 }
 
+.main-info-grid-title h2{
+  color: #4C9F38;
+  
+}
+
 .box-container-for-icons {
   display: flex;
 }
@@ -55,7 +60,7 @@ body {
 .main-info-grid-icon-box img{
   width: 30px;
   padding: 5px;
-  background-color: green;
+  background-color: #4C9F38;
   border-radius: 50%;
 }
 
