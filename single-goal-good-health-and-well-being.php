@@ -6,7 +6,7 @@
     <div class="target-section-container">
         <div class="main-card-target">
             <div class="main-icon-img">
-                    <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
+                    <?php echo wp_get_attachment_image(375, array('500', '500')); ?>
             </div>
             <div class="main-info-grid">
                 <div class="main-info-grid-title">
