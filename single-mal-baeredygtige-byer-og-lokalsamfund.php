@@ -41,10 +41,18 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/EHeWPWny3BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
-    </div>
+        <div class="description2">
+            <div class="description-3">
+                <p style="padding:50px,150px,20px,150px"><?php the_field("description-3") ?></p>
+
+                <p style="padding:0px,150px,30px,150px"><?php the_field("description-4") ?></p>
+            </div>
 
 
-    <?php get_footer() ?>
+        </div>
+
+
+        <?php get_footer() ?>
 </body>
 
 </html>
