@@ -103,6 +103,10 @@ body {
 
 
 @media only screen and (min-width: 1200px) {
+
+  .main-card-target {
+    flex-direction: column;
+  }
   .item-group-2{
     margin-top: 200px;
     padding-left: 40px;
