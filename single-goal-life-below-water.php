@@ -8,16 +8,16 @@
 
     <section id="headline-section" class="col-12">
         <div class="col-12 headline-box">
+            <div class="col-1"></div>
+                <img src="<?php the_field("headline_image") ?>" alt="headline" class="col-2">
 
-            <img src="<?php the_field("headline_image") ?>" alt="headline" class="col-2">
-
-            <div class="col-10 headline-text">
-                <div class="col-2"></div>
-                 
-                <div class="col-8">
-                    <h1><?php the_field("headline_text") ?></h1>
-                </div>
-                 <div class="col-2"></div>
+                <div class="col-9 headline-text">
+                    <div class="col-2"></div>
+                    
+                    <div class="col-8 text-color">
+                        <h1><?php the_field("headline_text") ?></h1>
+                    </div>
+                    <div class="col-2"></div>
             </div>
         </div>
     </section>
