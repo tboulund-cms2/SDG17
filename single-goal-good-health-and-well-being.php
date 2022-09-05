@@ -36,7 +36,6 @@
         <div class="main-info-grid">
             <div class="main-info-grid-title">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                <img src="<?php the_field("small_icon_image") ?>" alt="">
                 <p><?php the_field("target_description") ?></p>
             </div>
 
@@ -120,7 +119,7 @@
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
-                    <p>
+                    <p class="action-title-desc-container">
                         <?php the_field("action_description") ?>
                     </p>
                 </div>

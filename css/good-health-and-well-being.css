@@ -71,6 +71,10 @@ body {
   color: #4C9F38;
 }
 
+.action-title-desc-container{
+  text-align: center;
+}
+
 
 .hero-title {
   position: absolute;
@@ -79,18 +83,23 @@ body {
   text-align: center;
   font-size: 18px;
   font-weight: bold;
-
 }
 
 
 @media only screen and (min-width: 1200px) {
   .item-group-2{
     margin-top: 200px;
+    padding-left: 40px;
   }
 
   .item-group-3 {
     margin-top: -200px;
   }
+
+  .item-group-4{
+    padding-left: 40px;
+  }
+
 }
 
 .hero-title h1,
