@@ -20,6 +20,10 @@ body {
   background-color: green;
 }
 
+.btn-cta {
+  background-color: #4C9F38;
+}
+
 .main-card-target {
   display: flex;
 }
