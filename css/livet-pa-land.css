@@ -29,6 +29,13 @@ h3 {
 }
 h2 {
     color: #707070 !important;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+
 }
 p{
     padding: 20px;
