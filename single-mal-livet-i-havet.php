@@ -43,7 +43,7 @@
                     <h1 id="yellowtekst">OUR TARGETS</h1>
                         <p>
                         <span id="yellowtekst">By 2025</span>, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution <br>
-                        
+                        <br>
 
                        <span id="yellowtekst">By 2020</span>, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans <br>
 
