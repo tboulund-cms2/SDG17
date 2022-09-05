@@ -3,7 +3,7 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="card-container">
-    <?php the_field("hero_picture") ?>" alt="">
+    <?php the_field("hero_picture") ?>
     </div>
 
     <?php endwhile ?>
