@@ -63,3 +63,8 @@ margin-left: -318px;
     margin-top: 50px;
     padding-top: 80px;
 }
+.target-one-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
