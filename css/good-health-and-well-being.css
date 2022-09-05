@@ -3,13 +3,10 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Oswald', sans-serif;
-
 }
 
 h2 {
   font-family: 'Oswald', sans-serif;
-  font-weight: 500;
 }
 
 p{
@@ -65,7 +62,7 @@ body {
 .main-info-grid-icon-box p {
   margin: 0;
   padding-left: 10px;
-  width: 56%;
+  width: 100%;
 }
 
 .action-section {
