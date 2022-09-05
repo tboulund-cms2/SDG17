@@ -50,9 +50,9 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful Image Custom Post Type 2 or not -->
             <div class="d-flex flex-wrap col-12 justify-content-between bottom-container">
-                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1">
-                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2">
-                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3">
+                <img class="my-4 my-md-0 col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1">
+                <img class="my-4 my-md-0 col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2">
+                <img class="my-4 my-md-0 col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3">
             </div>
             <button type="button" class="btn btn-warning d-sm-none">See all events</button>
         </div>
@@ -65,28 +65,28 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful News Custom Post Type -->
             <div class="d-flex flex-wrap py-4 col-md-12 justify-content-between bottom-container">
-                <div class="card py-4 py-md-0 col-12 col-md-6">
+                <div class="card my-4 my-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_1_image") ?>" alt="news1">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_1") ?> </p>
                     </div>
                 </div>
-                <div class="card py-4 py-md-0 col-12 col-md-6">
+                <div class="card my-4 my-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_2_image") ?>" alt="news2">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_2") ?> </p>
                     </div>
                 </div>
-                <div class="card py-4 py-md-0 col-12 col-md-6">
+                <div class="card my-4 my-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_3_image") ?>" alt="news3">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_3") ?> </p>
                     </div>
                 </div>
-                <div class="card py-4 py-md-0 col-12 col-md-6">
-                    <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_4_image") ?>" alt="news4">
+                <div class="card my-4 my-md-0 col-12 col-md-6">
+                    <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_2_image") ?>" alt="news4">
                     <div class="card-body">
-                        <p class="card-text"><?php the_field("highlighted_news_article_4") ?> </p>
+                        <p class="card-text"><?php the_field("highlighted_news_article_2") ?> </p>
                     </div>
                 </div>
             </div>
