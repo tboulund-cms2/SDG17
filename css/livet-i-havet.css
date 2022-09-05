@@ -12,10 +12,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-h3{
-    align-content: center;
- }
  
 #first-paragraph {
 background-image: url('img/background-1.jpeg');
@@ -31,6 +27,7 @@ background-size: cover;
 h3, h1, h2{
     text-align: center;
     line-height: 25px;
+    background-color: #E8B400;
  }
  p{
         line-height: 35px;
