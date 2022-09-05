@@ -41,8 +41,8 @@
 
 
     <!-- Actions Section - Rose -->
-    <div class="action-section container col-12">
-        <div class="row action-title-section col-12 mx-auto my-5">
+    <div class="action-section container">
+        <div class="row action-title-section col-12 d-flex justify-content-cente my-5">
             <h2>
                 <?php the_field("action_title") ?>
             </h2>
