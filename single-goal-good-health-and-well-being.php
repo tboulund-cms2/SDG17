@@ -44,6 +44,30 @@
                         <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
 
 
                 </div>
@@ -60,7 +84,7 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-6">
+                <div class="action-title-container col-6 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
@@ -68,7 +92,6 @@
                         <?php the_field("action_description") ?>
                     </p>
                 </div>
-                   
             </div>
         </div>
         <div class="row action-items-section d-flex flex-row flex-wrap ">
@@ -118,6 +141,7 @@
             </div>
         </div>
     </div>
+    <!--End of Actions Section - Rose -->
 
 
     <?php endwhile ?>

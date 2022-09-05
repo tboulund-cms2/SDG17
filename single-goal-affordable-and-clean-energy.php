@@ -28,8 +28,8 @@
                 <h2 class="col-4 col-md-12 py-2 px-0">Contributor - Be the One!</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
                 <p class="col-12 py-2"><?php the_field("contributors") ?> </p>
-                <a class="cta-link" href="<?php the_field("affordable_and_clean_energy_group") ?>">
-                    <p class="align-self-start cta-contribute">Contribute now >></p>
+                <a class="align-self-start cta-link" href="<?php the_field("affordable_and_clean_energy_group") ?>">
+                    <p class=" cta-contribute">Contribute now >></p>
                 </a>
             </div>
         </div>
