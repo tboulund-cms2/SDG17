@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php get_header()?>
 
     <?php while(have_posts()): the_post() ?>
