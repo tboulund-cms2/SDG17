@@ -102,7 +102,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 target-container">
+        <div class="col-8 target-container">
             <div class="col-6 target-left">
                 <div class="col-4">
                     <img class="target-image" src="<?php the_field("target_image_3") ?>" alt="">
