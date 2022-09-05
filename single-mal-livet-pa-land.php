@@ -66,7 +66,7 @@
                                                 </div>
                                                 <div class="col-8">
                                                     <h3 style="color: #707070; font-weight:900 ;"><?php the_field("title") ?></h3>
-                                                    <p style="color: #707070 ;"><?php the_field("text-field") ?></p>
+                                                    <p style="color: #707070 ; padding:100px;"><?php the_field("text-field") ?></p>
                                                 </div>
                                             </div>
 

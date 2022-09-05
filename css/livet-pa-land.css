@@ -102,6 +102,7 @@ h2 {
     height: 200px;
     justify-content: center;
     align-items: center;
+    color:#FFFFFF;
 }
 .subgoal.even {
     flex-direction: row-reverse;
