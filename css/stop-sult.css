@@ -1,11 +1,12 @@
 .stop-sult{
     background-color: rgba(217, 163, 0, 0.43); 
-
+    display: flex;
 }
 
 .overskrift {
     color: white; 
     font: small-caps;
+
 }
 
 .first {
