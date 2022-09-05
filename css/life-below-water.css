@@ -4,24 +4,20 @@
 }
 .headline-section{
     background-color: white;
-    color: #0A97D9;
     font-size: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 300px;
-    width: 90%;
     margin-top: 50px;
 }
 .headline-box{
     background-color: white;
-    color: #0A97D9;
     font-size: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 339px;
-    width: 100%;
 }
 img {
     object-fit: cover;
@@ -30,4 +26,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.text-color{
+    color: #0A97D9;
 }
