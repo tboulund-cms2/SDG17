@@ -19,10 +19,10 @@
 
     <div class="description">
         <div>
-            <p ><?php the_field("description-1") ?></p>
+            <p style="padding: 50px 150px 20px 150px;"><?php the_field("description-1") ?></p>
         </div>
         <div>
-            <p ><?php the_field("description-2") ?></p>
+            <p style="padding: 0px 150px 5px 150px;"><?php the_field("description-2") ?></p>
         </div>
         <div>
             <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
@@ -36,13 +36,13 @@
 
     <div class="second-description">
         <div class="description-3">
-            <p ><?php the_field("description-3") ?></p>
-            <p ><?php the_field("description-4") ?></p>
+            <p style="padding: 50px 150px 20px 150px;"><?php the_field("description-3") ?></p>
+            <p style="padding: 0px 150px 30px 150px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
                 <div id="groups" class="col-md-7 col-sm-12">
-                    <p >Del din mening!</p>
-                    <p >Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
+                    <p style="font-size:30px; font-weight:900 ;">Del din mening!</p>
+                    <p style="padding: 0px 150px 30px 150px;">Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
                     <a href="http://boulund.com/sdg17/groups/livet-pa-landet/members/all-members/">
                     <button class="button-34" role="button">BLIV EN DEL AF FÆLLESKABET!</button>
                     </a>
