@@ -3,7 +3,7 @@
 <?php while (have_posts()) : the_post() ?>
     <section id="banner-section" class="d-flex col-md-12 align-items-center justify-content-center info-background">
         <div class="d-flex col-md-8 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start banner-container">
-            <img src="" alt="" class="col-12 col-md-3">
+            <img src="<?php the_field("banner_image") ?>" alt="banner" class="col-12 col-md-3">
             <div class="d-flex col-12 col-md-9 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
                 <h1 id="banner-description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
             </div>
@@ -50,9 +50,9 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful Image Custom Post Type 2 or not -->
             <div class="d-flex flex-wrap col-12 justify-content-between bottom-container">
-                <img class="col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1">
-                <img class="col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2">
-                <img class="col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3">
+                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_1") ?>" alt="event1">
+                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_2") ?>" alt="event2">
+                <img class="py-4 py-md-0 col-12 col-md-4" src="<?php the_field("event_image_3") ?>" alt="event3">
             </div>
             <button type="button" class="btn btn-warning d-sm-none">See all events</button>
         </div>
@@ -65,22 +65,28 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful News Custom Post Type -->
             <div class="d-flex flex-wrap py-4 col-md-12 justify-content-between bottom-container">
-                <div class="card col-12 col-md-3">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_1_image") ?>" alt="news1">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_1") ?> </p>
                     </div>
                 </div>
-                <div class="card col-12 col-md-3">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_2_image") ?>" alt="news2">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_2") ?> </p>
                     </div>
                 </div>
-                <div class="card col-12 col-md-3">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_3_image") ?>" alt="news3">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_3") ?> </p>
+                    </div>
+                </div>
+                <div class="card py-4 py-md-0 col-12 col-md-6">
+                    <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_4_image") ?>" alt="news4">
+                    <div class="card-body">
+                        <p class="card-text"><?php the_field("highlighted_news_article_4") ?> </p>
                     </div>
                 </div>
             </div>
