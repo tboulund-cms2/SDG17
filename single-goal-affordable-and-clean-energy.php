@@ -65,25 +65,25 @@
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful News Custom Post Type -->
             <div class="d-flex flex-wrap py-4 col-md-12 justify-content-between bottom-container">
-                <div class="card col-12 col-md-6">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_1_image") ?>" alt="news1">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_1") ?> </p>
                     </div>
                 </div>
-                <div class="card col-12 col-md-6">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_2_image") ?>" alt="news2">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_2") ?> </p>
                     </div>
                 </div>
-                <div class="card col-12 col-md-6">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_3_image") ?>" alt="news3">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_3") ?> </p>
                     </div>
                 </div>
-                <div class="card col-12 col-md-6">
+                <div class="card py-4 py-md-0 col-12 col-md-6">
                     <img class="col-12 card-img-top" src="<?php the_field("highlighted_news_article_4_image") ?>" alt="news4">
                     <div class="card-body">
                         <p class="card-text"><?php the_field("highlighted_news_article_4") ?> </p>
