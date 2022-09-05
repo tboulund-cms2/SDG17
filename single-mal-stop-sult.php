@@ -7,11 +7,13 @@
 
 
     <div class="first">
-        <p> text </p>
+      
         <?php the_field("text") ?>
         <img class="image" src="<?php the_field("image") ?>" alt="">
     </div>
 
+    <div class="second">
+    </div>
     </div>
         
 
