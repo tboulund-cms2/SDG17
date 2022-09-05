@@ -66,7 +66,7 @@
                                                 </div>
                                                 <div id="subgoal-text" class="col-8">
                                                     <h3 style="color: #707070 !important; font-weight:900 ;"><?php the_field("title") ?></h3>
-                                                    <p style="color: #707070 ; padding:100px;"><?php the_field("text-field") ?></p>
+                                                    <p style="color: #707070 ; padding-right:100px; padding-left:100px;"><?php the_field("text-field") ?></p>
                                                 </div>
                                             </div>
 
