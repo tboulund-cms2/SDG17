@@ -4,13 +4,17 @@
     <!-- start by Jianming -->
     <div class="row navbar">        
             <div class="logo-box col-2">                
-                <div class="square-logo py-2">
+                <div class="square-logo">
                     <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
                 </div>
             </div>
         </div>
 
     <!-- Actions Section - Leifur -->
+
+    <div class="call-to-action">
+        <a href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/"><h1>CALL TO ACTION</h1></a>
+    </div>
 
     <div class="target-section-container">
         <div class="main-card-target">
@@ -42,7 +46,7 @@
 
     <!-- Actions Section - Rose -->
     <div class="action-section container">
-        <div class="row action-title-section col-12 d-flex justify-content-center align-items-center my-5">
+        <div class="row action-title-section">
             <h2>
                 <?php the_field("action_title") ?>
             </h2>
