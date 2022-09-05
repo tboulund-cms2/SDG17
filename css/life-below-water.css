@@ -2,7 +2,7 @@
     background-color: cyan;
     background: linear-gradient(#0A97D9, #0C558D);
 }
-.headline-section{
+#headline-section{
     background-color: white;
     font-size: 40px;
     display: flex;
@@ -27,6 +27,10 @@ img {
     justify-content: center;
     align-items: center;
 }
-.text-color{
-    color: #0A97D9;
+.text-color h1{
+    color: #0A97D9 !important;
+}
+
+.text-color h2{
+    color: #B6DBF7 !important;
 }
