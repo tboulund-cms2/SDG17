@@ -10,7 +10,7 @@
             </div>
         </div>
         
-    <div class="row hero-section d-flex flex-row flex-wrap"> 
+    <div class="hero-section"> 
         <div class="hero-image col-12">
             <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
                 <div class="row hero-title d-flex flex-row flex-wrap">
@@ -21,6 +21,7 @@
                 </div>
         </div>
     </div>
+    
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
@@ -43,6 +44,63 @@
                         <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+
+
+                </div>
+
+                <div class="main-info-grid-icon">
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
+                    <div class="main-info-grid-icon-box">
+                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <p><?php the_field("small_icon_text") ?></p>
+                    </div>
 
 
                 </div>
@@ -59,7 +117,7 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-6">
+                <div class="action-title-container col-6 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
@@ -67,7 +125,6 @@
                         <?php the_field("action_description") ?>
                     </p>
                 </div>
-                   
             </div>
         </div>
         <div class="row action-items-section d-flex flex-row flex-wrap ">
@@ -117,6 +174,7 @@
             </div>
         </div>
     </div>
+    <!--End of Actions Section - Rose -->
 
 
     <?php endwhile ?>
