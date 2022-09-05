@@ -50,6 +50,47 @@
                 </section>
         
 
+                <section id="targets-section" class="col-12">
+                    <div class="col-12">
+                         <h2><?php the_field("headline") ?></h2>
+                    </div>
+                    <div class="col-6 target-one-left">
+                            <div class="col-4">
+                                <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
+                            </div>
+                            <div class="col-8">
+                                <div class="col"></div>
+                                <div class="col-10 target-box">
+                                    <div class="col-12 target-box-headline">
+                                        <?php the_field("target_headline") ?>
+                                    </div>
+                                    <div class="col-12 target-box-description">
+                                        <?php the_field("target_description") ?>  
+                                    </div>
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                    </div>
+
+                    <div class="col-6 target-one-right">
+                            <div class="col-4">
+                                <img class="target-image" src="<?php the_field("target_image_2") ?>" alt="">
+                            </div>
+                            <div class="col-8">
+                                <div class="col"></div>
+                                <div class="col-10 target-box">
+                                    <div class="col-12 target-box-headline">
+                                        <?php the_field("target_headline_2") ?>
+                                    </div>
+                                    <div class="col-12 target-box-description">
+                                        <?php the_field("target_description_2") ?>  
+                                    </div>
+                                </div>
+                                <div class="col"></div>
+                            </div>
+                    </div>
+                </section>
+
     <?php endwhile ?>
     
 <?php get_footer(); ?>
