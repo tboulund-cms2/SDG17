@@ -8,7 +8,7 @@
 
     <div class="first">
       
-        <?php the_field("text") ?>
+       <p><?php the_field("text") ?></p> 
         <img class="image" src="<?php the_field("image") ?>" alt="">
     </div>
 
