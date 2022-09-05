@@ -93,8 +93,6 @@ body {
 
 .hero-title h1,
 .hero-subtitle h3{
-  position: absolute;
-  width: 100vw;
-  text-align: center;
+
   color: #EAEAEA;
 }
