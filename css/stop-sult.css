@@ -16,7 +16,8 @@
 .tekst {
     display: flex;
     flex-direction: column;
-    
+    text-align: justify;
+    margin: 50px;
 }
 
 .first {
@@ -40,4 +41,5 @@
 
 .image {
     height: 400px;
+    margin: 10px;
 }
