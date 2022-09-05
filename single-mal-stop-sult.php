@@ -3,9 +3,10 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="stop-sult">
-    <h1>STOP SULT</h1>
+    <h1 class="overskrift">STOP SULT</h1>
     <div class="first">
         <p> text </p>
+        <?php the_field("text") ?>
     </div>
 
     </div>
