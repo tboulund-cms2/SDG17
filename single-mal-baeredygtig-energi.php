@@ -5,6 +5,8 @@
         <section class="banner">
             <div class="col-sm-12 backgroundimg" style="background-image: url(<?php the_field("banner") ?>)">
                 <h1>Bæredygtig energi</h1>
+                <button class="mål"><p>Mål for bæredygtig energi</p></button>
+                <button class="forum"><p>Verdensmålets forum</p></button>
             </div>
         </section>
         <section class="info1"></section>
