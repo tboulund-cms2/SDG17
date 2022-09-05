@@ -140,6 +140,7 @@
             </div>
         </div>
     </div>
+    <!--End of Actions Section - Rose -->
 
 
     <?php endwhile ?>
