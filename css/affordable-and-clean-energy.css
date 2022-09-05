@@ -9,9 +9,11 @@ img {
 
 #banner-description {
     color: white;
-    font-weight: 700;
 }
 
+#banner-description h2 {
+    font-weight: 700;
+}
 
 .info-background {
     background: #fcb913;
@@ -48,7 +50,13 @@ img {
     min-height: 50vh;
 }
 
+.cta-link {
+    text-decoration: none;
+}
 
+.cta-contribute {
+    color: #fcb913;
+}
 
 #signup-section {
     min-height: 25vh;

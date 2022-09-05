@@ -4,8 +4,8 @@
     <section id="banner-section" class="d-flex col-md-12 align-items-center justify-content-center info-background">
         <div class="d-flex col-md-10 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start banner-container">
             <img src="<?php the_field("banner_image") ?>" alt="banner" class="col-12 col-md-3">
-            <div class="d-flex col-12 col-md-9 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
-                <h1 id="banner-description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
+            <div class="d-flex col-12 col-md-9 col-xl-6 justify-content-center px-4 banner-text text-center text-md-start">
+                <h1 id="banner-description" class="col-10 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
             </div>
         </div>
     </section>
@@ -14,7 +14,7 @@
             <!-- Convert this to Image Custom Post Type 1-->
             <img class="col-12 col-md-6" src="<?php the_field("overview_image") ?>" alt="overview">
             <div class="d-flex col-10 col-md-5 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
-                <h2 class="col-4 col-md-12 px-0 py-4">Overview</h2>
+                <h2 class="col-4 col-md-12 px-0 py-2">Overview</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
                 <p class="col-12 py-2"><?php the_field("overview") ?> </p>
             </div>
@@ -25,9 +25,12 @@
             <!-- Convert this to Image Custom Post Type 1-->
             <img class="col-12 col-md-6" src="<?php the_field("contributors_image") ?>" alt="contribution">
             <div class="d-flex col-10 col-md-6 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
-                <h2 class="col-4 col-md-12 py-4 px-0">Contributor - Be the One!</h2>
+                <h2 class="col-4 col-md-12 py-2 px-0">Contributor - Be the One!</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
                 <p class="col-12 py-2"><?php the_field("contributors") ?> </p>
+                <a class="cta-link" href="<?php the_field("affordable_and_clean_energy_group") ?>">
+                    <p class="align-self-start cta-contribute">Contribute now >></p>
+                </a>
             </div>
         </div>
     </section>
