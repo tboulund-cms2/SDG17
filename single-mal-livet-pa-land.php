@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col">
                     
-                <button class="button-34" role="button">Join the community here!</button>
+                <button class="button-34" role="button">JOIN THE COMMUNITY HERE!</button>
 
                 </div>
                 <div class="col">
