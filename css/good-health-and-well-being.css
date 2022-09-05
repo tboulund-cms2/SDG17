@@ -63,4 +63,8 @@ body {
   .item-group-2{
     margin-top: 200px;
   }
+
+  .item-group-3 {
+    margin-top: -200px;
+  }
 }

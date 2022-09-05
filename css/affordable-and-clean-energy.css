@@ -21,6 +21,15 @@ img {
     font-weight: 700;
 }
 
+.info-background p {
+    font-weight: 400;
+}
+
+.info-background h2 {
+    color: white;
+    font-weight: 700;
+}
+
 
 .banner-container {
     min-height: 20vh;
