@@ -108,7 +108,7 @@ h2 {
     
 }
 
-#greenbox {
+.greenbox {
     background-color: #65B03D;
     display: flex;
     justify-content: center;
@@ -117,6 +117,10 @@ h2 {
     border-radius: 0px 100px 100px 00px;
 }
 
-#greenbox.odd {
+.greenbox.even {
     border-radius: 100px 0px 0px 100px;
+}
+
+#subgoal-text {
+    background-color: #FFFFFF !important;
 }

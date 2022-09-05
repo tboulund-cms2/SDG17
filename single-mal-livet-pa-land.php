@@ -61,10 +61,10 @@
                                 <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
                                     <?php $class = ($i % 2 == 0) ? "odd" : "even" ?>
                                             <div class="subgoal <?php echo $class; ?>">
-                                                <div id="greenbox" class="col-4">
+                                                <div class="greenbox col-4">
                                                 <img src="<?php the_field("icon") ?>" alt="">
                                                 </div>
-                                                <div style="color:#FFFFFF ;" class="col-8">
+                                                <div id="subgoal-text" class="col-8">
                                                     <h3 style="color: #707070; font-weight:900 ;"><?php the_field("title") ?></h3>
                                                     <p style="color: #707070 ; padding:100px;"><?php the_field("text-field") ?></p>
                                                 </div>
