@@ -15,4 +15,5 @@ body{
 
 h3, h1, h2{
    text-align: center;
+   line-height: 10px;
 }
