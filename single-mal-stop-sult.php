@@ -17,6 +17,11 @@
     <p><?php the_field("text-2") ?></p> 
        
     </div>
+
+    <div class="third">
+    <p><?php the_field("text-3") ?></p> 
+        <img class="image" src="<?php the_field("image-3") ?>" alt="">
+    </div> 
     </div>
         
 
