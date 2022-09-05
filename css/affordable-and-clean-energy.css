@@ -50,7 +50,9 @@ img {
     min-height: 50vh;
 }
 
-
+.cta-contribute {
+    color: #fcb913;
+}
 
 #signup-section {
     min-height: 25vh;

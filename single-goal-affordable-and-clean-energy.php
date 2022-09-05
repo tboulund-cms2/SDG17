@@ -28,6 +28,7 @@
                 <h2 class="col-4 col-md-12 py-2 px-0">Contributor - Be the One!</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
                 <p class="col-12 py-2"><?php the_field("contributors") ?> </p>
+                <p class="cta-contribute">Contribute now >></p>
             </div>
         </div>
     </section>
