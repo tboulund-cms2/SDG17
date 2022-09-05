@@ -31,13 +31,16 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
             <div class="row">
                 
            <div class="col-1"><p>6.1</p></div> 
-           <div class="col-5 col-sm-11"><p>Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p></div>
+           <div class="col-5 col-sm-11">
+            <p>Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p></div>
 
            <div class="col-1"></div> 
-           <div class="col-5 col-sm-11"></div> 
+           <div class="col-5 col-sm-11">
+            <p>Inden 2030 skal der opnås lige adgang til egnet sanitet og hygiejne for alle, og ordentlige toilet forhold for alle, med særlig opmærksomhed på kvinder og pigers behov, og på mennesker i sårbare situationer.</p></div> 
 
            <div class="col-1"></div> 
-           <div class="col-5 col-sm-11"></div>
+           <div class="col-5 col-sm-11">
+            <p>Inden 2030 skal vandkvaliteten forbedres ved at reducere forurening, afskaffe affaldsdumping og minimere udslip af farlige kemikalier og materialer, og halvere andelen af ubehandlet spildevand og væsentligt øge genanvendelse og sikker genbrug globalt.</p></div>
 
            <div class="col-1"></div> 
            <div class="col-5 col-sm-11"></div>
