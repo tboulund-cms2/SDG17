@@ -13,6 +13,7 @@ body{
     background-size: cover;
 }
 
+<<<<<<< HEAD
 h3{
     align-content: center;
  }
@@ -20,3 +21,9 @@ h3{
 #first-paragraph {
 background-image: url('img/hero.jpg');
 }
+=======
+h3, h1, h2{
+   text-align: center;
+   line-height: 10px;
+}
+>>>>>>> d03e86d600ad64e6d8aec37c3876819c3a7ea832
