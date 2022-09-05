@@ -14,7 +14,7 @@
             <div class="hero-image col-12">
                 <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>   
                     <div class="row">                             
-                        <div class="hero-text">
+                        <div class="hero-text d-flex">
                             <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                             <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
                         </div>
