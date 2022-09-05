@@ -1,10 +1,6 @@
 <?php get_header()?>
     <?php while(have_posts()): the_post(); ?>
 
-
-
-
-
     <!-- Actions Section - Leifur -->
 
     <div class="target-section-container">
@@ -93,13 +89,7 @@
         </div>
     </div>
 
-        
 
-
-
-    <!-- End of Actions Section - Rose -->
-
-    
     <?php endwhile ?>
 
 <?php get_footer(); ?>
