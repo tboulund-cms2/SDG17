@@ -17,7 +17,7 @@
 
     </div>
 
-    <div style="padding: 30px ;" class="description">
+    <div class="description">
         <div>
             <p><?php the_field("description-1") ?></p>
         </div>
@@ -35,7 +35,7 @@
     </div>
 
     <div class="second-description">
-        <div style="padding:30px;" class="description-3">
+        <div class="description-3">
             <p><?php the_field("description-3") ?></p>
             <p><?php the_field("description-4") ?></p>
         </div>

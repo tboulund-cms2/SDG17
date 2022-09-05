@@ -7,10 +7,10 @@
                 <h2><?php the_title() ?></h2>
             </div>
             <div class="col-8">
-                <?php the_field("description") ?>
+                <?php the_field("#") ?>
             </div>
             <div class="col-3">
-                <img class="img-fluid rounded" src="<?php the_field("cover") ?>" alt="cover">
+                <img class="img-fluid rounded" src="<?php the_field("#") ?>" alt="#">
                 <div class="my-3">
                     <?php get_template_part("template-parts/ratings", null, array("rating" => get_field("rating"))) ?>
                 </div>
