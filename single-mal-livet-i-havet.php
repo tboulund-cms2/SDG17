@@ -7,7 +7,7 @@
     </div>
     <div id="hero">
          <div class="hero-tekst">
-            <h1>14</h1>
+            <h1 id="yellowtekst">14</h1>
               <h2>Conserve and sustainably use the oceans, <br>
                seas and marine resources for sustainable development</h2> 
          </div>
