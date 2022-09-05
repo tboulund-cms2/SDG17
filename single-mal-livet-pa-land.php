@@ -40,7 +40,11 @@
             <p style="padding: 0px 150px 30px 150px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
-                <div class="col"></div>
+                <div class="col">
+                    
+                <button class="button-34" role="button">Join the community here!</button>
+
+                </div>
                 <div class="col">
                     <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
                 </div>
