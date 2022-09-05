@@ -140,7 +140,7 @@
             </div>
             <div class="item-group-2 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-2">
-                    <?php echo wp_get_attachment_image(338, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_2") ?>" alt="Register in Donors Registry">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_2") ?>
@@ -151,7 +151,7 @@
             </div>
             <div class="item-group-3 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-3">
-                    <?php echo wp_get_attachment_image(339, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_3") ?>" alt="Get Vaccinate">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_3") ?>
