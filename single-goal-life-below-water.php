@@ -2,7 +2,7 @@
 
     <?php while(have_posts()): the_post() ?>
 
-    Hello
+
         <div class="container">
             <div class="row">
                 <section class="part_1">
