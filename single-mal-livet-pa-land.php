@@ -41,7 +41,7 @@
         </div>
             <div class="row">
                 <div id="groups" class="col">
-                    <p style="font-weight:500px ;">Del din mening!</p>
+                    <p style="font-weight:500 ;">Del din mening!</p>
                     <p>Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
                     <button class="button-34" role="button">BLIV EN DEL AF FÆLLESKABET!</button>
 
