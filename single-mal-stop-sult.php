@@ -13,7 +13,9 @@
     </div>
 
     <div class="second">
-        
+    <img class="image" src="<?php the_field("image-2") ?>" alt="">
+    <p><?php the_field("text-2") ?></p> 
+       
     </div>
     </div>
         
