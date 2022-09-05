@@ -91,4 +91,15 @@ body {
     margin-top: -200px;
   }
 }
+<<<<<<< HEAD
 >>>>>>> 089fcb61d08dfa9ce1aa8b698f12731af895389f
+=======
+
+.hero-title {
+  position: absolute;
+  width: 100vw;
+  text-align: center;
+  font-size: 18px;
+  color: #EAEAEA;
+}
+>>>>>>> 1b117b248be33ca58cad5295db73f5b6aa3c80ed
