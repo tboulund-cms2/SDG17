@@ -24,7 +24,7 @@
 
                
                 
-                <section id="quote-section">
+                <section id="quote-section" class="col-12">
                     <div class="col-12 quote-up">
                             <div class="col-3"></div>
                             <div class="col-6 text-color">
@@ -45,7 +45,6 @@
                 </section>
 
                 <section class="part_3">
-                    <div class="col-12">
                             <img class="informative-image" src="<?php the_field("informative_image") ?>" alt="">
                     </div>
                 </section>
