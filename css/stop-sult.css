@@ -13,14 +13,31 @@
     
 }
 
-.p {
+.tekst {
     display: flex;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
 }
 
 .first {
     color: white;
     display: flex;
+    margin-top: 50px;
     
+}
+
+.second {
+    color: white;
+    display: flex;
+    margin-top: 50px;
+}
+
+.third {
+    color: white;
+    display: flex;
+    margin-top: 50px;
+}
+
+.image {
+    height: 300px;
 }

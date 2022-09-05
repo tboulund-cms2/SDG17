@@ -11,12 +11,16 @@
 .banner {
     width: 100vw;
     height: 89vh;
-    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .backgroundimg {
     width: 100%;
     height: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 h1 {
