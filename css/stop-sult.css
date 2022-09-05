@@ -1,14 +1,20 @@
 .stop-sult{
     background-color: rgba(217, 163, 0, 0.43); 
-
+    
 }
 
+.first {
+    display: flex;
+    flex-direction: column;
+}
 .overskrift {
     color: white; 
     font: small-caps;
+    
 }
 
 .first {
     color: white;
+    display: flex;
     
 }
