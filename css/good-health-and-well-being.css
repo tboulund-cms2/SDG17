@@ -138,8 +138,8 @@ body {
 }
 
 .hero-section-container {
-  display: inline-block;
-  margin-top: 25px;
+  
+ 
   position: relative;  
 }
 
@@ -147,6 +147,7 @@ body {
   position: absolute;
   top:0;
   left:0;
+  text-align: center;
 }
 
 
