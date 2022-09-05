@@ -4,11 +4,16 @@ body{
 
 
 #hero {
-    background-image: url('');
+    background-image: url('img/hero.jpg');
     background-size: 100vh;
     background-position: center;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+h3, h1, h2{
+   text-align: center;
+   line-height: 10px;
 }
