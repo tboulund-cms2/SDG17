@@ -43,31 +43,31 @@
             <div class="box-container-for-icons">
                 <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
 
@@ -76,31 +76,31 @@
 
                 <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
                     <div class="main-info-grid-icon-box">
-                        <?php echo wp_get_attachment_image(375, array('40', '40')); ?>
+                        <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
                     </div>
 
