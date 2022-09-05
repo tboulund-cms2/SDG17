@@ -71,6 +71,10 @@ body {
   color: #4C9F38;
 }
 
+.action-title-desc-container{
+  text-align: center;
+}
+
 
 .hero-title {
   position: absolute;
