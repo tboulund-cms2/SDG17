@@ -10,14 +10,14 @@
             <div class="col-4">
                 <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
-            <div class="col-8">
+            <div style="padding-top:30px ;" class="col-8">
                 <h3><?php the_field("intro-text") ?></h3>
             </div>
         </div>
 
     </div>
 
-    <div class="description">
+    <div style="padding: 30px ;" class="description">
         <div>
             <p><?php the_field("description-1") ?></p>
         </div>
@@ -35,7 +35,7 @@
     </div>
 
     <div class="second-description">
-        <div class="description-3">
+        <div style="padding:30px;" class="description-3">
             <p><?php the_field("description-3") ?></p>
             <p><?php the_field("description-4") ?></p>
         </div>
