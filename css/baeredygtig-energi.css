@@ -31,6 +31,10 @@ h1 {
 .btns {
     height: 40%;
     width: 50%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
 }
 
 .mål {
