@@ -50,12 +50,6 @@
     </section>
 
 
-
-
-
-
-    
-
     <section id="targets-section" class="col-8">
         <div class="col-12">
             <h2><?php the_field("headline") ?></h2>
