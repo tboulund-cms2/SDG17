@@ -108,25 +108,18 @@ h2 {
     flex-direction: row-reverse;
     
 }
-#greenbox.col-4.even {
+#greenbox {
     background-color: #62b03b;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100% ;
-    border-radius: 0px 100px 100px 0px;
+    
     }
 
 
 
-    #greenbox.col-4.odd {
-    background-color: #62b03b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100% ;
-    border-radius: 100px 0px 0px 100px;
-    }
+  
 
 
 
