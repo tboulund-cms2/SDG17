@@ -46,13 +46,15 @@
 
     <!-- Actions Section - Rose -->
     <div class="action-section container">
-        <div class="row action-title-section">
-            <h2>
-                <?php the_field("action_title") ?>
-            </h2>
-            <p>
-                <?php the_field("action_description") ?>
-            </p>
+        <div class="row action-title-section col-12 d-flex justify-content-center align-items-center my-5">
+            <div class="col">
+                    <h2>
+                        <?php the_field("action_title") ?>
+                    </h2>
+                    <p>
+                        <?php the_field("action_description") ?>
+                    </p>
+            </div>
         </div>
         <div class="row action-items-section d-flex flex-row flex-wrap ">
             <div class="item-group-1 mb-5 col-12 col-xl-6">
