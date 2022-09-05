@@ -36,7 +36,7 @@ img {
 }
 
 .text-container h2 {
-    background: #fcb913;
+    color: #fcb913;
 }
 
 .image-text-container img {
@@ -71,7 +71,7 @@ img {
 
 .top-container {
     height: 10vh;
-    background: #fcb913;
+    color: #fcb913;
 }
 
 .top-container button {
