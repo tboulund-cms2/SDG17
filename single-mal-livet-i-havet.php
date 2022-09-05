@@ -74,7 +74,7 @@
                     </div>
 
                         <div class="bottom">
-                            <p class="bottom">To the top</p>
+                            <p class="bottomtekst">To the top</p>
                         </div>
 
     <?php endwhile ?>
