@@ -55,13 +55,12 @@ h3, h1, h2{
  }
 
  .last-picture{
-float: left;
+
     
  }
 
  .last-picture img {
-    float: left;
-    width: 100%;
+  
 }
     
 
