@@ -1,3 +1,6 @@
+<?php get_header()?>
+
+    <?php while(have_posts()): the_post() ?>
 
 <div class="container">
 
@@ -7,7 +10,7 @@
             <div class="col-4">
                 <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
-            <div class="col-8">
+            <div style="padding:30px 50px 30px 50px ;" class="col-8">
                 <h3><?php the_field("intro-text") ?></h3>
             </div>
         </div>
@@ -16,10 +19,10 @@
 
     <div class="description">
         <div>
-            <p><?php the_field("description-1") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-1") ?></p>
         </div>
         <div>
-            <p><?php the_field("description-2") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-2") ?></p>
         </div>
         <div>
             <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
@@ -33,8 +36,8 @@
 
     <div class="second-description">
         <div class="description-3">
-            <p><?php the_field("description-3") ?></p>
-            <p><?php the_field("description-4") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-3") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
                 <div class="col"></div>
@@ -45,6 +48,7 @@
     </div>
 
     <div class="small-goals">
+        <h2>VERDENSMÅL 15 I DELMÅL OG INDIKATORER</h2>
                                 <?php $loop = new WP_Query(array("post_type" => "livetpåland-goals", "posts_per_page" => -1)) ?>
                                     <?php while($loop->have_posts()): $loop->the_post() ?>
                                             <div>
@@ -70,3 +74,7 @@
     </div>
 
 </div>
+
+<?php endwhile ?>
+
+<?php get_footer(); ?>

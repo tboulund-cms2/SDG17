@@ -1,7 +1,9 @@
 
 
+
 .container {
-    background-color: #EEEEEE;
+    --bs-gutter-x: 0rem !important;
+    max-width: 100% !important;
 }
 
 .intro {
@@ -10,10 +12,41 @@
 }
 
 .description{
-    color: #707070;
+    color: #707070 !important;
 }
 
 .second-description {
     background-color: #537B4C;
     color: #FFFFFF;
+}
+
+.image {
+    background-image: cover;
+}
+
+h3 {
+    color: #FFFFFF !important;
+}
+h2 {
+    color: #707070 !important;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    padding-left: 30px;
+
+}
+
+
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 60px;
 }
