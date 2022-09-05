@@ -5,7 +5,7 @@
         <div class="d-flex col-md-8 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start banner-container">
             <img src="" alt="" class="col-12 col-md-3">
             <div class="d-flex col-12 col-md-6 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
-                <h1 id="banner_description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
+                <h1 id="banner-description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
             </div>
         </div>
     </section>
@@ -17,23 +17,6 @@
                 <h2 class="col-4 col-md-12 py-4">Overview</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
                 <p class="col-12 py-2"><?php the_field("overview") ?> </p>
-                <!--    <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolores quas voluptatem,
-                    eveniet officia hic excepturi non labore provident numquam corporis?
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p> -->
             </div>
         </div>
     </section>
@@ -45,24 +28,7 @@
             <div class="d-flex col-10 col-md-6 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
                 <h2 class="col-4 col-md-12 py-4">Contributor - Be the One!</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
-                <!-- <p class="col-12 py-2"><?php the_field("contribution_description") ?> </p> -->
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolores quas voluptatem,
-                    eveniet officia hic excepturi non labore provident numquam corporis?
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p>
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptas rem deserunt repellat laborum sapiente fugit,
-                    nam odit aperiam dolore
-                </p>
+                <p class="col-12 py-2"><?php the_field("contributors") ?> </p>
             </div>
         </div>
     </section>
@@ -79,7 +45,7 @@
             </p>
             <div class="d-flex py-4 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
                 <input type="email" class="col-12 py-2" placeholder="email address">
-                <button type="button" class="col-12 col-lg-4 col-xl-4 col-xxl-3 py-2 btn btn-dark mx-md-2">Get In</button>
+                <button type="button" class="col-12 col-lg-5 col-xl-5 col-xxl-4 py-2 btn btn-dark mx-md-2">Get In</button>
             </div>
         </div>
     </section>

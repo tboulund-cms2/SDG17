@@ -2,11 +2,12 @@ img {
     object-fit: cover;
 }
 
+
 #banner-section {
     min-height: 30vh;
 }
 
-#banner-section .info-background #banner-description {
+#banner-description {
     color: white;
     font-weight: 700;
 }
