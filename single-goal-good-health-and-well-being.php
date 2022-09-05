@@ -129,7 +129,7 @@
         <div class="row action-items-section d-flex flex-row flex-wrap ">
             <div class="item-group-1 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-1">
-                    <?php echo wp_get_attachment_image(337, array('565', '375.55')); ?>
+                     <img class="action-item-image" src="<?php the_field("action_item_image_1") ?>" alt="Support Goal 3 Charity">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_1") ?>
