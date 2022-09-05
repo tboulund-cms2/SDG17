@@ -2,6 +2,7 @@
 
 .container {
     background-color: #EEEEEE;
+    
 }
 
 .intro {
@@ -16,4 +17,8 @@
 .second-description {
     background-color: #537B4C;
     color: #FFFFFF;
+}
+
+.image {
+    background-image: cover;
 }

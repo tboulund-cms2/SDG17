@@ -91,7 +91,8 @@ body {
   }
 }
 
-.hero-title h1{
+.hero-title h1,
+.hero-wubtitle h3{
   position: absolute;
   width: 100vw;
   text-align: center;
