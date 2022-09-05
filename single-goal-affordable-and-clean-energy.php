@@ -39,7 +39,7 @@
             <h2 id="banner_description" class="px-0 py-4">Be Up To Date</h2>
             <!-- Convert this to Text Custom Post Type 2-->
             <p class="col-12"><?php the_field("newsletter") ?> </p>
-            <div class="d-flex px-0 py-2 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
+            <div class="d-flex px-0 py-2 pb-4 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
                 <input type="email" class="col-12 py-2" placeholder="email address">
                 <button type="button" class="col-12 col-lg-5 col-xl-5 col-xxl-4 py-2 btn btn-dark mx-md-2">Get In</button>
             </div>
@@ -63,7 +63,7 @@
     <section id="news-section" class="d-flex col-md-12 py-4 align-items-center justify-content-center">
         <div class="d-flex flex-column col-12 col-md-8 align-items-center news-container">
             <div class="d-flex col-md-12 justify-content-between align-items-center top-container">
-                <h2 class="col-md-3">News</h2>
+                <h2 class="col-md-3 px-0">News</h2>
                 <button type="button" class="btn btn-warning d-none d-md-inline">See all news</button>
             </div>
             <!--Inside this div, we probably want a loop getting our beautiful News Custom Post Type -->
