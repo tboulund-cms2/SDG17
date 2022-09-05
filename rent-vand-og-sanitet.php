@@ -30,8 +30,8 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
          <div class=container>
             <div class="row">
                 
-           <div class="col-1"></div> 
-           <div class="col-5 col-sm-11"></div>
+           <div class="col-1"><p>6.1</p></div> 
+           <div class="col-5 col-sm-11"><p>Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p></div>
 
            <div class="col-1"></div> 
            <div class="col-5 col-sm-11"></div> 
