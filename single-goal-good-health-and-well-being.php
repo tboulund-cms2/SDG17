@@ -36,7 +36,6 @@
         <div class="main-info-grid">
             <div class="main-info-grid-title">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                <img src="<?php the_field("small_icon_image") ?>" alt="">
                 <p><?php the_field("target_description") ?></p>
             </div>
 
@@ -116,11 +115,11 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-6">
+                <div class="action-title-container col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
-                    <p>
+                    <p class="action-title-desc-container">
                         <?php the_field("action_description") ?>
                     </p>
                 </div>
@@ -130,7 +129,7 @@
         <div class="row action-items-section d-flex flex-row flex-wrap ">
             <div class="item-group-1 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-1">
-                    <?php echo wp_get_attachment_image(337, array('565', '375.55')); ?>
+                     <img class="action-item-image" src="<?php the_field("action_item_image_1") ?>" alt="Support Goal 3 Charity">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_1") ?>
@@ -141,7 +140,7 @@
             </div>
             <div class="item-group-2 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-2">
-                    <?php echo wp_get_attachment_image(338, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_2") ?>" alt="Register in Donors Registry">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_2") ?>
@@ -152,7 +151,7 @@
             </div>
             <div class="item-group-3 mb-5 col-12 col-xl-6">
                 <div class="item-image item-image-3">
-                    <?php echo wp_get_attachment_image(339, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_3") ?>" alt="Get Vaccinate">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_3") ?>
@@ -163,7 +162,7 @@
             </div>
             <div class="item-group-4 col-12 col-xl-6">
                 <div class="item-image item-image-4">
-                    <?php echo wp_get_attachment_image(340, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_4") ?>" alt="Donate Blood">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_4") ?>
