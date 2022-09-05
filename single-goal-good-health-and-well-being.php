@@ -162,7 +162,7 @@
             </div>
             <div class="item-group-4 col-12 col-xl-6">
                 <div class="item-image item-image-4">
-                    <?php echo wp_get_attachment_image(340, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_4") ?>" alt="Donate Blood">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_4") ?>
