@@ -1,7 +1,6 @@
 img {
     object-fit: cover;
-    border-top-left-radius: var(--bs-card-inner-border-radius);
-    border-top-right-radius: var(--bs-card-inner-border-radius);
+    border-radius: 5px;
 }
 
 
