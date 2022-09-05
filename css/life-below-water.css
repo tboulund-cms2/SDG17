@@ -63,6 +63,11 @@ margin-left: -318px;
     margin-top: 50px;
     padding-top: 80px;
 }
+.target-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .target-one-left{
     display: flex;
     justify-content: center;
