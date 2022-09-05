@@ -69,7 +69,6 @@ body {
   color: #4C9F38;
 }
 
-<<<<<<< HEAD
 .hero-title {
   position: absolute;
   top: 50%;
@@ -79,7 +78,6 @@ body {
   font-weight: bold;
 
 }
-=======
 
 
 @media only screen and (min-width: 1200px) {
@@ -91,4 +89,3 @@ body {
     margin-top: -200px;
   }
 }
->>>>>>> 089fcb61d08dfa9ce1aa8b698f12731af895389f
