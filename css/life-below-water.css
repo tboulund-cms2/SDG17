@@ -1,7 +1,18 @@
 .headline-section{
     background-color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 339px;
+    width: 100%;
+}
+.headline-box{
+    background-color: white;
     color: #0A97D9;
     font-size: 40px;
+    display: flex;
+    justify-content: center;
     align-items: center;
     height: 339px;
     width: 100%;
