@@ -130,13 +130,9 @@ h2 {
 
 
 
-    @media screen and (min-width: 500px) {
-        p {
-            padding: 30px !important;
-        }
-
-        #greenbox {
-            display: none;
+    @media screen and (max-width: 500px) {
+        body {
+          background-color: olive;
         }
       }
     
