@@ -12,7 +12,9 @@
                seas and marine resources for sustainable development</h2> 
          </div>
          </div>
-    <div class="col-sm-3"></div>
+    <div class="col-sm-3">
+        <img src="/img/acidification.jpg">
+    </div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
