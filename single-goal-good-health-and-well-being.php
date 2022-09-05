@@ -59,7 +59,7 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-6">
+                <div class="action-title-container col-6 justify-content-center align-items-center">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
@@ -67,7 +67,6 @@
                         <?php the_field("action_description") ?>
                     </p>
                 </div>
-                   
             </div>
         </div>
         <div class="row action-items-section d-flex flex-row flex-wrap ">
