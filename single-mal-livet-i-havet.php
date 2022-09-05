@@ -11,7 +11,11 @@
               <h2>Conserve and sustainably use the oceans, <br>
                seas and marine resources for sustainable development</h2> 
          </div>
-
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
             <div class="first paragraph">
                 <h3>OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>
