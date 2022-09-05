@@ -23,10 +23,8 @@
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
-    <a href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/">
-        <h1>CALL TO ACTION</h1>
-    </a>
-</div>
+        <a class="btn btn-cta disabled" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/"> </a>
+    </div>
 
 <div class="target-section-container">
     <div class="main-card-target">
