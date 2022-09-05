@@ -36,11 +36,17 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200px;
+    height: 500px;
     margin-top: 50px;
 }
-.quote-box{
+.quote-up{
     font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote-down{
+    font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
