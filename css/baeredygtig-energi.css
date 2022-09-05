@@ -32,8 +32,8 @@ h1 {
     height: 40%;
     width: 50%;
     display: flex;
-    justify-items: center;
-    align-items: center;
+    justify-content: center;
+    align-content: center;
     gap: 100px;
 }
 
