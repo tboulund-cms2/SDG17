@@ -41,8 +41,9 @@
         </div>
             <div class="row">
                 <div class="col">
-                    
-                <button class="button-34" role="button">JOIN THE COMMUNITY HERE!</button>
+                    <p>Del din mening!</p>
+                    <p>Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
+                    <button class="button-34" role="button">BLIV EN DEL AF FÆLLESKABET!</button>
 
                 </div>
                 <div class="col">
