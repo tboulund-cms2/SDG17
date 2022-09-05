@@ -8,7 +8,7 @@
     <div id="hero">
          <div class="hero-tekst">
             <h1 id="yellowtekst">14</h1>
-              <h2>Conserve and sustainably use the oceans, <br>
+              <h2 id="white">Conserve and sustainably use the oceans, <br>
                seas and marine resources for sustainable development</h2> 
          </div>
          </div>
@@ -19,10 +19,10 @@
     <div class="col-sm-3"></div>
 
             <div class="first-paragraph">
-                <h1>OUR OCEAN <br>
+                <h1 id="white">OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>
                 <span class="tekstyellow">IS ENDANGERED</span></h1>
-                    <p>
+                    <p id="white">
                     The world's oceans—their temperature, chemistry, currents, and life—drive the global systems that make Earth habitable for humans. The management of this vital resource is crucial for humanity as a whole, but also for mitigating the consequences of climate change. <br>
 
                     The livelihoods of over three billion people depend on the biodiversity in marine and coastal areas. But today there is overfishing by around 30 percent, which is far above the level at which fish stocks can reproduce sustainably. <br>
@@ -41,7 +41,7 @@
 </iframe>
                 <div class="second-paragraph">
                     <h1 id="yellowtekst">OUR TARGETS</h1>
-                        <p>
+                        <p id="white">
                         <span id="yellowtekst">By 2025</span>, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution <br>
                         <br>
 

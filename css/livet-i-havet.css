@@ -28,7 +28,6 @@ background-size: cover;
 h3, h1, h2{
     text-align: center;
     line-height: 25px;
-    color: white;
  }
  p{
         line-height: 29px;
@@ -48,4 +47,6 @@ h3, h1, h2{
     color: #E8B400;
  }
 
-
+ #white{
+    color: white;
+ }
