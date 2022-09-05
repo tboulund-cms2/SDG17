@@ -4,7 +4,7 @@
     <section id="banner-section" class="d-flex col-md-12 align-items-center justify-content-center info-background">
         <div class="d-flex col-md-8 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start banner-container">
             <img src="" alt="" class="col-12 col-md-3">
-            <div class="d-flex col-12 col-md-6 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
+            <div class="d-flex col-12 col-md-8 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
                 <h1 id="banner-description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
             </div>
         </div>
@@ -36,13 +36,7 @@
         <div class="d-flex col-md-8 flex-column signup-container text-center text-md-start">
             <h2 id="banner_description" class="p-3 ">Be Up To Date</h2>
             <!-- Convert this to Text Custom Post Type 2-->
-            <!-- <p class="col-6"><?php the_field("signup_description") ?> </p> -->
-            <p class="col-md-6">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Mollitia facere possimus tenetur modi inventore culpa hic sapi,
-                Voluptas rem deserunt repellat laborum sapiente fugit,
-                nam odit aperiam dolore
-            </p>
+            <p class="col-6"><?php the_field("newsletter") ?> </p>
             <div class="d-flex py-4 col-md-4 col-sm-12 justify-content-between flex-column flex-md-row email-container">
                 <input type="email" class="col-12 py-2" placeholder="email address">
                 <button type="button" class="col-12 col-lg-5 col-xl-5 col-xxl-4 py-2 btn btn-dark mx-md-2">Get In</button>
@@ -95,7 +89,7 @@
                     <img src="" class="card-img-top" alt="...">
                     <!-- <img class="card-img-top" src="<?php the_field("news_image_3") ?>" alt="news3"> -->
                     <div class="card-body">
-                        <!-- <p class="col-6"><?php the_field("news_description") ?> </p> -->
+                        <p class="card-text"><?php the_field("news_description") ?> </p>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                 </div>
