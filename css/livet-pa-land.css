@@ -99,6 +99,9 @@ h2 {
     display: flex;
     padding-top: 5px;
     padding-bottom: 5px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
 }
 .subgoal.even {
     flex-direction: row-reverse;
@@ -106,5 +109,5 @@ h2 {
 
 #greenbox {
     background-color: #65B03D;
-    border-radius: 30%;
+    border-radius: 50%;
 }
