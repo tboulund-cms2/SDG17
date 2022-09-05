@@ -10,7 +10,7 @@
             </div>
         </div>
         
-    <div class="row hero-section d-flex flex-row flex-wrap"> 
+    <div class="hero-section"> 
         <div class="hero-image col-12">
             <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
                 <div class="row hero-title d-flex flex-row flex-wrap">
@@ -21,6 +21,7 @@
                 </div>
         </div>
     </div>
+    
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
