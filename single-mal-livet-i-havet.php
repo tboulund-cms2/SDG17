@@ -65,6 +65,14 @@
                         Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in UNCLOS, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of The Future We Want</p>
                 </div>
 
+                    <div class="last picture">
+
+                    </div>
+
+                        <div class="bottom">
+                            <p>To the top</p>
+                        </div>
+
     <?php endwhile ?>
 
 <?php get_footer() ?>
