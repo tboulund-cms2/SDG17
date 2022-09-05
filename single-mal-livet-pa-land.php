@@ -10,19 +10,19 @@
             <div class="col-4">
                 <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
-            <div style="padding-top:30px ;" class="col-8">
+            <div style="padding:30px 50px 30px 50px ;" class="col-8">
                 <h3><?php the_field("intro-text") ?></h3>
             </div>
         </div>
 
     </div>
 
-    <div style="padding: 30px ;" class="description">
+    <div class="description">
         <div>
-            <p><?php the_field("description-1") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-1") ?></p>
         </div>
         <div>
-            <p><?php the_field("description-2") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-2") ?></p>
         </div>
         <div>
             <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
@@ -35,9 +35,9 @@
     </div>
 
     <div class="second-description">
-        <div style="padding:30px;" class="description-3">
-            <p><?php the_field("description-3") ?></p>
-            <p><?php the_field("description-4") ?></p>
+        <div class="description-3">
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-3") ?></p>
+            <p style="padding: 30px 100px 30px 100px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
                 <div class="col"></div>
