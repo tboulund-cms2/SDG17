@@ -125,7 +125,7 @@
             </div>
         </div>
         <div class="row action-items-section d-flex flex-row flex-wrap justify-content-center">
-            <div class="item-group-1 mb-5 col-12 col-xl-6">
+            <div class="item-group-1 mb-5 col-12 col-xl-6 p-5">
                 <div class="item-image item-image-1">
                      <img class="action-item-image" src="<?php the_field("action_item_image_1") ?>" alt="Support Goal 3 Charity">
                 </div>  

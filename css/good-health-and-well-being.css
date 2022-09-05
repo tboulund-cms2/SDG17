@@ -91,8 +91,8 @@ body {
 }
 
 .action-item-image{
-  width: 565px;
-  height: 375.55px;
+  width: 100%;
+  height: auto;
 }
 
 .hero-title {
