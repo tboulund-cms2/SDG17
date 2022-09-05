@@ -5,7 +5,7 @@
         <div class="d-flex col-md-8 col-sm-12 flex-column flex-md-row justify-content-center align-items-center justify-content-md-start banner-container">
             <img src="" alt="" class="col-12 col-md-3">
             <div class="d-flex col-12 col-md-6 col-xl-5 justify-content-center px-4 banner-text text-center text-md-start">
-                <h1 class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
+                <h1 id="banner_description" class="col-8 col-md-12">Ensure access to affordable, reliable, sustainable and modern energy for all.</h1>
             </div>
         </div>
     </section>
@@ -17,8 +17,8 @@
             <div class="d-flex col-10 col-md-5 flex-wrap text-container align-items-center justify-content-center text-center text-md-start">
                 <h2 class="col-4 col-md-12 py-4">Overview</h2>
                 <!-- Combine these into Text Custom Post Type 1-->
-                <!-- <p class="col-12 py-2"><?php the_field("overview_description") ?> </p> -->
-                <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                <p class="col-12 py-2"><?php the_field("overview") ?> </p>
+                <!--    <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                     Voluptas rem deserunt repellat laborum sapiente fugit,
                     nam odit aperiam dolores quas voluptatem,
                     eveniet officia hic excepturi non labore provident numquam corporis?
@@ -34,7 +34,7 @@
                 <p class="col-12 py-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                     Voluptas rem deserunt repellat laborum sapiente fugit,
                     nam odit aperiam dolore
-                </p>
+                </p> -->
             </div>
         </div>
     </section>
@@ -69,7 +69,7 @@
     </section>
     <section id="signup-section" class="d-flex col-md-12 align-items-center justify-content-center justify-content-center info-background">
         <div class="d-flex col-md-8 flex-column signup-container text-center text-md-start">
-            <h2 class="py-4">Be Up To Date</h2>
+            <h2 id="banner_description" class="p-3 ">Be Up To Date</h2>
             <!-- Convert this to Text Custom Post Type 2-->
             <!-- <p class="col-6"><?php the_field("signup_description") ?> </p> -->
             <p class="col-md-6">

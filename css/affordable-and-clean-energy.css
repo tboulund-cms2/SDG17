@@ -6,6 +6,11 @@ img {
     min-height: 30vh;
 }
 
+#banner-description {
+    color: white;
+    font-weight: 700;
+}
+
 
 .info-background {
     background: #ffba26;
