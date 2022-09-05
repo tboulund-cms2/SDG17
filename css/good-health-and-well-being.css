@@ -65,6 +65,7 @@ body {
 .main-info-grid-icon-box p {
   margin: 0;
   padding-left: 10px;
+  width: 56px;
 }
 
 .action-section {
