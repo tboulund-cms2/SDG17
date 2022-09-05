@@ -26,4 +26,11 @@ h3, h1, h2{
    text-align: center;
    line-height: 10px;
 }
+<<<<<<< HEAD
 >>>>>>> d03e86d600ad64e6d8aec37c3876819c3a7ea832
+=======
+
+p{
+    line-height: 50px;
+ }
+>>>>>>> 5c99e57bae82347e2a34753651c30fc4f508ff09
