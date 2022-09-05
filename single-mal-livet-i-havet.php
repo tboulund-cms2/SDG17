@@ -21,7 +21,7 @@
             <div class="first-paragraph">
                 <h1>OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>
-                 IS ENDANGERED</h1>
+                <span class="tekstyellow">IS ENDANGERED</span></h1>
                     <p>
                     The world's oceans—their temperature, chemistry, currents, and life—drive the global systems that make Earth habitable for humans. The management of this vital resource is crucial for humanity as a whole, but also for mitigating the consequences of climate change. <br>
 
