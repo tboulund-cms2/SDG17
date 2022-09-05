@@ -27,7 +27,7 @@ h3 {
     color: #FFFFFF !important;
 }
 h2 {
-    color: #707070;
+    color: #707070 !important;
 }
 
 
@@ -38,5 +38,5 @@ h2 {
     align-items: center;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 70px;
+    font-size: 60px;
 }
