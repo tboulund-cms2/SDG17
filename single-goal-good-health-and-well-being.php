@@ -120,7 +120,7 @@
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
-                    <p>
+                    <p class="action-title-desc-container">
                         <?php the_field("action_description") ?>
                     </p>
                 </div>
