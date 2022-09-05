@@ -50,6 +50,6 @@ h1 {
 
 @media screen and (max-width: 1000px) {
     .btns {
-        gap: none;
+        gap: 0;
     }
   }
