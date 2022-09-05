@@ -81,3 +81,7 @@ margin-left: -318px;
     justify-content: center;
     align-items: center;
 }
+.target-box{
+    background-color: white;
+    color: rgb(30,113,103, 0.87);
+}
