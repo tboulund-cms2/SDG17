@@ -1,0 +1,109 @@
+img {
+    object-fit: cover;
+}
+
+#banner-section {
+    min-height: 30vh;
+}
+
+
+.info-background {
+    background: #ffba26;
+    color: white;
+    font-weight: 700;
+}
+
+
+.banner-container {
+    min-height: 20vh;
+}
+
+
+.banner-container img {
+    min-height: 20vh;
+    width: 25vh;
+}
+
+
+#overview-section {
+    min-height: 50vh;
+}
+
+.text-container h2 {
+    color: #ffba26;
+}
+
+.image-text-container img {
+    max-height: 50vh;
+}
+
+
+#contribution-section {
+    min-height: 50vh;
+}
+
+
+
+#signup-section {
+    min-height: 25vh;
+}
+
+.email-container input[type=email] {
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+#events-section {
+    min-height: 50vh;
+
+}
+
+#events-section .bottom-container img {
+    max-height: 80vh;
+}
+
+.top-container {
+    height: 10vh;
+    color: #ffba26;
+}
+
+.top-container button {
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+}
+
+.bottom-container {
+    height: 100%;
+}
+
+.events-container button {
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+}
+
+.bottom-container .card {
+    border: none;
+}
+
+.card-img-top {
+    max-height: 80vh;
+}
+
+#news-section {
+    min-height: 45vh;
+}
+
+.news-container button {
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+}
+
+
+#footer-section {
+    height: 20vh;
+    color: black;
+}
