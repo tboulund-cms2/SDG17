@@ -50,6 +50,10 @@ img {
     min-height: 50vh;
 }
 
+.cta-link {
+    text-decoration: none;
+}
+
 .cta-contribute {
     color: #fcb913;
 }
