@@ -37,3 +37,7 @@
     display: flex;
     margin-top: 50px;
 }
+
+.image {
+    height: 350px;
+}
