@@ -24,13 +24,18 @@ background-image: url('img/hero.jpg');
 =======
 h3, h1, h2{
    text-align: center;
-   line-height: 10px;
+   line-height: 25px;
 }
 <<<<<<< HEAD
 >>>>>>> d03e86d600ad64e6d8aec37c3876819c3a7ea832
 =======
 
 p{
+<<<<<<< HEAD
     line-height: 50px;
  }
 >>>>>>> 5c99e57bae82347e2a34753651c30fc4f508ff09
+=======
+    line-height: 35px;
+ }
+>>>>>>> f0479f5ad0579470f67f9e3c48074df89f83feb9
