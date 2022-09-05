@@ -19,10 +19,23 @@
     background-size: cover;
     background-position: center;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 h1 {
     font-size: 50px;
     color: #F9B70E !important
+}
+
+.btns {
+    height: 40%;
+}
+
+.mål {
+    height: 30%;
+}
+
+.forum {
+    height: 30%;
 }

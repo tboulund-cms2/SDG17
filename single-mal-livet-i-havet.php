@@ -5,17 +5,19 @@
     <div class="card-container">
     <img src="<?php the_field('hero_picture'); ?>" alt="" />
     </div>
-
+    <div id="hero">
          <div class="hero-tekst">
             <h1>14</h1>
               <h2>Conserve and sustainably use the oceans, <br>
                seas and marine resources for sustainable development</h2> 
+         </div>
          </div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
     <div class="col-sm-3"></div>
+
             <div class="first paragraph">
                 <h3>OUR OCEAN <br>
                  THE PLANET'S LARGEST ECOSYSTEM <br>

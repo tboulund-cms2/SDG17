@@ -57,8 +57,10 @@
     <div class="small-goals">
         <h2>VERDENSMÅL 15 I DELMÅL OG INDIKATORER</h2>
                                 <?php $loop = new WP_Query(array("post_type" => "livetpaland-goals", "posts_per_page" => -1)) ?>
-                                    <?php while($loop->have_posts()): $loop->the_post() ?>
-                                            <div>
+                                <?php $i = 0 ?>
+                                <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
+                                    <?php $class = ($i % 2 == 0) ? "odd" : "even" ?>
+                                            <div class="subgoal <?php echo $class; ?>">
                                                 <div>
                                                 <img src="<?php the_field("icon") ?>" alt="">
                                                 </div>
@@ -68,7 +70,9 @@
                                                 </div>
                                             </div>
 
-                                    <?php endwhile ?>
+                                            <?php $i++ ?>
+
+                                    <?php endwhile; wp_reset_query(); ?>
                                     <?php wp_reset_postdata() ?>
     </div>
 
