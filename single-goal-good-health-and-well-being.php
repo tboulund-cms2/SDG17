@@ -9,7 +9,18 @@
                 </div>
             </div>
         </div>
-
+        
+    <div class="row hero-section d-flex flex-row flex-wrap"> 
+        <div class="hero-image col-12">
+            <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
+                <div class="row hero-title d-flex flex-row flex-wrap">
+                    <h1 class="col-4"><?php the_field("hero_title") ?></h1>
+                </div>  
+                <div class="row hero-subtitle d-flex flex-row flex-wrap">
+                    <h3 class="col-4"><?php the_field("hero_subtitle") ?></h3>
+                </div>
+        </div>
+    </div>
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
