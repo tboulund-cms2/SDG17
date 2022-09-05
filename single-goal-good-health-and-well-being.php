@@ -23,7 +23,7 @@
     <!-- Actions Section - Leifur -->
 
     <div class="call-to-action">
-        <a class="btn btn-cta disabled" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/"> </a>
+        <a class="btn btn-cta disabled" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/"> Join the Forum </a>
     </div>
 
 <div class="target-section-container">
