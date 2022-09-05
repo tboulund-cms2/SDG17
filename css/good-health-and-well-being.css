@@ -1,3 +1,5 @@
+
+
 * {
   margin: 0;
   box-sizing: border-box;
@@ -67,6 +69,10 @@ body {
 .action-section h2, 
 .action-section h3{
   color: #4C9F38;
+}
+
+.action-title-desc-container{
+  text-align: center;
 }
 
 
