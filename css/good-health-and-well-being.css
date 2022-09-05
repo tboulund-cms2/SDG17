@@ -35,6 +35,7 @@ body {
 
 .main-info-grid-icon-box img{
   width: 40px;
+  padding: 5px;
   background-color: green;
   border-radius: 50%;
 }
