@@ -24,10 +24,10 @@
 
                
                 
-                <section class="quote-section">
+                <section id="quote-section">
                     <div class="col-12 quote-up">
                             <div class="col-3"></div>
-                            <div class="col-6">
+                            <div class="col-6 text-color">
                                 <h2><?php the_field("quote") ?></h2>
                             </div>
                             <div class="col-3"></div>
@@ -36,8 +36,8 @@
                     <div class="col-12">
                         <div class="col-12 quote-down">
                                 <div class="col-4"></div>
-                                <div class="col-4">
-                                    <h2><?php the_field("quote") ?></h2>
+                                <div class="col-4 text-color">
+                                    <h2><?php the_field("quote_author") ?></h2>
                                 </div>
                                 <div class="col-4"></div>
                         </div>
