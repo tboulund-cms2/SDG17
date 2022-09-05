@@ -20,7 +20,7 @@
         </div>
     </div>
     
-    <!-- Actions Section - Leifur -->
+    <!-- Targets Section - Leifur -->
 
     <div class="call-to-action">
         <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
@@ -106,7 +106,7 @@
 
 </div>
 
-    <!-- End of Actions Section - LEifur -->
+    <!-- End of Targets Section - LEifur -->
 
 
     <!-- Actions Section - Rose -->
@@ -171,7 +171,7 @@
             </div>
         </div>
     </div>
-
+<!-- End of Actions Section - Rose -->
 
     <?php endwhile ?>
 
