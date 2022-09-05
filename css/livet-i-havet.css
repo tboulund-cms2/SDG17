@@ -14,5 +14,9 @@ body{
 }
 
 h3{
-   align-content: center;
+    align-content: center;
+ }
+ 
+#first-paragraph {
+background-image: url('img/hero.jpg');
 }
