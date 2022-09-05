@@ -54,6 +54,8 @@ img {
     text-align: center;
 }
 #informative-section img{
+    max-width: 156%;
+margin-left: -318px;
 }
 
 
@@ -63,6 +65,10 @@ img {
     height: 4000px;
     margin-top: 50px;
     padding-top: 80px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
 .target-container{
     display: flex;
@@ -90,10 +96,5 @@ img {
     background-color: white;
     color: rgb(30,113,103, 0.87);
     padding: 30px;
-    height: 200px;
-}
-
-
-.container{
-    max-width: 100vw;
+    min-height: 200px;
 }
