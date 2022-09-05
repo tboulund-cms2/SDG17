@@ -43,7 +43,9 @@
                 <div id="groups" class="col">
                     <p style="font-weight:500 ;">Del din mening!</p>
                     <p>Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
+                    <a href="http://boulund.com/sdg17/groups/livet-pa-landet/members/all-members/">
                     <button class="button-34" role="button">BLIV EN DEL AF FÆLLESKABET!</button>
+                    </a>
 
                 </div>
                 <div class="col">
