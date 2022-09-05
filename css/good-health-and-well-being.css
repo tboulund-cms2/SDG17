@@ -25,6 +25,7 @@ body {
 .main-card-target {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .main-icon-img {
