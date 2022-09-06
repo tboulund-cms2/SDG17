@@ -21,20 +21,20 @@
     <div class="data-section mb-5 col-12 col-xl-6">
             <div class="row data-group">
                 <div class="data-group-1">
-                    <h1 class="data-number-1"><?php the_field("data_number_1") ?></h1>
-                    <p class="data-description-1"><?php the_field("data_description_1") ?></p>
+                    <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
+                    <p class="data-description"><?php the_field("data_description_1") ?></p>
                 </div>  
                 <div class="data-group-2">
-                    <h1 class="data-number-2"><?php the_field("data_number_2") ?></h1>
-                    <p class="data-description-2"><?php the_field("data_description_2") ?></p>
+                    <h1 class="data-number"><?php the_field("data_number_2") ?></h1>
+                    <p class="data-description"><?php the_field("data_description_2") ?></p>
                 </div> 
                 <div class="data-group-3">
-                    <h1 class="data-number-3"><?php the_field("data_number_3") ?></h1>
-                    <p class="data-description-3"><?php the_field("data_description_3") ?></p>
+                    <h1 class="data-number"><?php the_field("data_number_3") ?></h1>
+                    <p class="data-description"><?php the_field("data_description_3") ?></p>
                 </div> 
                 <div class="data-group-4">
-                    <h1 class="data-number-4"><?php the_field("data_number_4") ?></h1>
-                    <p class="data-description-4"><?php the_field("data_description_4") ?></p>
+                    <h1 class="data-number"><?php the_field("data_number_4") ?></h1>
+                    <p class="data-description"><?php the_field("data_description_4") ?></p>
                 </div>                
                 
             </div>
