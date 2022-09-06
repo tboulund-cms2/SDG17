@@ -6,8 +6,7 @@
         <div class="row navbar-section"></div>       
             <div class="logo-box col-12 my-2 d-flex justify-content-center align-items-center">
                 <img class="square-logo col-2" src="<?php the_field("square_logo") ?>" alt="">
-            </div>
-            <p>emma</p>            
+            </div>           
         </div>
     </div>      
      
