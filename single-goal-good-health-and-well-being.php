@@ -19,9 +19,9 @@
     </div>
 
     <div class="data-section text-center my-3">
-            <div class="row data-group bg-primary justify-content-center">
+            <div class="row data-group justify-content-center">
 
-                <div class="data-group-1 col-3 mx-2">
+                <div class="data-group-1 bg-primary col-3 mx-2">
                     <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
                     <p class="data-description"><?php the_field("data_description_1") ?></p>
                 </div>  
