@@ -137,7 +137,7 @@ body {
 
 }
 
-.hero-section-container {
+/* .hero-section-container {
   
  
   position: relative;  
@@ -148,7 +148,7 @@ body {
 /*   top:0;
   left:0; */
   text-align: center;
-}
+} */
 
 .square-logo {
   width: 133px;
@@ -158,7 +158,7 @@ body {
 h1.hero-title,
 h3.hero-subtitle{
   color: #EAEAEA;
-  position: absolute;
+  /* position: absolute;
   text-align: center;
-  width: 100vw;
+  width: 100vw; */
 }
