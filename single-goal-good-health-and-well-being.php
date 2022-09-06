@@ -2,11 +2,13 @@
     <?php while(have_posts()): the_post(); ?>
 
     <!-- start by Jianming -->
-    <div class="row navbar">        
-        <div class="logo-box col-2 my-2 d-flex justify-content-center align-items-center">                
-            <div class="square-logo">
-                <img src="<?php the_field("square_logo") ?>" alt="">
-            </div>
+    <div class="navbar"> 
+        <div class="row navbar-section bg-primary"></div>       
+            <div class="logo-box col-12 bg-secondary my-2 d-flex justify-content-center align-items-center">                
+                
+                    <img class="square-logo col-2" src="<?php the_field("square_logo") ?>" alt="">
+                
+            </div>            
         </div>
     </div>      
      
@@ -47,8 +49,7 @@
                 </p> 
             </div>
         </div>                         
-    </div>
-    
+    </div>    
     <!-- end by Jianming -->
     
     
