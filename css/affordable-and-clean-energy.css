@@ -151,9 +151,12 @@ img {
     width: 100px;
     height: 100px;
     border-radius: 50px;
-
-
     background-color: #fcb913;
     color: white;
+    z-index: 5;
 
+}
+
+.floating-button p {
+    z-index: 10;
 }
