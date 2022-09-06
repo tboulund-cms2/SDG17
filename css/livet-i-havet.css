@@ -1,8 +1,7 @@
-
-
-.body{
-    background-color: cyan;
-    background: linear-gradient(#0A97D9, #0C558D);
+.background{
+    background-color: #062039;
+    width: 1200px;
+    
 }
 
 #hero {
