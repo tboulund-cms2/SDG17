@@ -159,6 +159,10 @@ h1.data-number {
   color: #4C9F38;
 }
 
+img {
+  display: block;
+}
+
 .hero-section {
   position: relative; 
   display: inline-block;
