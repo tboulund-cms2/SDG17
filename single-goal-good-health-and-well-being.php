@@ -12,9 +12,9 @@
      
     <div class="hero-section bg-primary">              
             <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="hero-content bg-success my-5">                    
-                    <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
-                    <h3 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h3>
+                <div class="hero-content bg-success my-10">                    
+                    <h1 class="hero-title text-wrap my-10"><?php the_field("hero_title") ?></h1>
+                    <h3 class="hero-subtitle text-wrap my-10"><?php the_field("hero_subtitle") ?></h3>
                 </div>       
     </div>
     
