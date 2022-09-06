@@ -11,8 +11,7 @@
     </div>      
      
     <div class="hero-section text-center">              
-        <img class="hero-image img-fluid col-12" 
-            src="<?php the_field("hero_image") ?>" alt="">
+        <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
                 <div class="hero-content col-4">                    
                     <h1 class="hero-title text-wrap my-2"><?php the_field("hero_title") ?></h1>
                     <h5 class="hero-subtitle text-wrap my-2"><?php the_field("hero_subtitle") ?></h5>
