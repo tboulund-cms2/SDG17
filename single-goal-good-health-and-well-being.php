@@ -3,12 +3,25 @@
 
     <!-- start by Jianming -->
     <div class="navbar">        
-            <div class="row justify-content-center">                
-                <div class="square-logo col-2">
-                    <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
+            <div class="row logo-box my-5">                
+                <div class="square-logo col-12 d-flex justify-content-center align-items-center">
+                    <img class="square-logo" src="<?php the_field("square_logo") ?>" alt="Square logo">
                 </div>
             </div>
         </div>
+        
+
+        <!-- <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                <div class="action-title-container col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                    <h2>
+                        <?php the_field("action_title") ?>
+                    </h2>
+                    <p class="action-title-desc-container">
+                        <?php the_field("action_description") ?>
+                    </p>
+                </div>
+                   
+            </div> -->
         
     <div class="hero-section-container">         
             <div class="hero-image col-12">
