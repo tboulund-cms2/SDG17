@@ -145,7 +145,7 @@ img {
 }
 
 .floating-button {
-    position: absolute;
+    position: fixed;
     right: 50px;
     bottom: 50px;
     width: 100px;
@@ -159,6 +159,7 @@ img {
 }
 
 .floating-button p {
+    position: fixed;
     bottom: 50%;
     right: 50%;
 }
