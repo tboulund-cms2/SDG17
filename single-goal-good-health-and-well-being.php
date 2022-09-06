@@ -40,10 +40,11 @@
     </div>
 
     <div class="new-goal-section text-center my-2 bg-primary text-wrap">
-        <div class="row new-goal-content row-cols-1"></div>
+        <div class="row new-goal-content row-cols-1">
             <p class="col bg-secondary">
                 <?php the_field("the_new_goal_") ?>
-            </p>                           
+            </p>  
+        </div>                         
     </div>
 
     <!-- end by Jianming -->
