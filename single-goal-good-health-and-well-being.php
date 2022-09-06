@@ -11,11 +11,14 @@
     </div>      
      
     <div class="hero-section">  
-        <img class="hero-image col-12" src="<?php the_field("hero_image") ?>" alt="">
-            <div class="hero-image-overlay bg-primary col-12 d-flex justify-content-center align-items-center">
+        <div class="row bg-primary">
+        <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
+            <div class="hero-image-overlay col-12 d-flex justify-content-center align-items-center">
                 <h1 class="hero-title col-6"><?php the_field("hero_title") ?></h1>
                 <h3 class="hero-subtitle col-6"><?php the_field("hero_subtitle") ?></h3>
-            </div>     
+            </div>  
+        </div>
+           
     </div>
     
     
