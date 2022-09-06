@@ -3,24 +3,18 @@
 
     <!-- start by Jianming -->
     <div class="row navbar">        
-            <div class="logo-box col-2 my-2 justify-content-center align-items-center">                
+            <div class="logo-box col-2 my-2 d-flex justify-content-center align-items-center">                
                 <div class="square-logo">
                     <img src="<?php the_field("square_logo") ?>" alt="">
                 </div>
             </div>
-    </div>
-        
-   
-        
+    </div>      
+     
     <div class="hero-section">  
         <img class="hero-image col-12" src="<?php the_field("hero_image") ?>" alt="">
-            <div class="hero-image-overlay">
-              
-            
-                                               
-                        
-                            <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
-                            <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
+            <div class="hero-image-overlay col-6 d-flex justify-content-center align-items-center">
+                <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
+                <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
             </div>     
     </div>
     
