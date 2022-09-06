@@ -158,3 +158,16 @@ h5.hero-subtitle {
 h1.data-number {
   color: #4C9F38;
 }
+
+.hero-section {
+  position: relative;
+  text-align: center;
+  
+}
+
+.hero-content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
