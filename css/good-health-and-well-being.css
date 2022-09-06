@@ -156,8 +156,14 @@ body {
 
 }
 
-h1.hero-title,
-h5.hero-subtitle{
+h1.hero-title {
+  color: #EAEAEA;
+  /* position: absolute;
+  text-align: center;
+  width: 100vw; */
+}
+
+h5.hero-subtitle {
   color: #EAEAEA;
   /* position: absolute;
   text-align: center;
