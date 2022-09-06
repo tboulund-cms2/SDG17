@@ -41,7 +41,7 @@
 
     <div class="new-goal-section text-center my-2">
             <p>
-                <?php the_field("new_goal") ?>
+                <?php the_field("the_new_goal") ?>
             </p>                           
     </div>
 
