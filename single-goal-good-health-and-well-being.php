@@ -21,7 +21,7 @@
 </div>    
         
     <div class="card hero-section">  
-        <img class="card-img" src="<?php the_field("hero_image") ?>" alt="">
+        <img class="card-img col-12" src="<?php the_field("hero_image") ?>" alt="">
             <div class="card-img-overlay">
               
             
