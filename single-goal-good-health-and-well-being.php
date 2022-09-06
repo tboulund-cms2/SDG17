@@ -2,9 +2,9 @@
     <?php while(have_posts()): the_post(); ?>
 
     <!-- start by Jianming -->
-    <div class="row navbar">        
-            <div class="logo-box col-2">                
-                <div class="square-logo">
+    <div class="navbar">        
+            <div class="row logo-box">                
+                <div class="square-logo col">
                     <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
                 </div>
             </div>
@@ -14,7 +14,7 @@
             <div class="hero-image col-12">
                 <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>   
                     <div class="row">                             
-                        <div class="hero-text d-flex">
+                        <div class="hero-text d-flex justify-content-center">
                             <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                             <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
                         </div>
