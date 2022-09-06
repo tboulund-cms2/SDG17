@@ -144,15 +144,21 @@ img {
     font-weight: 900;
 }
 
-.float-button {
-    position: fixed;
-    right: 100px;
-    bottom: 100px;
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
+.floating-button {
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
 
     background-color: #fcb913;
     color: white;
 
+}
+
+.floating-button p {
+    bottom: 50%;
+    right: 50%;
 }
