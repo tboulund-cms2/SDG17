@@ -5,7 +5,7 @@
     <div class="navbar">        
             <div class="row logo-box my-5">                
                 <div class="square-logo col-12 d-flex justify-content-center align-items-center">
-                    <img class="square-logo" src="<?php the_field("square_logo") ?>" alt="Square logo">
+                    <img src="<?php the_field("square_logo") ?>" alt="">
                 </div>
             </div>
         </div>
