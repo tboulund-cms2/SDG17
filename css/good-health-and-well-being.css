@@ -23,7 +23,8 @@ body {
 }
 
 .btn-cta:hover{
-  background-color: #4C9F3890;
+  background-color: #204516;
+  color: #EAEAEA;
 }
 
 .main-card-target {
