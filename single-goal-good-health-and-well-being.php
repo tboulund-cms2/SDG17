@@ -10,16 +10,16 @@
             </div>
     </div>      
      
-    <div class="hero-section">  
-        
-        <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
-            <div class="text-wrappr">
-                <div class="text-center">
+    <div class="hero-section"> 
+        <div class="row">        
+            <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
+                <div class="heroContent ">
+                    
                     <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                     <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
                 </div>
-            </div>  
-        
+              
+        </div>
            
     </div>
     
