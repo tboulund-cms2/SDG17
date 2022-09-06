@@ -4,7 +4,7 @@
     <!-- start by Jianming -->
     <div class="navbar">        
             <div class="row justify-content-center">                
-                <div class="square-logo col">
+                <div class="square-logo col-2">
                     <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
                 </div>
             </div>
