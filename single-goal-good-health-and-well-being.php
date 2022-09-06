@@ -13,7 +13,7 @@
     <div class="hero-section text-center">              
         <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
             <div class="row hero-content bg-primary ">
-                <div class="hero-title-section col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">                    
+                <div class="hero-title-section col-12 d-flex justify-content-center align-items-center">                    
                     <h1 class="hero-title text-wrap col-4"><?php the_field("hero_title") ?></h1>
                     <h5 class="hero-subtitle text-wrap col-4"><?php the_field("hero_subtitle") ?></h5>
                     <div class="call-to-action my-2">
