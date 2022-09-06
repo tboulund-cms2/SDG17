@@ -160,14 +160,12 @@ h1.data-number {
 }
 
 .hero-section {
-  position: relative;
-  text-align: center;
-  
+  position: relative; 
 }
 
 .hero-content {
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
