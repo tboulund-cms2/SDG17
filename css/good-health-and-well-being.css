@@ -170,5 +170,7 @@ h1.data-number {
 }
 
 .data-group {
-  width: 80%vw;
+  
+  flex-wrap:wrap;
+
 }
