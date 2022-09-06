@@ -1,0 +1,31 @@
+body {
+    background-color: #fff;
+    font-size: 12px;
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: #4775f1;
+font-size: 18px;
+margin: 20px;
+font-weight: 150;
+text-align: left;
+}
+
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #4775f1;
+margin: 20px;
+font-weight: normal;
+text-align: left;
+}
+
+p {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.flexcontainer {
+    color: #4775f1;
+}

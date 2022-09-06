@@ -1,0 +1,69 @@
+.background{
+    background-color: #062039;
+    width: 1200px;
+    
+}
+
+#hero {
+    background-image: url('img/hero.jpg');
+    background-size: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+#first-paragraph {
+background-image: url('img/background-1.jpeg');
+background-size: 100vh;
+background-position: center;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h3, h1, h2{
+    text-align: center;
+    line-height: 25px;
+ }
+ p{
+        line-height: 29px;
+        font-size: 17px;
+        margin: 70px;
+     }
+
+ .bottomtekst{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+ }
+
+ #yellowtekst{
+    color: #E8B400;
+ }
+
+ .tekstyellow{
+    color: #E8B400;
+ }
+
+ #white{
+    color: white;
+ }
+
+ .last-picture{
+
+    
+ }
+
+ .last-picture img {
+  
+}
+    
+
+ .first-paragraph{
+    background-image: url("background-1.jpeg");
+        
+     }

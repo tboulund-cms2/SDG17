@@ -1,0 +1,36 @@
+.image {
+    background-image: cover;
+}
+
+.container {
+    --bs-gutter-x: 0rem !important;
+    max-width: 100% !important;
+}
+
+.banner {
+    background-color: orange;
+    color: #ffffff;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+#banner-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 100px;
+    font-family: Georgia, serif;
+}
+
+.description2 {
+    background-color: orange;
+    color: white;
+}
