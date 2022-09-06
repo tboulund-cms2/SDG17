@@ -147,27 +147,13 @@ body {
   height: 110px;
 }
 
-.hero-section {
-  position: relative;
-  text-align: center;
-  
-}
-
-.hero-content {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-}
-
 h1.hero-title {
   color: #EAEAEA;
 }
 
 h5.hero-subtitle {
   color: #EAEAEA;
-  margin-top: 150px;
+  
 }
 
 h1.data-number {
