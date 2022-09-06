@@ -144,9 +144,11 @@ body {
 
 .hero-content {
   position: absolute;
-  top: 30%;
-  left: 30%;
-  
+  /* top: 30%;
+  left: 30%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1.hero-title,
