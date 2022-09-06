@@ -10,23 +10,26 @@
             </div>
         </div>
         
-    <div class="hero-section"> 
-        <div class="hero-image col-12">
-            <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>                                
-                <div class="row d-flex align-center justify-center">
-                    <h1 class="hero-tiitle"><?php the_field("hero_title") ?></h1>
-                    <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
-                </div>
-        </div>
+    <div class="hero-section-container">         
+            <div class="hero-image col-12">
+                <?php echo wp_get_attachment_image(389, array('1920', '931')); ?>   
+                    <div class="row">                             
+                        <div class="hero-text d-flex">
+                            <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
+                            <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
+                        </div>
+                    </div>
+                
+            </div>
+        
     </div>
     
-    <!-- Actions Section - Leifur -->
+    
+    <!-- Targets Section - Leifur -->
 
     <div class="call-to-action">
-    <a href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/">
-        <h1>CALL TO ACTION</h1>
-    </a>
-</div>
+        <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
+    </div>
 
 <div class="target-section-container">
     <div class="main-card-target">
@@ -108,7 +111,7 @@
 
 </div>
 
-    <!-- End of Actions Section - LEifur -->
+    <!-- End of Targets Section - LEifur -->
 
 
     <!-- Actions Section - Rose -->
@@ -126,8 +129,8 @@
                    
             </div>
         </div>
-        <div class="row action-items-section d-flex flex-row flex-wrap ">
-            <div class="item-group-1 mb-5 col-12 col-xl-6">
+        <div class="row action-items-section d-flex flex-row flex-wrap justify-content-center">
+            <div class="item-group-1 mb-5 col-12 col-xl-6 px-5">
                 <div class="item-image item-image-1">
                      <img class="action-item-image" src="<?php the_field("action_item_image_1") ?>" alt="Support Goal 3 Charity">
                 </div>  
@@ -138,9 +141,9 @@
                     <?php the_field("action_item_description") ?>
                 </p>
             </div>
-            <div class="item-group-2 mb-5 col-12 col-xl-6">
+            <div class="item-group-2 mb-5 col-12 col-xl-6 px-5">
                 <div class="item-image item-image-2">
-                    <?php echo wp_get_attachment_image(338, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_2") ?>" alt="Register in Donors Registry">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_2") ?>
@@ -149,9 +152,9 @@
                     <?php the_field("action_item_description_2") ?>
                 </p>
             </div>
-            <div class="item-group-3 mb-5 col-12 col-xl-6">
+            <div class="item-group-3 mb-5 col-12 col-xl-6 px-5">
                 <div class="item-image item-image-3">
-                    <?php echo wp_get_attachment_image(339, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_3") ?>" alt="Get Vaccinate">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_3") ?>
@@ -160,9 +163,9 @@
                     <?php the_field("action_item_description_3") ?>
                 </p>
             </div>
-            <div class="item-group-4 col-12 col-xl-6">
+            <div class="item-group-4 col-12 col-xl-6 px-5">
                 <div class="item-image item-image-4">
-                    <?php echo wp_get_attachment_image(340, array('565', '375.55')); ?>
+                    <img class="action-item-image" src="<?php the_field("action_item_image_4") ?>" alt="Donate Blood">
                 </div>  
                 <h3 class="my-2">
                     <?php the_field("action_item_title_4") ?>
@@ -173,7 +176,7 @@
             </div>
         </div>
     </div>
-
+<!-- End of Actions Section - Rose -->
 
     <?php endwhile ?>
 
