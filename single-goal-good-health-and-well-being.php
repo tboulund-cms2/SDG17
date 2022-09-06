@@ -10,17 +10,12 @@
             </div>
     </div>      
      
-    <div class="hero-section bg-primary"> 
-             
+    <div class="hero-section bg-primary">              
             <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="hero-content bg-success">
-                    
-                    <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
-                    <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
-                </div>
-              
-        
-           
+                <div class="hero-content bg-success my-5">                    
+                    <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
+                    <h3 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h3>
+                </div>       
     </div>
     
     
