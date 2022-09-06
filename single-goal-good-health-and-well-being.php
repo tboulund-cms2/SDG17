@@ -39,14 +39,16 @@
         </div>
     </div>
 
-    <div class="new-goal-section text-center my-2 bg-primary text-wrap">
-        <div class="row new-goal-content row-cols-1">
-            <p class="col bg-secondary">
-                <?php the_field("the_new_goal_") ?>
-            </p>  
+    <div class="new-goal-section text-center bg-primary text-wrap">
+        <div class="row new-goal-content my-3">
+            <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap bg-secondary">
+                <p class="col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                    <?php the_field("the_new_goal_") ?>
+                </p> 
+            </div> 
         </div>                         
     </div>
-
+    
     <!-- end by Jianming -->
     
     
