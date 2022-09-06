@@ -100,7 +100,7 @@
     <section id="floating-button-section">
         <a>
             <div class="floating-button d-flex justify-content-center align-items-center">
-                <p> Contribute now! </p>
+                <p> Contribute <br> Now!</p>
             </div>
         </a>
 

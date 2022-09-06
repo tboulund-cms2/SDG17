@@ -146,8 +146,8 @@ img {
 
 .floating-button {
     position: fixed;
-    right: 50px;
-    bottom: 50px;
+    right: 25px;
+    bottom: 25px;
     width: 100px;
     height: 100px;
     border-radius: 50px;
@@ -160,6 +160,6 @@ img {
 
 .floating-button p {
     position: fixed;
-    bottom: 50%;
-    right: 50%;
+    bottom: 50px;
+    right: 25px;
 }
