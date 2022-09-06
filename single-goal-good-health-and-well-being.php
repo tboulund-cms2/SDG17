@@ -18,7 +18,7 @@
                 </div>       
     </div>
 
-    <div class="data-section bg-primary d-flex justify-content-center align-items-center mb-5 col-12 col-xl-6">
+    <div class="data-section bg-primary d-flex justify-content-center align-items-center">
             <div class="row data-group ">
                 <div class="data-group-1">
                     <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
