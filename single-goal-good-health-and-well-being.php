@@ -11,7 +11,7 @@
     </div>      
      
     <div class="hero-section text-center">              
-        <!-- <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt=""> -->
+        <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
             <div class="row hero-content bg-primary">
                 <div class="hero-title-section col-12">                    
                     <h1 class="hero-title text-wrap col-4"><?php the_field("hero_title") ?></h1>
