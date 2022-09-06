@@ -18,21 +18,22 @@
                 </div>       
     </div>
 
-    <div class="data-section my-3">
-            <div class="row data-group bg-primary">
-                <div class="data-group-1 col-3 mx-3">
+    <div class="data-section text-center my-3">
+            <div class="row data-group bg-primary justify-content-center">
+
+                <div class="data-group-1 col-3 col-sm-6 mx-2">
                     <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
                     <p class="data-description"><?php the_field("data_description_1") ?></p>
                 </div>  
-                <div class="data-group-2 col-3">
+                <div class="data-group-2 col-3 col-sm-6 mx-2">
                     <h1 class="data-number"><?php the_field("data_number_2") ?></h1>
                     <p class="data-description"><?php the_field("data_description_2") ?></p>
                 </div> 
-                <div class="data-group-3 col-3">
+                <div class="data-group-3 col-3 col-sm-6 mx-2">
                     <h1 class="data-number"><?php the_field("data_number_3") ?></h1>
                     <p class="data-description"><?php the_field("data_description_3") ?></p>
                 </div> 
-                <div class="data-group-4 col-3">
+                <div class="data-group-4 col-3 col-sm-6 mx-2">
                     <h1 class="data-number"><?php the_field("data_number_4") ?></h1>
                     <p class="data-description"><?php the_field("data_description_4") ?></p>
                 </div>                
