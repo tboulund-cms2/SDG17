@@ -11,13 +11,15 @@
     </div>      
      
     <div class="hero-section">  
-        <div class="row bg-primary">
+        
         <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
-            <div class="hero-image-overlay col-12 d-flex justify-content-center align-items-center">
-                <h1 class="hero-title col-6"><?php the_field("hero_title") ?></h1>
-                <h3 class="hero-subtitle col-6"><?php the_field("hero_subtitle") ?></h3>
+            <div class="text-wrappr">
+                <div class="text-center">
+                    <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
+                    <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
+                </div>
             </div>  
-        </div>
+        
            
     </div>
     
