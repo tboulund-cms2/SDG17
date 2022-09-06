@@ -144,7 +144,7 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                <div class="action-title-container col-12 col-xl-6 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
