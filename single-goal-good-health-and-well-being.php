@@ -17,6 +17,9 @@
             <div class="hero-content">                    
                 <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
                 <h5 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h5>
+                <div class="call-to-action">
+                    <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
+                </div>
             </div>       
     </div>
 
@@ -54,10 +57,6 @@
     
     
     <!-- Targets Section - Leifur -->
-
-    <div class="call-to-action">
-        <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
-    </div>
 
 <div class="target-section-container">
     <div class="main-card-target">
