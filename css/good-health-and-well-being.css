@@ -161,6 +161,7 @@ h1.data-number {
 
 .hero-section {
   position: relative; 
+  display: inline-block;
 }
 
 .hero-content {
