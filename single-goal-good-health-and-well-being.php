@@ -11,10 +11,11 @@
     </div>      
      
     <div class="hero-section text-center">              
-        <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="hero-content col-4">                    
-                    <h1 class="hero-title text-wrap my-2"><?php the_field("hero_title") ?></h1>
-                    <h5 class="hero-subtitle text-wrap my-2"><?php the_field("hero_subtitle") ?></h5>
+        <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt="">
+            <div class="row hero-content"></div>
+                <div class="hero-title-section bg-primary col-12">                    
+                    <h1 class="hero-title text-wrap col-4"><?php the_field("hero_title") ?></h1>
+                    <h5 class="hero-subtitle text-wrap col-4"><?php the_field("hero_subtitle") ?></h5>
                     <div class="call-to-action my-2">
                         <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
                     </div>
