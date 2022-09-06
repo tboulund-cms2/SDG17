@@ -15,7 +15,7 @@
             <div class="hero-content bg-primary">                                  
                 <h1 class="hero-title my-2"><?php the_field("hero_title") ?></h1>
                 <h5 class="hero-subtitle my-2"><?php the_field("hero_subtitle") ?></h5>
-                <div class="call-to-action my-2">
+                <div class="call-to-action my-5">
                     <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
                 </div>
             </div>      
