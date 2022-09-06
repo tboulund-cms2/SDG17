@@ -3,7 +3,7 @@
 
     <!-- start by Jianming -->
     <div class="navbar">        
-            <div class="row logo-box">                
+            <div class="row justify-content-center">                
                 <div class="square-logo col">
                     <?php echo wp_get_attachment_image(371, array('133', '110')); ?>
                 </div>
