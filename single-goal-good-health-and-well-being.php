@@ -11,28 +11,25 @@
     </div>
         
 
-        <!-- <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                    <h2>
-                        <?php the_field("action_title") ?>
-                    </h2>
-                    <p class="action-title-desc-container">
-                        <?php the_field("action_description") ?>
-                    </p>
-                </div>
-                   
-            </div> -->
+    <div class="card bg-dark text-white">
+  <img class="card-img" src="..." alt="Card image">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>    
         
-    <div class="row hero-section">  
-        <div class="hero-image col-12 d-flex justify-content-center align-items-center">
-            <img src="<?php the_field("hero_image") ?>" alt="">         
+    <div class="card hero-section">  
+        <img class="card-img" src="<?php the_field("hero_image") ?>" alt="">
+            <div class="card-img-overlay">
+              
+            
                                                
-                        <div class="hero-text col-4 d-flex justify-content-center align-items-center">
+                        
                             <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                             <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
-                        </div>
-                
-        </div>        
+            </div>     
     </div>
     
     
