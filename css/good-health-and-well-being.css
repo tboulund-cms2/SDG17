@@ -22,6 +22,10 @@ body {
   color: #EAEAEA;
 }
 
+.btn-cta:hover{
+  background-color: #4C9F3890;
+}
+
 .main-card-target {
   display: flex;
   flex-direction: column;
