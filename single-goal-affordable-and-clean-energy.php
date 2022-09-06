@@ -97,6 +97,14 @@
         </div>
 
     </section>
+    <section id="floating-button-section">
+        <a>
+            <div class="floating-button d-flex justify-content-center align-items-center">
+                <p> Contribute now! </p>
+            </div>
+        </a>
+
+    </section>
     <section id="footer-section" class="d-flex col-md-12 info-background justify-content-center align-items-center">
 
         <!--Inside this h2, we want to dynamically get the year -->

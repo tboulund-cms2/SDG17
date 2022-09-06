@@ -137,3 +137,22 @@ img {
     height: 20vh;
     color: black;
 }
+
+#floating-button-section a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+
+.float-button {
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+    background-color: #fcb913;
+    color: white;
+
+}
