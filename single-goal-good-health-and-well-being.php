@@ -3,12 +3,12 @@
 
     <!-- start by Jianming -->
     <div class="navbar">        
-            <div class="row logo-box my-5">                
-                <div class="square-logo col-12 d-flex justify-content-center align-items-center">
+            <div class="row logo-box my-2">                
+                <div class="square-logo col-2 d-flex justify-content-center align-items-center">
                     <img src="<?php the_field("square_logo") ?>" alt="">
                 </div>
             </div>
-        </div>
+    </div>
         
 
         <!-- <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
