@@ -40,7 +40,8 @@
     </div>
 
     <div class="new-goal-section text-center my-2 bg-primary text-wrap">
-            <p class="col-6 bg-secondary">
+        <div class="row new-goal-content row-cols-1"></div>
+            <p class="col bg-secondary">
                 <?php the_field("the_new_goal_") ?>
             </p>                           
     </div>
