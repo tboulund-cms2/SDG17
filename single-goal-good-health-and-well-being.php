@@ -3,42 +3,49 @@
 
     <!-- start by Jianming -->
     <div class="row navbar">        
-            <div class="logo-box col-2 my-2 d-flex justify-content-center align-items-center">                
-                <div class="square-logo">
-                    <img src="<?php the_field("square_logo") ?>" alt="">
-                </div>
+        <div class="logo-box col-2 my-2 d-flex justify-content-center align-items-center">                
+            <div class="square-logo">
+                <img src="<?php the_field("square_logo") ?>" alt="">
             </div>
+        </div>
     </div>      
      
-    <div class="hero-section">              
-            <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="hero-content">                    
-                    <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
-                    <h5 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h5>
-                </div>       
+    <div class="hero-section text-center">              
+        <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
+            <div class="hero-content">                    
+                <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
+                <h5 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h5>
+            </div>       
     </div>
 
     <div class="data-section text-center my-3">
-            <div class="row data-group mx-5 px-5 row-cols-1 row-cols-sm-2 row-cols-md-4">                
-                <div class="data-group-1 col bg-primary ml-5">
-                    <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
-                    <p class="data-description"><?php the_field("data_description_1") ?></p>
-                </div>  
-                <div class="data-group-2 col">
-                    <h1 class="data-number"><?php the_field("data_number_2") ?></h1>
-                    <p class="data-description"><?php the_field("data_description_2") ?></p>
-                </div> 
-                <div class="data-group-3 col">
-                    <h1 class="data-number"><?php the_field("data_number_3") ?></h1>
-                    <p class="data-description"><?php the_field("data_description_3") ?></p>
-                </div> 
-                <div class="data-group-4 col mr-5">
-                    <h1 class="data-number"><?php the_field("data_number_4") ?></h1>
-                    <p class="data-description"><?php the_field("data_description_4") ?></p>
-                </div>                
-                
-            </div>
+        <div class="row data-group mx-5 px-5 row-cols-1 row-cols-sm-2 row-cols-md-4">                
+            <div class="data-group-1 col ml-5">
+                <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
+                <p class="data-description"><?php the_field("data_description_1") ?></p>
+            </div>  
+            <div class="data-group-2 col">
+                <h1 class="data-number"><?php the_field("data_number_2") ?></h1>
+                <p class="data-description"><?php the_field("data_description_2") ?></p>
+            </div> 
+            <div class="data-group-3 col">
+                <h1 class="data-number"><?php the_field("data_number_3") ?></h1>
+                <p class="data-description"><?php the_field("data_description_3") ?></p>
+            </div> 
+            <div class="data-group-4 col mr-5">
+                <h1 class="data-number"><?php the_field("data_number_4") ?></h1>
+                <p class="data-description"><?php the_field("data_description_4") ?></p>
+            </div>  
         </div>
+    </div>
+
+    <div class="new-goal-section text-center my-2">
+            <p>
+                <?php the_field("new_goal") ?>
+            </p>                           
+    </div>
+
+    <!-- end by Jianming -->
     
     
     <!-- Targets Section - Leifur -->
