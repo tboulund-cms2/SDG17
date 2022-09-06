@@ -20,7 +20,7 @@
   </div>
 </div>    
         
-    <div class="card hero-section">  
+    <div class="hero-section">  
         <img class="hero-image col-12" src="<?php the_field("hero_image") ?>" alt="">
             <div class="hero-image-overlay">
               
