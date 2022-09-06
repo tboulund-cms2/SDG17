@@ -148,10 +148,12 @@ body {
 }
 
 h1.hero-title {
+  position: absolute;
   color: #EAEAEA;
 }
 
 h5.hero-subtitle {
+  position: absolute;
   color: #EAEAEA;  
 }
 
