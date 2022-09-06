@@ -3,8 +3,8 @@
 
     <!-- start by Jianming -->
     <div class="navbar">        
-            <div class="row logo-box my-2 d-flex justify-content-center align-items-center">                
-                <div class="square-logo col-2 d-flex justify-content-center align-items-center">
+            <div class="logo-box col-2 my-2">                
+                <div class="square-logo d-flex justify-content-center align-items-center">
                     <img src="<?php the_field("square_logo") ?>" alt="">
                 </div>
             </div>
