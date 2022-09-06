@@ -12,8 +12,8 @@
      
     <div class="hero-section">              
             <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="hero-content bg-success">                    
-                    <h1 class="hero-title text-wrap"><?php the_field("hero_title") ?></h1>
+                <div class="hero-content">                    
+                    <h1 class="hero-title text-wrap bg-success"><?php the_field("hero_title") ?></h1>
                     <h5 class="hero-subtitle text-wrap"><?php the_field("hero_subtitle") ?></h5>
                 </div>       
     </div>
