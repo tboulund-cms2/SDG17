@@ -19,7 +19,7 @@
     </div>
 
     <div class="data-section text-center my-3">
-            <div class="row data-group bg-primary justify-content-center mx-10">                
+            <div class="row data-group bg-primary justify-content-center mx-5">                
                 <div class="data-group-1 col-3">
                     <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
                     <p class="data-description"><?php the_field("data_description_1") ?></p>
