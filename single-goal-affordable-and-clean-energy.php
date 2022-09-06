@@ -98,9 +98,9 @@
 
     </section>
     <section id="floating-button-section">
-        <a>
+        <a href="<?php the_field("affordable_and_clean_energy_group") ?>">
             <div class="floating-button d-flex justify-content-center align-items-center">
-                <p class="text-center"> Contribute <br> Now!</p>
+                <p class="m-0 text-center"> Contribute <br> Now!</p>
             </div>
         </a>
 
