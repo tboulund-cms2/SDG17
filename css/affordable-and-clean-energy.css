@@ -157,9 +157,3 @@ img {
     color: white;
 
 }
-
-.floating-button p {
-    position: fixed;
-    bottom: 50px;
-    right: 25px;
-}
