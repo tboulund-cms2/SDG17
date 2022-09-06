@@ -10,10 +10,10 @@
             </div>
     </div>      
      
-    <div class="hero-section"> 
-        <div class="row">        
+    <div class="hero-section bg-primary"> 
+        <div class="row bg-secondary">        
             <img class="hero-image img-fluid col-12" src="<?php the_field("hero_image") ?>" alt="">
-                <div class="heroContent ">
+                <div class="hero-content bg-success">
                     
                     <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                     <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
