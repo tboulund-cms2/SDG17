@@ -164,3 +164,8 @@ h5.hero-subtitle {
   color: #EAEAEA;
   margin-top: 150px;
 }
+
+p .data-description-1, 
+p. data-description-2 {
+  color: #4C9F38;
+}
