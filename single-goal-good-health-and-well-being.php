@@ -10,17 +10,15 @@
         </div>
     </div>      
      
-    <div class="hero-section text-center">
-        <div class="hero-image-section">              
-            <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt=""> 
-                <div class="hero-content bg-primary">                                  
-                    <h1 class="hero-title mt-2"><?php the_field("hero_title") ?></h1>
-                    <h5 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h5>
-                    <div class="call-to-action my-2">
-                        <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
-                    </div>
-                </div> 
-        </div>     
+    <div class="hero-section text-center">              
+        <img class="hero-image img-fluid" src="<?php the_field("hero_image") ?>" alt=""> 
+            <div class="hero-content bg-primary">                                  
+                <h1 class="hero-title mt-2"><?php the_field("hero_title") ?></h1>
+                <h5 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h5>
+                <div class="call-to-action my-2">
+                    <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
+                </div>
+            </div>      
     </div>
 
     <div class="data-section text-center my-3">
