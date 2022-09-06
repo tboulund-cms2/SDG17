@@ -1,7 +1,7 @@
 <?php get_header() ?>
 
     <?php while(have_posts()): the_post() ?>
-<div class="background">
+
     <div class="card-container">
     <img src="<?php the_field('hero_picture'); ?>" alt="" />
     </div>
@@ -79,7 +79,7 @@
                         <div class="bottom">
                             <p class="bottomtekst">To the top</p>
                         </div>
-  </div>
+
     <?php endwhile ?>
 
 <?php get_footer() ?>
