@@ -147,15 +147,18 @@ body {
 }
 
 .hero-section {
-  position: relative;
-  text-align: center;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 100px;
   
 }
 
 .hero-image{
+  width:100vw;
   height: 100vh;
-  width: 100vw;
   object-fit: cover;
+  position: relative;
 }
 
 .hero-content {
@@ -163,7 +166,7 @@ body {
   /* top: 60%;
   left: 50%;
    */
-   transform: translate(-50%, -50%);
+   /* transform: translate(-50%, -50%); */
 
 }
 
