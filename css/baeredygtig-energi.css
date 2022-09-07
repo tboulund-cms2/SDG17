@@ -82,15 +82,15 @@ h1 {
 
 .spacerLine {
     display: flex;
-    justify-items: center;
+    justify-content: center;
 }
 
 .spacerLine:first-of-type {
-    justify-items: flex-start;
+    justify-content: flex-start;
 }
 
 .spacerLine:last-of-type {
-    justify-items: flex-end;
+    justify-content: flex-end;
 }
 
 .spacer {
