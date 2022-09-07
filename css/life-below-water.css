@@ -62,9 +62,14 @@ img {
     margin-top: 50px;
     padding-top: 80px;
 }
-.target-container{
+.one, .two, .three, .four, .five{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
 }
-.target-left{
+.target-left, .things-left{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,7 +81,7 @@ img {
     width: 130px;
     height: 130px;
 }
-.target-right{
+.target-right, .things-right{
     display: flex;
     justify-content: center;
     align-items: center;
