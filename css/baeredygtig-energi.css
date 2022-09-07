@@ -225,6 +225,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     gap: 480px;
+    width: 148px
 }
 
 .greenLine {
