@@ -219,6 +219,9 @@ h1 {
     display: flex;
     width: 250px;
     height: 350px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
 }
 
 .greenCenterLine {
