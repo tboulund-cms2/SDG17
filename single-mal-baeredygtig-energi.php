@@ -19,7 +19,7 @@
                 <h2 class="col-md-12 headertext1 h2confiq"><?php the_field("info1_overskrift")?></h2>
                 <p class="col-md-12 infotext1 pconfiq"><?php the_field("info1_text")?></p>
             </div>
-            <iframe width="560px" height="315px" src="<?php the_field("video_link") ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
             
         </section>
         <section class="info2">
@@ -69,6 +69,8 @@
         </div>
 
         </section>
+
+        <iframe width="560px" height="315px" src="<?php the_field("video_link") ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <?php endwhile ?>
     
