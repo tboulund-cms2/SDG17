@@ -42,8 +42,8 @@ h1 {
 }
 
 .btns {
-    height: 500pxh;
-    width: 700px;
+    height: 800px;
+    width: 800px;
     display: flex;
     justify-content: center;
     align-content: center;
