@@ -56,12 +56,13 @@
     <!-- end by Jianming -->
     
     
-    <!-- Targets Section - Leifur -->
+<!-- Targets Section - Leifur -->
 
 <div class="target-section-container">
     <div class="main-card-target">
         <div class="main-icon-img">
-            <?php echo wp_get_attachment_image(321, array('500', '500')); ?>
+            <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
+            <!-- <?php echo wp_get_attachment_image(321, array('500', '500')); ?> -->
         </div>
         <div class="main-info-grid">
             <div class="main-info-grid-title">

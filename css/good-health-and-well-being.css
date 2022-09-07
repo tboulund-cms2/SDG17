@@ -51,12 +51,18 @@ body {
   align-items: center;
 }
 
-.main-icon-img {
+/* .main-icon-img {
   width: 90%;
-}
+} */
 
-.main-icon-img img {
+/* .main-icon-img img {
   width: 100%;
+} */
+
+.icon-picture{
+  object-fit: cover;
+  height: 80vh;
+  width: 50vw;
 }
 
 .main-info-grid {
