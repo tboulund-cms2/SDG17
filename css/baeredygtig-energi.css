@@ -187,8 +187,8 @@ h1 {
 }
 
 .cardcontainer {
-    display: flex;
-    padding:20px;
+    display: flex;  
+    justify-content: space-between;
 } 
 
 .cardcolumnone, .cardcolumnthree {
