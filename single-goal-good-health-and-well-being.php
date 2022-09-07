@@ -1,6 +1,9 @@
 <?php get_header()?>
     <?php while(have_posts()): the_post(); ?>
 
+ <div class="background">
+
+
     <!-- start by Jianming -->
     <div class="navbar"> 
         <div class="row navbar-section"></div>       
@@ -47,7 +50,7 @@
     <div class="new-goal-section text-center text-wrap mb-5">
         <div class="row new-goal-content">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <p class="col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                <p class="col-4 col-xl-10 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <?php the_field("the_new_goal_") ?>
                 </p> 
             </div>
@@ -205,6 +208,7 @@
     </div>
 <!-- End of Actions Section - Rose -->
 
+</div>   
     <?php endwhile ?>
 
 <?php get_footer(); ?>
