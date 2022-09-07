@@ -63,11 +63,6 @@ img {
     padding-top: 80px;
 
 }
-.target-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .target-left{
     display: flex;
     justify-content: center;
@@ -96,7 +91,6 @@ img {
     align-items: center;
 }
 .targets_one{
-
     display: flex;
     justify-content: center;
     align-items: center;
