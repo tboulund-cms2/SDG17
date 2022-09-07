@@ -55,11 +55,12 @@
 }
 
 .goal, .forums {
-    height: 150px;
+    height: 100px;
     width: 400px;
     text-decoration: none;
     background-color: #F9B70E;
     color:white;
+    font-size: 20px;
     border-radius: 20px;
     font-size: 20px;
     display: flex;
@@ -99,10 +100,10 @@
 }
 
 .img2 {
-    height: 600px;
+    height: 500px;
     background-image: url("../img/plant.png");
     background-size: cover;
-    width: 600px;
+    width: 500px;
     border-radius: 300px;
 }
 
@@ -121,10 +122,10 @@
 }
 
 .img3 {
-    height: 600px;
+    height: 500px;
     background-image: url("../img/plant.png");
     background-size: cover;
-    width: 600px;
+    width: 500px;
     border-radius: 300px;
 }
 
