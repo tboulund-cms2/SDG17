@@ -40,7 +40,7 @@ h1 {
     gap: 100px;
 }
 
-a {
+.forums {
     height: 100px;
     width: 200px;
     text-decoration: none;
@@ -48,7 +48,7 @@ a {
     color:white;
 }
 
-.forum {
+.goals {
     height: 100px;
     width: 200px;
 }
