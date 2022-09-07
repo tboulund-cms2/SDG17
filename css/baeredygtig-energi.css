@@ -176,6 +176,8 @@
 .goals {
     background-image: url("../img/Untitled-2.jpg");
     background-size: cover;
+    height: auto;
+    width: auto;
 }
 
 .goaltitle {
