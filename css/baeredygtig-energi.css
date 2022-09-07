@@ -321,6 +321,10 @@
     .titel1 {
         font-size: 40px !important
     }
+
+    .info1 {
+        margin-top: 30px;
+    }
   }
 
   @media screen and (max-width: 1700px) {
