@@ -265,6 +265,11 @@ h1 {
         width: auto;
     }
 
+    .mål, .forum {
+        height: 80px;
+        width: 100px;
+    }
+
     .info2, .info3 {
         gap: 10px;;
     }
@@ -305,8 +310,5 @@ h1 {
         font-size: 40px;
     }
 
-    .mål, .forum {
-        height: 80px;
-        width: 100px;
-    }
+
   }
