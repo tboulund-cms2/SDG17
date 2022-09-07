@@ -202,7 +202,9 @@ h1 {
     align-items: center;
 }
 
-
+.cardcolumnthree {
+    justify-content: center;
+}
 
 @media screen and (max-width: 1000px) {
     .backgroundimg {
