@@ -106,7 +106,6 @@
     height: 30vh;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .headertext1, .infotext1, .headertext2, .infotext2, .headertext3, .infotext3, .textbox2, .textbox3 {
