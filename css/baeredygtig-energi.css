@@ -50,16 +50,14 @@
 
 .logo {
     background-image: url("../img/verdensmaallogo.png");
-    background-size: contain;
-    opacity: 0.8;
+    background-size: cover;
     height: 150px;
     width: 150px;
 }
 
 .verdensmål {
     background-image: url("../img/energi.jpg");
-    background-size: contain;
-    opacity: 0.8;
+    background-size: cover;
     height: 150px;
     width: 150px;
     border-radius: 300px;
@@ -131,7 +129,6 @@
     height: 500px;
     background-image: url("../img/plant.png");
     background-size: cover;
-    background-repeat: no-repeat;
     width: 500px;
     border-radius: 300px;
 }
@@ -154,7 +151,6 @@
     height: 500px;
     background-image: url("../img/windmill.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
     width: 500px;
     border-radius: 300px;
 }
