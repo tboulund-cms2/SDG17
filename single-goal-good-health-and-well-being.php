@@ -10,15 +10,17 @@
         </div>
     </div>      
      
-    <div class="hero-section text-center">              
+    <div class="hero-section text-center">      
+        <div class="hero-image-text-container col-12 d-flex align-items-center justify-content-center flex-column">
             <img class="hero-image img-fluid  d-flex col-12" src="<?php the_field("hero_image") ?>" alt=""> 
             <div class="hero-content d-flex flex-column flex-wrap justify-content-center align-items-center">                                  
-                <h1 class="hero-title mt-2"><?php the_field("hero_title") ?></h1>
-                <h3 class="hero-subtitle"><?php the_field("hero_subtitle") ?></h3>
-                <div class="call-to-action my-2">
+                <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
+                <h3 class="hero-subtitle my-5"><?php the_field("hero_subtitle") ?></h3>
+                <div class="call-to-action">
                     <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
                 </div>
-            </div>      
+            </div>   
+        </div>        
     </div>
 
     <div class="data-section text-center my-3">
