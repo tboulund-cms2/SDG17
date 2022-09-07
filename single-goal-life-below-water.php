@@ -99,7 +99,7 @@
                     </div>
                     <div class="col-1"></div>
                 </div>
-            </div>
+            </div><br>
 
             <div class="col-6 target-left">
                 <div class="col-3">
