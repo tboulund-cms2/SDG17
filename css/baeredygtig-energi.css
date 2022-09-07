@@ -253,6 +253,11 @@ h1 {
     .info2, .info3 {
         gap:0;
     }
+
+    .info1, .info2, .info3 {
+        height: auto;
+    }
+
   }
 
   
