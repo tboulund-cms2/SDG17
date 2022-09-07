@@ -216,11 +216,10 @@
 }
 
 .cardtext {
-    display: flex;
-    width: 250px;
-    height: 350px;
-    justify-content: center;
+    width: 300px;
+    height: 285x;
     text-align: left;
+    padding: 15px;
 }
 
 .greenCenterLine {
