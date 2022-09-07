@@ -132,7 +132,7 @@ h1 {
 }    
 
 
-.card {
+.cardone, .cardtwo, .cardthree, .cardfour, .cardfive {
     height: 400px;
     width: 300px;
     background-color: #F9B70E;
