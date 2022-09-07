@@ -175,6 +175,12 @@
     border-radius: 25px;
     border: none;
     margin: 40px 0;
+    transition: 0.5s;
+}
+
+.leftcardone:hover, .leftcardtwo:hover, .leftcardthree:hover, .rightcardone:hover, .rightcardtwo:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
 }
 
 .cardcontainer {
