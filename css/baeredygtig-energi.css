@@ -291,8 +291,12 @@
         width: 100vw;
     }
 
+    .cardcolumntwo {
+        width:auto;
+    }
+
     .lineColumn {
-        width: 200px;
+        width: 50px;
     }
 
   }
