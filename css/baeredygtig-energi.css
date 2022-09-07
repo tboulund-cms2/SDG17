@@ -177,6 +177,9 @@ h1 {
     border: none;
 }    
 
+.cardcolumnone {
+    gap: 20px;
+}
 
 .leftcardone, .leftcardtwo, .leftcardthree, .rightcardone, .rightcardtwo {
     height: 400px;
