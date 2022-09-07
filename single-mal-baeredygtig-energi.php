@@ -12,16 +12,16 @@
             </div>
         </section>
         <section class="info1">
-            <div class="col-md-12 headertext1"><?php the_field("info1_overskrift")?></div>
-            <div class="col-md-12 infotext1"><?php the_field("info1_text")?></div>
+            <h2 class="col-md-12 headertext1"><?php the_field("info1_overskrift")?></h2>
+            <p class="col-md-12 infotext1"><?php the_field("info1_text")?></p>
         </section>
         <section class="info2">
-            <div class="col-md-12 headertext1"><?php the_field("info2_overskrift")?></div>
-            <div class="col-md-12 headertext1"><?php the_field("info2_text")?></div>
+            <h2 class="col-md-12 headertext1"><?php the_field("info2_overskrift")?></h2>
+            <p class="col-md-12 headertext1"><?php the_field("info2_text")?></p>
         </section>
         <section class="info3">
-            <div class="col-md-12 headertext1"><?php the_field("info3_overskrift")?></div>
-            <div class="col-md-12 headertext1"><?php the_field("info3_text")?></div>
+            <h2 class="col-md-12 headertext1"><?php the_field("info3_overskrift")?></h2>
+            <p class="col-md-12 headertext1"><?php the_field("info3_text")?></p>
         </section>
 
         <div class="col-md-12 spacerContainer">

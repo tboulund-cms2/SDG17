@@ -61,14 +61,15 @@ h1 {
 
 .info1 {
     width: auto;
-    height: 20vh;
+    height: 30vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .headertext1 {
-
+    color: #F9B70E;
+    
 }
 
 .spacerContainer {
