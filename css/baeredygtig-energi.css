@@ -376,10 +376,11 @@
 
   }
 
-  @media screen and (max-width: 1100px) {
+  @media screen and (max-width: 1200px) {
     .btns {
         flex-direction: column;
         gap: 20px;
+        width: auto;
     }
 
     .info3 {
