@@ -42,8 +42,8 @@ h1 {
 }
 
 .btns {
-    height: 10000px;
-    width: 500px;
+    height: 20vh;
+    width: 50vw;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -203,18 +203,16 @@ h1 {
 
 @media screen and (max-width: 1000px) {
     .backgroundimg {
-        gap: 50px;
+        gap: 0px;
     }
     .btns {
         gap: 20px;
         flex-direction: column;
-        width: 250px;
-        height: 100px;
-
+        width: auto;
     }
 
     .mål, .forum {
-        height: 90px;
-        width: 150px;
+        height: 150px;
+        width: 300px;
     }
   }
