@@ -95,15 +95,15 @@ p {
 
 .spacerLine {
     display: flex;
-    justify-items: center;
+    justify-content: center;
 }
 
 .spacerLine:first-of-type {
-    justify-items: flex-start;
+    justify-content: flex-start;
 }
 
 .spacerLine:last-of-type {
-    justify-items: flex-end;
+    justify-content: flex-end;
 }
 
 .spacer {
@@ -122,7 +122,7 @@ p {
     height: 400px;
     width: 300px;
     background-color: #F9B70E;
-    
+    border-radius: 20px;    
 }
 
 @media screen and (max-width: 1000px) {
