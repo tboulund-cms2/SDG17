@@ -112,5 +112,5 @@ color:white
     margin-top: 70px;
 }
 h2{
-    color: white;
+    color: white !important;
 }
