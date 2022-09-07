@@ -49,11 +49,9 @@
 }
 
 .logo {
-    background-image: url("../img/verdensmål.png");
-    background-size: cover;
+    background-image: url("../img/verdensmål.png") !important;
     height: 300px;
     width: 300px;
-    background-color: #0c8fcd;
 }
 
 .pconfiq {
