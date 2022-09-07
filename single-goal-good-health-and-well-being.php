@@ -23,7 +23,7 @@
         </div>        
     </div>
 
-    <div class="data-section text-center my-3">
+    <div class="data-section text-center my-5">
         <div class="row data-group col-12 d-flex flex-wrap justify-content-center">                
             <div class="data-group-1 col-12 col-xl-3 ml-5">
                 <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
