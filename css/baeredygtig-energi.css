@@ -27,7 +27,7 @@
 }
 
 h1 {
-    font-size: 200px;
+    font-size: 200px !important;
     color: #F9B70E !important
 }
 
@@ -47,7 +47,7 @@ h1 {
     background-color: #F9B70E;
     color:white;
     border-radius: 20px;
-    font-size: 30px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
