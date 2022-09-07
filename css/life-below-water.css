@@ -101,7 +101,7 @@ img {
     justify-content: center;
     align-items: center;
 }
-.things-left img, .target-left img{
+.things-left img, .things-right img{
     height: 75px;
     width: 75px;
 }
