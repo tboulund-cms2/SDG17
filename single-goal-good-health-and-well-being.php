@@ -70,7 +70,7 @@
             </div>
 
             <div class="box-container-for-icons col-12 col-xl-6">
-                <div class="main-info-grid-icon pe-5">
+                <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
@@ -103,7 +103,7 @@
 
                 </div>
 
-                <div class="main-info-grid-icon pe-5">
+                <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image_copy7") ?>" alt="">
                         <p><?php the_field("small_icon_text_copy7") ?></p>
