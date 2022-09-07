@@ -33,7 +33,7 @@
 }
 
 .h2confiq {
-    font-size: 25px !important;
+    font-size: 35px !important;
     color: #F9B70E !important;
     margin-left: 30px;
     margin-right: 30px;
@@ -78,7 +78,7 @@
 
 .info1 {
     width: auto;
-    height: 30vh;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
