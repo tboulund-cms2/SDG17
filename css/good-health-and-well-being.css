@@ -185,7 +185,7 @@ body {
 }
 
 .data-section{
-  position: absolute;
+  position: relative;
 }
 
 /* img {
