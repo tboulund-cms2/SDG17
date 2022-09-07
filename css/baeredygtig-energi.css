@@ -163,6 +163,8 @@ h1 {
 
 .cardcontainer {
     display: flex;
+    align-items: center;
+    justify-content: center;
 } 
 
 .cardcolumnone, .cardcolumnthree {
