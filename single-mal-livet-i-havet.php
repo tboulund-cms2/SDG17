@@ -12,11 +12,11 @@
                seas and marine resources for sustainable development</h2> 
          </div>
          </div>
-    <div class="col-sm-3"> <img src="<?php the_field('polar_bear'); ?>" alt="" /> </div>
-    <div class="col-sm-3"> <img src="<?php the_field('skrald_1'); ?>" alt="" /> </div>
-    <div class="col-sm-3"> <img src="<?php the_field('water_pol'); ?>" alt="" /> </div>
-    <div class="col-sm-3"> <img src="<?php the_field('over_fishing'); ?>" alt="" /> </div>
-    <div class="col-sm-3"> <img src="<?php the_field('dead_fishy'); ?>" alt="" /> </div>
+    <div class="col-sm-2"> <img src="<?php the_field('polar_bear'); ?>" alt="" /> </div>
+    <div class="col-sm-2"> <img src="<?php the_field('skrald_1'); ?>" alt="" /> </div>
+    <div class="col-sm-2"> <img src="<?php the_field('water_pol'); ?>" alt="" /> </div>
+    <div class="col-sm-2"> <img src="<?php the_field('over_fishing'); ?>" alt="" /> </div>
+    <div class="col-sm-2"> <img src="<?php the_field('dead_fishy'); ?>" alt="" /> </div>
 
             <div class="first-paragraph">
                 <h1 id="white">OUR OCEAN <br>
