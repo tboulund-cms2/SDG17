@@ -122,7 +122,8 @@ p {
     height: 400px;
     width: 300px;
     background-color: #F9B70E;
-    border-radius: 30px;
+    border-radius: 25px;
+    border-color: none;
 }
 
 @media screen and (max-width: 1000px) {
