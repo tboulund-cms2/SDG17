@@ -38,7 +38,7 @@
 
         <section class="goals" id="goals">
 
-        <div class="card">hej</div>
+        <div class="card"></div>
 
         </section>
 
