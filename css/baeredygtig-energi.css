@@ -272,12 +272,13 @@ h1 {
 
     .info1, .info2, .info3 {
         height: auto;
-        width: 80vw;
+        width: 100vw;
     }
 
     .textbox1, .textbox2, .textbox3 {
         display: flex;
         justify-content: center;
+        align-items: center;
         height: auto;
         width: 100vw;
     }
