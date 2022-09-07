@@ -50,13 +50,13 @@
     </section>
 
 
-    <section id="targets-section" class="col-8">
+    <section id="targets-section" class="col-12">
         <div class="col-12">
             <h2><?php the_field("headline") ?></h2>
         </div>
 
 
-    <div class="another-container d-flex justify-content-center col-8">
+    <div class="another-container col-12">
         <div class="col-12 target-container">
             <div class="col-6 target-left">
                 <div class="col-4">
@@ -78,12 +78,6 @@
 
 
 
-
-
-
-
-
-
             <div class="col-6 target-right">
                 <div class="col-4">
                     <img class="target-image" src="<?php the_field("target_image_2") ?>" alt="">
@@ -102,43 +96,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 target-container">
-            <div class="col-6 target-left">
-                <div class="col-4">
-                    <img class="target-image" src="<?php the_field("target_image_3") ?>" alt="">
-                </div>
-                <div class="col-8">
-                    <div class="col"></div>
-                    <div class="col-10 target-box">
-                        <div class="col-12 target-box-headline">
-                            <?php the_field("target_headline") ?>
-                        </div>
-                        <div class="col-12 target-box-description">
-                            <?php the_field("target_description") ?>
-                        </div>
-                    </div>
-                    <div class="col"></div>
-                </div>
-            </div>
-
-            <div class="col-6 target-right">
-                <div class="col-4">
-                    <img class="target-image" src="<?php the_field("target_image_4") ?>" alt="">
-                </div>
-                <div class="col-8">
-                    <div class="col"></div>
-                    <div class="col-10 target-box">
-                        <div class="col-12 target-box-headline">
-                            <?php the_field("target_headline_2") ?>
-                        </div>
-                        <div class="col-12 target-box-description">
-                            <?php the_field("target_description_2") ?>
-                        </div>
-                    </div>
-                    <div class="col"></div>
-                </div>
-            </div>
-        </div>
+ 
         </div>
     </section>
 
