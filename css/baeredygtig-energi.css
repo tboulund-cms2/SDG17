@@ -115,9 +115,12 @@ h1 {
     width: 350px;
     background-color: #83CE29;
     font-size: 20px;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 25px;
+    border: none;
 }
 
 .card {
