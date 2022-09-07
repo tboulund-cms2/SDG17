@@ -31,12 +31,12 @@ h1 {
     color: #F9B70E !important
 }
 
-h2 {
+.h2confiq {
     font-size: 40px !important;
-    color: #F9B70E !important
+    color: #F9B70E !important;
 }
 
-p {
+.pconfiq {
     font-size: 30px !important;
     color: black !important
 }
@@ -75,15 +75,9 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
-.headertext1 {
-
-}
-
-.infotext1 {
-    
-}
 
 .spacerContainer {
     gap: 5px;
