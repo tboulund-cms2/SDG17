@@ -103,6 +103,159 @@
          
 
 
+            <div class="col-6 target-left">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_3") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_3") ?><br><br>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_3") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 target-right">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_4") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_4") ?>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_4") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+            <div class="col-6 target-left">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_5") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_5") ?><br><br>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_5") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 target-right">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_6") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_6") ?>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_6") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+            <div class="col-6 target-left">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_7") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_7") ?><br><br>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_7") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 target-right">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_8") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_8") ?>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_8") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+            <div class="col-6 target-left">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_9") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_9") ?><br><br>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_9") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 target-right">
+                <div class="col-3">
+                    <img class="target-image" src="<?php the_field("target_image_10") ?>" alt="">
+                </div>
+                <div class="col-9 boox">
+                    <div class="col-1"></div>
+                    <div class="col-10 target-box">
+                        <div class="col-12 target-box-headline">
+                            <?php the_field("target_headline_10") ?>
+                        </div>
+                        <div class="col-12 target-box-description">
+                            <?php the_field("target_description_10") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
 
         </div>
  

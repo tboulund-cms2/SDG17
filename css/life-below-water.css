@@ -67,6 +67,10 @@ img {
     justify-content: center;
     align-items: center;
 }
+.target-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .target-left img, .target-right img{
     display: flex;
