@@ -12,9 +12,8 @@
             </div>
         </section>
         <section class="info1">
-            <div class="col-md-12 headertext"><?php the_field("info1_overskrift")?></div>
-            <div class="col-md-12 infotext"><?php the_field("info1_text")?></div>
-
+            <div class="col-md-12 headertext1"><?php the_field("info1_overskrift")?></div>
+            <div class="col-md-12 infotext1"><?php the_field("info1_text")?></div>
         </section>
         <section class="info2"></section>
         <section class="info3"></section>
