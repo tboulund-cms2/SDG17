@@ -203,7 +203,7 @@ h1 {
 
 @media screen and (max-width: 1000px) {
     .backgroundimg {
-        gap: 0px;
+        gap: 0;
     }
     .btns {
         gap: 20px;
@@ -214,5 +214,11 @@ h1 {
     .mål, .forum {
         height: 150px;
         width: 300px;
+    }
+  }
+
+  @media screen and (max-width: 1300px) {
+    .btns {
+        flex-direction: column;
     }
   }
