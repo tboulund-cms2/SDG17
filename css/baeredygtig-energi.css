@@ -91,9 +91,9 @@ h1 {
 }
 
 .img2 {
-    height: auto;
-   width: 30%;
-   background-color: #F9B70E; 
+    height: 100px;
+    width: 30%;
+    background-color: #F9B70E; 
 }
 
 .textboxs2 {
