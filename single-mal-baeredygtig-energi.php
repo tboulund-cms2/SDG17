@@ -16,12 +16,18 @@
             <p class="col-md-12 infotext1 pconfiq"><?php the_field("info1_text")?></p>
         </section>
         <section class="info2">
-            <h2 class="col-md-12 headertext1 h2confiq"><?php the_field("info2_overskrift")?></h2>
-            <p class="col-md-12 headertext1 pconfiq"><?php the_field("info2_text")?></p>
+            <div class="img2"></div>
+            <div class="textbox2">
+                <h2 class="col-md-12 headertext2 h2confiq"><?php the_field("info2_overskrift")?></h2>
+                <p class="col-md-12 headertext2 pconfiq"><?php the_field("info2_text")?></p>
+            </div>
         </section>
         <section class="info3">
-            <h2 class="col-md-12 headertext1 h2confiq"><?php the_field("info3_overskrift")?></h2>
-            <p class="col-md-12 headertext1 pconfiq"><?php the_field("info3_text")?></p>
+            <div class="textbox">
+                <h2 class="col-md-12 headertext3 h2confiq"><?php the_field("info3_overskrift")?></h2>
+                <p class="col-md-12 headertext3 pconfiq"><?php the_field("info3_text")?></p>
+            </div>
+            <div class="img3"></div>
         </section>
 
         <div class="col-md-12 spacerContainer">
