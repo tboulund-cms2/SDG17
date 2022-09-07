@@ -53,6 +53,11 @@ a {
     width: 200px;
 }
 
+.spacerContainer {
+    gap: 5px;
+    display: flex;
+}
+
 .spacer {
     height: 2px;
     background-color: #F9B70E;
