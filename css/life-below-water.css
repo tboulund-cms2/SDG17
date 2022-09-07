@@ -62,7 +62,11 @@ img {
     margin-top: 50px;
     padding-top: 80px;
 }
-.target-container{
+.one, .two, .three, .four, .five{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .target-left{
     display: flex;
