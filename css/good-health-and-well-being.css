@@ -147,14 +147,6 @@ body {
   height: 110px;
 }
 
-<<<<<<< Updated upstream
-h1.hero-title {
-  color: #EAEAEA;
-}
-
-h5.hero-subtitle {
-  color: #EAEAEA;  
-=======
 .hero-section {
   position: relative;
   text-align: center;
@@ -176,7 +168,6 @@ h5.hero-subtitle {
 .hero-subtitle {
   color: #EAEAEA;
   margin-top: 150px;
->>>>>>> Stashed changes
 }
 
 .data-number {
