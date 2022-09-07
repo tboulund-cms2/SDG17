@@ -92,8 +92,10 @@ h1 {
 
 .img2 {
     height: 100%;
-    width: 30%;
-    background-color: #F9B70E; 
+    background-image: url("../img/plant.png");
+    background-size: cover;
+    width: 30%; 
+    border-radius: 50%;
 }
 
 .textbox2 {
