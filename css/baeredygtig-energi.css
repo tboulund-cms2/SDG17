@@ -217,9 +217,10 @@
 
 .cardtext {
     width: 300px;
-    height: 285x;
+    height: 285px;
     text-align: left;
-    padding: 15px;
+    padding: 15px 30px;
+    color: white;
 }
 
 .greenCenterLine {
