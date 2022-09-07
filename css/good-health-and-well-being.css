@@ -147,15 +147,39 @@ body {
   height: 110px;
 }
 
+<<<<<<< Updated upstream
 h1.hero-title {
   color: #EAEAEA;
 }
 
 h5.hero-subtitle {
   color: #EAEAEA;  
+=======
+.hero-section {
+  position: relative;
+  text-align: center;
+  
 }
 
-h1.data-number {
+.hero-content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.hero-title {
+  color: #EAEAEA;
+}
+
+.hero-subtitle {
+  color: #EAEAEA;
+  margin-top: 150px;
+>>>>>>> Stashed changes
+}
+
+.data-number {
   color: #4C9F38;
 }
 
