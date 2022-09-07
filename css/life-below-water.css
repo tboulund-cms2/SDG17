@@ -108,3 +108,6 @@ img {
 .things-left, .things-right{
 color:white
 }
+#things-section{
+    margin-top: 70px;
+}
