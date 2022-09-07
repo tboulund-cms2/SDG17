@@ -117,7 +117,7 @@ h1 {
     font-size: 20px;
     color: #ffffff;
     display: flex;
-    justify-content: center;
+    justify-items: center;
     align-items: center;
     border-radius: 25px;
     border: none;
