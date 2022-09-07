@@ -85,7 +85,7 @@ h1 {
     flex-direction: column;
 }
 
-.infotext2 {
+.info2 {
     height: 40vh;
     width: auto;
 }
@@ -94,12 +94,12 @@ h1 {
     height: 500px;
     background-image: url("../img/plant.png");
     background-size: cover;
-    width: 30vw; 
+    width: 30%; 
     border-radius: 50%;
 }
 
 .textbox2 {
-    width: 70vw;
+    width: 70%;
     background-color:aqua;
     height: 500px;
 }
