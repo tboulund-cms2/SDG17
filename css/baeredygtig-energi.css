@@ -63,14 +63,9 @@ h1 {
     gap: 5px;
     display: flex;
     flex-wrap: wrap;
+    padding:0;
 }
 
-.spacer {
-    height: 2px;
-    background-color: #F9B70E;
-    display: flex;
-    flex-direction: column;
-}
 
 .spacerLine {
     display: flex;
@@ -85,7 +80,14 @@ h1 {
     justify-items: flex-end;
 }
 
-.spacer:first-of-type, .spacer:last-of-type {
+.spacer {
+    height: 2px;
+    background-color: #F9B70E;
+    display: flex;
+    flex-direction: column;
+}
+
+.spacerLine:first-of-type .spacer, .spacerLine:last-of-type .spacer {
     background-color: #0c8fcd;
 }
 
