@@ -186,8 +186,7 @@ h1 {
 }
 
 .cardcontainer {
-    display: flex;  
-    justify-content: space-between;
+    gap: 30px;
 } 
 
 .cardcolumnone, .cardcolumnthree {
