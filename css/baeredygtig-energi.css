@@ -78,6 +78,12 @@ h1 {
     flex-direction: column;
 }
 
+.headertext1, .infotext1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 
 .spacerContainer {
     gap: 3px;
