@@ -160,9 +160,9 @@ body {
 
 .hero-content {
   position: absolute;
-  top: 60%;
+  /* top: 60%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 
 }
 
@@ -186,11 +186,4 @@ body {
 .hero-section {
   position: relative; 
   display: inline-block;
-}
-
-.hero-content {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
