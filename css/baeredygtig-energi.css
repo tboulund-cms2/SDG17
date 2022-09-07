@@ -177,10 +177,6 @@ h1 {
     border: none;
 }    
 
-.cardcolumnone {
-    gap: 20px;
-}
-
 .leftcardone, .leftcardtwo, .leftcardthree, .rightcardone, .rightcardtwo {
     height: 400px;
     width: 300px;
@@ -192,12 +188,12 @@ h1 {
 .cardcontainer {
     display: flex;  
     justify-content: space-between;
-    gap: 20px;
 } 
 
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     height: 1400px;
+    gap: 30px;
 }
 
 
