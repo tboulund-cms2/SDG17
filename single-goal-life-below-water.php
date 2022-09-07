@@ -65,7 +65,7 @@
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
                 </div>
-                <div class="col-9">
+                <div class="col-9 boox">
                     <div class="col-1"></div>
                     <div class="col-10 target-box">
                         <div class="col-12 target-box-headline">
