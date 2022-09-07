@@ -5,33 +5,30 @@
   box-sizing: border-box;
 }
 
-h1 {
+h1, h2, h3, h4 {
   font-family: 'Oswald', sans-serif !important;
-  font-size: 80px !important;
   font-weight: 500 !important;
 }
 
+h1 {
+  font-size: 80px !important;
+}
+
 h2 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 64px;
-  font-weight: 500;
+  font-size: 64px !important;
 }
 
 h3{
-  font-family: 'Oswald', sans-serif;
-  font-size: 48px;
-  font-weight: 500;
+  font-size: 48px !important;
 }
 
 h4{
-  font-family: 'Oswald', sans-serif;
-  font-size: 32px;
-  font-weight: 500;
+  font-size: 32px !important;
 }
 
 p{
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 16px !important;
 }
 
 body {
