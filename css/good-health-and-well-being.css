@@ -71,7 +71,7 @@ body {
   padding-left: 20px;
   height: 80vh;
   background-color: #4C9F38;
-  filter: brightness(0.2);
+  opacity: 0.2;
 }
 
 .main-info-grid-title h2{
