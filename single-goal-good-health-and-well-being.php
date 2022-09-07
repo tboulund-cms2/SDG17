@@ -66,7 +66,7 @@
         <div class="main-info-grid col-12 col-xl-6 p-4">
             <div class="main-info-grid-title">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                <p><?php the_field("target_description") ?></p>
+                <p class="col-12 col-xl-4"><?php the_field("target_description") ?></p>
             </div>
 
             <div class="box-container-for-icons col-12 col-xl-6">
