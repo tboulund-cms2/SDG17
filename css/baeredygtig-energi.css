@@ -91,15 +91,15 @@ h1 {
 }
 
 .img2 {
-    height: 100px;
+    height: 100%;
     width: 30%;
     background-color: #F9B70E; 
 }
 
-.textboxs2 {
+.textbox2 {
     width: 70%;
     background-color:aqua;
-    height: auto;
+    height: 100%;
 }
 
 
