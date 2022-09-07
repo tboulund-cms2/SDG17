@@ -62,10 +62,10 @@
     <div class="another-container col-12">
         <div class="col-12 target-container">
             <div class="col-6 target-left">
-                <div class="col-4">
+                <div class="col-2">
                     <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
                 </div>
-                <div class="col-8">
+                <div class="col-10">
                     <div class="col"></div>
                     <div class="col-10 target-box">
                         <div class="col-12 target-box-headline">
