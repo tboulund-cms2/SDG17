@@ -50,6 +50,7 @@
 
 .logo {
     background-image: url("../img/verdensmaallogo.png");
+    background-size: contain;
     height: 300px;
     width: 300px;
 }
