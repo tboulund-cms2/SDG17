@@ -67,7 +67,7 @@ body {
 }
 
 .main-info-grid {
-  width: 90%;
+  width: 100%;
   padding-left: 20px;
   height: 80vh;
   background-color: #cdeac5;
@@ -141,9 +141,9 @@ body {
   } */
 
   .main-info-grid {
-    width: 50%;
+    /* width: 50%; */
     padding-left: 20px;
-    background-color: lightgreen;
+    background-color: #cdeac5;
   }
 
   .main-card-target {
