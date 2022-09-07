@@ -26,7 +26,7 @@
     gap: 300px;
 }
 
-h1 {
+.titel1 {
     font-size: 80px !important;
     color: #F9B70E !important
 
@@ -266,8 +266,8 @@ h1 {
     }
 
     .goal, .forums {
-        height: 80px;
-        width: 100px;
+        height: 150px;
+        width: 200px;
     }
 
     .info2, .info3 {
@@ -306,7 +306,7 @@ h1 {
         gap: 20px;
     }
 
-    h1 {
+    .titel1 {
         font-size: 40px;
     }
 
