@@ -86,7 +86,7 @@ p {
 }
 
 .spacerContainer {
-    gap: 5px;
+    gap: 3px;
     display: flex;
     flex-wrap: wrap;
     padding:0;
