@@ -78,11 +78,16 @@
 
 .info1 {
     width: auto;
-    height: 300px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.headertext1 {
+    height: 500px;
+    width: auto;
 }
 
 .headertext1, .infotext1, .headertext2, .infotext2, .headertext3, .infotext3, .textbox2, .textbox3 {

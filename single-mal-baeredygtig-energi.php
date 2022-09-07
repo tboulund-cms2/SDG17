@@ -14,7 +14,6 @@
         <section class="info1">
             <div class="info1">
                 <h2 class="col-md-12 headertext1 h2confiq"><?php the_field("info1_overskrift")?></h2>
-                <p class="col-md-12 infotext1 pconfiq"><?php the_field("info1_text")?></p>
             </div>
             
             
