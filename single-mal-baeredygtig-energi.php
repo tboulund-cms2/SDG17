@@ -45,11 +45,21 @@
         <section class="goals" id="goals">
 
         <div class="goaltitle">Mål for 2030</div>
-        <div class="cardone"></div>
-        <div class="cardtwo"></div>
-        <div class="cardthree"></div>
-        <div class="cardfour"></div>
-        <div class="cardfive"></div>
+
+        <div class="cardcontainer">
+            <div class="cardcolumnone">
+                <div class="leftcardone"></div>
+                <div class="leftcardtwo"></div>
+                <div class="leftcardthree"></div>
+            </div>
+            <div class="cardcolumntwo">
+                
+            </div>
+            <div class="cardcolumnthree">
+                <div class="rightcardone"></div>
+                <div class="rightcardtwo"></div>
+            </div>
+        </div>
 
         </section>
 
