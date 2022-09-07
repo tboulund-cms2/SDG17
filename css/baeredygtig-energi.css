@@ -160,17 +160,17 @@ h1 {
     border-radius: 25px;
     border: none;
 }
-/* 
+
 .cardcontainer {
     display: flex;
-} */
+} 
 
-/* .cardcolumnone, .cardcolumnthree {
+.cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     width: 300px;
     height: 1400px;
 }
- */
+
 
 @media screen and (max-width: 1000px) {
     .backgroundimg {
