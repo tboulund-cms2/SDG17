@@ -136,9 +136,9 @@ body {
 
 @media only screen and (min-width: 1200px) {
 
-  .main-icon-img {
+  /* .main-icon-img {
     width: 50%;
-  }
+  } */
 
   .main-info-grid {
     width: 50%;
