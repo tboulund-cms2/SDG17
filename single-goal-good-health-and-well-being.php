@@ -59,12 +59,11 @@
 <!-- Targets Section - Leifur -->
 
 <div class="target-section-container">
-    <div class="main-card-target">
-        <div class="main-icon-img">
+    <div class="main-card-target col-12">
+        <div class="main-icon-img col-12 col-xl-6">
             <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
-            <!-- <?php echo wp_get_attachment_image(321, array('500', '500')); ?> -->
         </div>
-        <div class="main-info-grid">
+        <div class="main-info-grid col-12 col-xl-6">
             <div class="main-info-grid-title">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
                 <p><?php the_field("target_description") ?></p>
