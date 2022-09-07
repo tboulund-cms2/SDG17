@@ -217,7 +217,7 @@ h1 {
     }
   }
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1300px) {
     .btns {
         flex-direction: column;
     }
