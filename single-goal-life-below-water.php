@@ -43,10 +43,14 @@
             </div>
         </div>
     </section>
+</div>
+
 
     <section id="informative-section"  class="col-12">
         <img class="informative-image" src="<?php the_field("informative_image") ?>" alt="">
     </section>
+
+<div class="container">
 
 
     <section id="targets-section" class="col-12">
