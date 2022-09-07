@@ -251,6 +251,7 @@
     margin: 15px auto 0;
 }
 
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         height: auto;
@@ -288,6 +289,10 @@
         align-items: center;
         height: auto;
         width: 100vw;
+    }
+
+    .lineColumn {
+        width: 200px;
     }
 
   }

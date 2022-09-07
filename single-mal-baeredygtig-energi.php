@@ -48,47 +48,73 @@
 
         <section class="goals" id="goals">
 
-        <div class="goaltitle">Mål for 2030</div>
+            <div class="goaltitle">Mål for 2030</div>
 
-        <div class="col-md-10 cardcontainer">
-            <div class="cardcolumnone">
+            <div class="col-md-10 cardcontainer">
+                <div class="cardcolumnone">
+                    <div class="leftcardone">
+                        <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.1_0.png" alt="Goal 7.1">
+                        <p class="col-md-12 cardtext"><?php the_field("leftcardone")?>
+                    </div>
+                    <div class="leftcardtwo">
+                        <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.3_0.png" alt="Goal 7.3">
+                        <p class="col-md-12 cardtext"><?php the_field("leftcardtwo")?>
+                    </div>
+                    <div class="leftcardthree">
+                        <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.B_0.png" alt="Goal 7.5">
+                        <p class="col-md-12 cardtext"><?php the_field("leftcardthree")?>
+                    </div>
+                </div>
+                <div class="cardcolumntwo">
+                    <div class="lineColumn">
+                        <div class="greenLine"></div>
+                        <div class="greenLine"></div>
+                        <div class="greenLine"></div>
+                    </div>
+                    <div class="greenCenterLine"></div>
+                    <div class="lineColumn">
+                        <div class="greenLine"></div>
+                        <div class="greenLine"></div>
+                    </div>
+                </div>
+                <div class="cardcolumnthree">
+                    <div class="rightcardone">
+                        <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.2_0.png" alt="Goal 7.2">
+                        <p class="col-md-12 cardtext"><?php the_field("rightcardone")?>
+                    </div>
+                    <div class="rightcardtwo">
+                        <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.A_0.png" alt="Goal 7.4">
+                        <p class="col-md-12 cardtext"><?php the_field("rightcardtwo")?>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="goalsMobile">
+
+            <div class="goaltitle">Mål for 2030</div>
+
+            <div class="col-md-10 cardcontainer">
                 <div class="leftcardone">
                     <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.1_0.png" alt="Goal 7.1">
-                <p class="col-md-12 cardtext"><?php the_field("leftcardone")?>
+                    <p class="col-md-12 cardtext"><?php the_field("leftcardone")?>
+                </div>
+                <div class="rightcardone">
+                    <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.2_0.png" alt="Goal 7.2">
+                    <p class="col-md-12 cardtext"><?php the_field("rightcardone")?>
                 </div>
                 <div class="leftcardtwo">
                     <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.3_0.png" alt="Goal 7.3">
-                <p class="col-md-12 cardtext"><?php the_field("leftcardtwo")?>
-                </div>
-                <div class="leftcardthree">
-                    <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.B_0.png" alt="Goal 7.5">
-                <p class="col-md-12 cardtext"><?php the_field("leftcardthree")?>
-                </div>
-            </div>
-            <div class="cardcolumntwo">
-                <div class="lineColumn">
-                    <div class="greenLine"></div>
-                    <div class="greenLine"></div>
-                    <div class="greenLine"></div>
-                </div>
-                <div class="greenCenterLine"></div>
-                <div class="lineColumn">
-                    <div class="greenLine"></div>
-                    <div class="greenLine"></div>
-                </div>
-            </div>
-            <div class="cardcolumnthree">
-                <div class="rightcardone">
-                    <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.2_0.png" alt="Goal 7.2">
-                <p class="col-md-12 cardtext"><?php the_field("rightcardone")?>
+                    <p class="col-md-12 cardtext"><?php the_field("leftcardtwo")?>
                 </div>
                 <div class="rightcardtwo">
                     <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.A_0.png" alt="Goal 7.4">
-                <p class="col-md-12 cardtext"><?php the_field("rightcardtwo")?>
+                    <p class="col-md-12 cardtext"><?php the_field("rightcardtwo")?>
                 </div>
+                <div class="leftcardthree">
+                    <img class="cardImg" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_7_TARGET_7.B_0.png" alt="Goal 7.5">
+                    <p class="col-md-12 cardtext"><?php the_field("leftcardthree")?>
+                </div>            
             </div>
-        </div>
-
         </section>
         <section>
         <iframe width="560" height="315" src="<?php the_field("video_link") ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
