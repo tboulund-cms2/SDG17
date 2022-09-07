@@ -25,13 +25,13 @@
         <section class="info2">
             <div class="img2"></div>
             <div class="textbox2">
-                <h2 class="col-md-12 headertext2 h2confiq"><?php the_field("info2_overskrift")?></h2>
+                <h2 class="col-md-12 headertext2 pconfiq"><?php the_field("info2_overskrift")?></h2>
                 <p class="col-md-12 headertext2 pconfiq"><?php the_field("info2_text")?></p>
             </div>
         </section>
         <section class="info3">
             <div class="textbox3">
-                <h2 class="col-md-12 headertext3 h2confiq"><?php the_field("info3_overskrift")?></h2>
+                <h2 class="col-md-12 headertext3 pconfiq"><?php the_field("info3_overskrift")?></h2>
                 <p class="col-md-12 headertext3 pconfiq"><?php the_field("info3_text")?></p>
             </div>
             <div class="img3"></div>
