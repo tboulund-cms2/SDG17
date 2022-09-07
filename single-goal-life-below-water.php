@@ -277,7 +277,7 @@
                     <div class="col-1"></div>
                     <div class="col-10">
                         <div class="col-12">
-                            <?php the_field("light_bulb_description") ?>
+                            <?php the_field("light_bulb_desctiption") ?>
                         </div>
                     </div>
                     <div class="col-1"></div>
@@ -294,7 +294,7 @@
                     <div class="col-1"></div>
                     <div class="col-10">
                         <div class="col-12">
-                            <?php the_field("light_bulb_description") ?>
+                            <?php the_field("light_bulb_desctiption_2") ?>
                         </div>
                     </div>
                     <div class="col-1"></div>
