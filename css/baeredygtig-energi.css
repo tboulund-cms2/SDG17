@@ -80,7 +80,7 @@ h1 {
 
 
 .spacerContainer {
-    gap: 5px;
+    gap: 3px;
     display: flex;
     flex-wrap: wrap;
     padding:0;
@@ -117,7 +117,7 @@ h1 {
     width: 300px;
     background-color: #F9B70E;
     border-radius: 25px;
-    border-color: none;
+    border: none;
 }
 
 @media screen and (max-width: 1000px) {
