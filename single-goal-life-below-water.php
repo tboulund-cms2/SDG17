@@ -62,7 +62,7 @@
     <div class="another-container col-12">
         <div class="col-12 target-container">
 
-        <div class="targets_one">
+        <div>
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
@@ -100,9 +100,9 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-        </div>
+         </div>
 
-        <div class="targets_one">
+
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image_3") ?>" alt="">
@@ -140,8 +140,8 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-        </div>
-        <div class="targets_one">
+
+
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image_5") ?>" alt="">
@@ -179,8 +179,7 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-        </div>
-        <div class="targets_one">
+
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image_7") ?>" alt="">
@@ -218,8 +217,8 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-        </div>
-        <div class="targets_one">
+
+
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image_9") ?>" alt="">
@@ -257,7 +256,6 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-        </div>
 
         </div>
  
