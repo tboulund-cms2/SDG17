@@ -344,6 +344,14 @@
         width: 200px;
     }
 
+    .logos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+
   }
 
   @media screen and (max-width: 1100px) {
