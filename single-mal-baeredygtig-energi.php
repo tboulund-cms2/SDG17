@@ -5,6 +5,10 @@
         <section class="banner">
             <div class="col-md-12 backgroundimg" style="background-image: url(<?php the_field("banner") ?>)">
                 <h1 class="titel1">Bæredygtig energi</h1>
+                <div class="logos">
+                    <div class="logo"></div>
+                    <div class="verdensmål"></div>
+                </div>
                 <div class="col-md-12 btns">
                     <a href="#goals" class="goal"><p class="pconfiq">Mål for bæredygtig energi</p></a>
                     <a href="/sdg17/groups/baeredygtig-energi/members/all-members/" class="forums"><p class="pconfiq">Forums</p></a>

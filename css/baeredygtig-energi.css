@@ -39,6 +39,20 @@
     margin-right: 30px;
 }
 
+.logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.logo {
+    background-image: url("../img/verdensmål.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+
 .pconfiq {
     font-size: 20px !important;
     color: black !important;
