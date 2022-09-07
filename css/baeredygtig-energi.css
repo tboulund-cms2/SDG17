@@ -206,6 +206,24 @@ h1 {
     justify-content: center;
 }
 
+.greenCenterLine {
+    width: 4px;
+    background-color: #83CE29;
+}
+
+.lineColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 480px;
+}
+
+.greenLine {
+    width: 100%;
+    height: 4px;
+    background-color: #83CE29;
+}
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         height: auto;

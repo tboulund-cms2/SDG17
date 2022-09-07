@@ -57,7 +57,16 @@
                 <div class="leftcardthree"></div>
             </div>
             <div class="cardcolumntwo">
-                
+                <div class="lineColumn">
+                    <div class="greenLine"></div>
+                    <div class="greenLine"></div>
+                    <div class="greenLine"></div>
+                </div>
+                <div class="greenCenterLine"></div>
+                <div class="lineColumn">
+                    <div class="greenLine"></div>
+                    <div class="greenLine"></div>
+                </div>
             </div>
             <div class="cardcolumnthree">
                 <div class="rightcardone"></div>
