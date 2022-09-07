@@ -8,6 +8,11 @@
     padding: 0 !important
 }
 
+iframe {
+    width: 60% !important;
+    height: 60% !important;
+}
+
 .banner {
     width: 100vw;
     height: 89vh;
