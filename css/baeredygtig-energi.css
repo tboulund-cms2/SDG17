@@ -100,6 +100,7 @@
     align-items: center;
     gap: 50px;
     background-color: #0c90cd23;
+    border-radius: 200px;
 }
 
 .img2 {
@@ -109,8 +110,6 @@
     background-position: center;
     width: 500px;
     border-radius: 300px;
-    margin-left: 30px;
-    margin-left: 30px;
 }
 
 .textbox2 {
