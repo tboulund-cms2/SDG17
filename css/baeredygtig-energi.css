@@ -165,6 +165,11 @@ h1 {
     background-color: #0c8fcd;
 }
 
+.goals {
+    display: flex;
+    align-items: center;
+}
+
 .goaltitle {
     height: 100px;
     width: 350px;
@@ -192,7 +197,7 @@ h1 {
 .cardcontainer {
     display: flex;  
     justify-content: space-between;
-    align-items: center;
+    float: none !important;
 } 
 
 .cardcolumnone, .cardcolumnthree {
