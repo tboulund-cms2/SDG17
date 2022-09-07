@@ -27,7 +27,7 @@
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 100px, bold;
     color: #F9B70E !important
 }
 
