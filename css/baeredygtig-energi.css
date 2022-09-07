@@ -119,10 +119,11 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin: 50 auto 0;
     border-radius: 25px;
     border: none;
-    
+}    
+
 
 .card {
     height: 400px;
