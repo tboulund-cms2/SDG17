@@ -185,7 +185,7 @@
 .goals {
     background-image: url("../img/SDG17.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: relative, 50px;
     height: auto;
     width: auto;
     border-radius: 50px;
