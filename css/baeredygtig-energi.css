@@ -323,4 +323,8 @@
     .goal, .forums {
         margin: 0;
     }
+
+    .banner {
+        height: auto;
+    }
   }
