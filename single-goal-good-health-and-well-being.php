@@ -1,9 +1,6 @@
 <?php get_header()?>
     <?php while(have_posts()): the_post(); ?>
 
- <div class="background container-fluid">
-
-
     <!-- start by Jianming -->
     <div class="navbar"> 
         <div class="row navbar-section"></div>       
@@ -207,8 +204,7 @@
         </div>
     </div>
 <!-- End of Actions Section - Rose -->
-
-</div>   
+  
     <?php endwhile ?>
 
 <?php get_footer(); ?>
