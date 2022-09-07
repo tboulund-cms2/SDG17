@@ -107,6 +107,28 @@ h1 {
     height: 500px;
 }
 
+.info3 {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.img3 {
+    height: 600px;
+    background-image: url("../img/plant.png");
+    background-size: cover;
+    width: 600px;
+    border-radius: 300px;
+}
+
+.textbox3 {
+    width: 50%;
+    height: 500px;
+}
+
 
 
 .spacerContainer {
