@@ -159,6 +159,17 @@ h1 {
     border: none;
 }
 
+.cardcontainer {
+    display: flex;
+}
+
+.cardcolumnone, .cardcolumnthree {
+    flex-direction: column;
+    width: 300px;
+    height: 1400px;
+}
+
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         gap: 50px;
