@@ -40,15 +40,30 @@ h1 {
     gap: 100px;
 }
 
-.mål {
+a {
     height: 100px;
     width: 200px;
-
+    text-decoration: none;
+    background-color: #F9B70E;
+    color:white;
 }
 
 .forum {
     height: 100px;
     width: 200px;
+}
+
+.spacer {
+    height: 2px;
+    background-color: #F9B70E;
+}
+
+.spacer:first-of-type {
+    background-color: #0c8fcd;
+}
+
+.spacer:last-of-type {
+    background-color: #0c8fcd;
 }
 
 @media screen and (max-width: 1000px) {
