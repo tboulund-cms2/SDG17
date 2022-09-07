@@ -1,3 +1,4 @@
+
 <?php get_header()?>
 
     <?php while(have_posts()): the_post() ?>
@@ -7,10 +8,10 @@
     <div class="intro">
         <div class="heading">MÅL 15: LIVET PÅ LANDET</div>
         <div class="row">
-            <div class="col-4">
+            <div class="col-md-4 col-sm-12">
                 <img class="intro-image" src="<?php the_field("intro-image") ?>" alt="">
             </div>
-            <div id="intro-text" class="col-8">
+            <div id="intro-text" class="col-md-8 col-sm-12">
                 <h3><?php the_field("intro-text") ?></h3>
             </div>
         </div>
@@ -40,7 +41,7 @@
             <p style="padding: 0px 150px 30px 150px;"><?php the_field("description-4") ?></p>
         </div>
             <div class="row">
-                <div id="groups" class="col-7">
+                <div id="groups" class="col-md-7 col-sm-12">
                     <p style="font-size:30px; font-weight:900 ;">Del din mening!</p>
                     <p style="padding: 0px 150px 30px 150px;">Vær med i fælleskabet og deltag i forskellige forummer. Din mening er vigtig, og her er plads til alles holdninger.</p>
                     <a href="http://boulund.com/sdg17/groups/livet-pa-landet/members/all-members/">
@@ -48,7 +49,7 @@
                     </a>
 
                 </div>
-                <div class="col-5">
+                <div class="col-md-5 col-sm-12">
                     <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
                 </div>
             </div>
@@ -64,9 +65,9 @@
                                                 <div id="greenbox" class="col-4">
                                                 <img src="<?php the_field("icon") ?>" alt="">
                                                 </div>
-                                                <div class="col-8">
-                                                    <h3 style="color: #707070; font-weight:900 ;"><?php the_field("title") ?></h3>
-                                                    <p style="color: #707070 ;"><?php the_field("text-field") ?></p>
+                                                <div id="subgoal-text" class="col-8">
+                                                    <h3 style="color: #707070 !important; font-weight:900 ; padding-left:100px;"><?php the_field("title") ?></h3>
+                                                    <p style="color: #707070 ; padding-right:100px; padding-left:100px;"><?php the_field("text-field") ?></p>
                                                 </div>
                                             </div>
 

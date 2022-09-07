@@ -67,6 +67,7 @@ img {
 
 .cta-contribute {
     color: #fcb913;
+    font-weight: 900;
 }
 
 #signup-section {
@@ -135,4 +136,27 @@ img {
 #footer-section {
     height: 20vh;
     color: black;
+}
+
+#floating-button-section a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+
+.floating-button {
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #fcb913;
+    color: white;
+    z-index: 5;
+
+}
+
+.floating-button p {
+    z-index: 10;
 }
