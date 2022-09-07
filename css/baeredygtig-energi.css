@@ -99,6 +99,7 @@
     justify-content: center;
     align-items: center;
     gap: 50px;
+    background-color: #0c90cd23;
 }
 
 .img2 {
@@ -176,6 +177,7 @@
 .goals {
     background-image: url("../img/SDG17.jpg");
     background-size: cover;
+    background-position: center;
     height: auto;
     width: auto;
 }
