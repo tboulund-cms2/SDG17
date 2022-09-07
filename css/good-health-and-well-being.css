@@ -152,6 +152,10 @@ body {
   
 }
 
+.hero-image{
+  height: 100vh;
+}
+
 .hero-content {
   position: absolute;
   top: 60%;
