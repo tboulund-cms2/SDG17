@@ -194,7 +194,7 @@ h1 {
 
 .cardcontainer {
     display: flex;  
-    justify-content: space-between;
+    justify-content: center;
     float: none !important;
     margin: 0 auto;
 } 
@@ -208,6 +208,29 @@ h1 {
 
 .cardcolumnthree {
     justify-content: center;
+}
+
+.cardcolumtwo {
+    width: 300px;
+    display: flex;
+}
+
+.greenCenterLine {
+    width: 4px;
+    background-color: #83CE29;
+}
+
+.lineColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 480px;
+}
+
+.greenLine {
+    width: 100%;
+    height: 4px;
+    background-color: #83CE29;
 }
 
 @media screen and (max-width: 1000px) {
