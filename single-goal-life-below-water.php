@@ -302,6 +302,99 @@
             </div>
          
         </div>
+
+
+
+
+        <div class="two">
+            <div class="col-6 things-left">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_desctiption_3") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 things-right">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_desctiption_4") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+         
+        </div>
+
+
+
+
+        <div class="three">
+            <div class="col-6 things-left">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_desctiption_5") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 things-right">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_desctiption_6") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+         
+        </div>
+        <div class="four">
+            <div class="col-6 things-left">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_desctiption_7") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+         
+        </div>
     </section>
 
 <?php endwhile ?>
