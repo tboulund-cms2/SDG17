@@ -208,6 +208,7 @@ h1 {
     .btns {
         gap: 20px;
         flex-direction: column;
+        width: auto;
     }
 
     .mål, .forum {
