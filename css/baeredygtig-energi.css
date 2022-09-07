@@ -215,6 +215,12 @@ h1 {
     display: flex;
 }
 
+.cardtext {
+    display: flex;
+    width: 250px;
+    height: 350px;
+}
+
 .greenCenterLine {
     width: 4px;
     background-color: #83CE29;
