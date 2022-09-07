@@ -78,7 +78,7 @@ h1 {
     flex-direction: column;
 }
 
-.headertext1, .infotext1, .headertext2, .infotext2, .headertext3, .infotext3 {
+.headertext1, .infotext1 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,6 +88,9 @@ h1 {
 .info2 {
     height: 500px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img2 {

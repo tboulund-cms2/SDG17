@@ -23,7 +23,7 @@
             </div>
         </section>
         <section class="info3">
-            <div class="textbox">
+            <div class="textbox3">
                 <h2 class="col-md-12 headertext3 h2confiq"><?php the_field("info3_overskrift")?></h2>
                 <p class="col-md-12 headertext3 pconfiq"><?php the_field("info3_text")?></p>
             </div>
