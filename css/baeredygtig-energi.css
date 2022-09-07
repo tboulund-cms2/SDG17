@@ -78,12 +78,29 @@ h1 {
     flex-direction: column;
 }
 
-.headertext1, .infotext1 {
+.headertext1, .infotext1, .headertext2, .infotext2, .headertext3, .infotext3 {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
+
+.infotext2 {
+    height: 40vh;
+    width: auto;
+}
+
+.img2 {
+   width: 30%;
+   background-color: #F9B70E; 
+}
+
+.textboks2 {
+    width: 70%;
+    background-color:aqua;
+}
+
+
 
 .spacerContainer {
     gap: 3px;
