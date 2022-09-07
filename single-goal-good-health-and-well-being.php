@@ -69,7 +69,7 @@
                 <p><?php the_field("target_description") ?></p>
             </div>
 
-            <div class="box-container-for-icons">
+            <div class="box-container-for-icons col-12 col-xl-6">
                 <div class="main-info-grid-icon">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image") ?>" alt="">
