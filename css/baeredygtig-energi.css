@@ -40,17 +40,12 @@ h1 {
     gap: 100px;
 }
 
-.forums {
+.forums, .goals {
     height: 100px;
     width: 200px;
     text-decoration: none;
     background-color: #F9B70E;
     color:white;
-}
-
-.goals {
-    height: 100px;
-    width: 200px;
 }
 
 .spacerContainer {
