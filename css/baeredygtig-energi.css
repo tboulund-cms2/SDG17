@@ -184,12 +184,12 @@ h1 {
     background-color: #F9B70E;
     border-radius: 25px;
     border: none;
+    padding: 50px;
 }
 
 .cardcontainer {
     display: flex;  
     justify-content: space-between;
-    padding: 50px;
 } 
 
 .cardcolumnone, .cardcolumnthree {
