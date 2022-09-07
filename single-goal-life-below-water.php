@@ -62,7 +62,6 @@
     <div class="another-container col-12">
         <div class="col-12 target-container">
 
-        <div>
             <div class="col-6 target-left">
                 <div class="col-3">
                     <img class="target-image" src="<?php the_field("target_image") ?>" alt="">
