@@ -24,9 +24,11 @@
             <div class="col-md-12 headertext1"><?php the_field("info3_text")?></div>
         </section>
 
-        <div class="col-md-7 spacer"></div>
-        <div class="col-md-6 spacer"></div>
-        <div class="col-md-7 spacer"></div>
+        <div class="col-md-12 spacerContainer">
+            <div class="col-md-7 spacer"></div>
+            <div class="col-md-6 spacer"></div>
+            <div class="col-md-7 spacer"></div>
+        </div>
 
         <section class="goals" id="goals"></section>
 

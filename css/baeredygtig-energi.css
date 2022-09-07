@@ -40,7 +40,7 @@ h1 {
     gap: 100px;
 }
 
-a {
+.forums, .goals {
     height: 100px;
     width: 200px;
     text-decoration: none;
@@ -48,9 +48,9 @@ a {
     color:white;
 }
 
-.forum {
-    height: 100px;
-    width: 200px;
+.spacerContainer {
+    gap: 5px;
+    display: flex;
 }
 
 .spacer {
