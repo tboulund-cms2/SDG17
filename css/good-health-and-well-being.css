@@ -156,12 +156,12 @@ body {
 
 .hero-image{
   filter: brightness(0.6);
+  width:100vw;
+  height: 80vh;
+  object-fit: cover;
 }
 
 .hero-image-text-container{
-  width:100vw;
-  height: 100vh;
-  object-fit: cover;
   position: relative;
 }
 

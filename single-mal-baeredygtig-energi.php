@@ -44,8 +44,12 @@
 
         <section class="goals" id="goals">
 
-        <div class="goaltitle">Goals for 2030</div>
-        <div class="card"></div>
+        <div class="goaltitle">Mål for 2030</div>
+        <div class="cardone"></div>
+        <div class="cardtwo"></div>
+        <div class="cardthree"></div>
+        <div class="cardfour"></div>
+        <div class="cardfive"></div>
 
         </section>
 
