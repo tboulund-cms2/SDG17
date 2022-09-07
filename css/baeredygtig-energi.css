@@ -40,10 +40,10 @@ h1 {
     gap: 100px;
 }
 
-.mål {
+a {
     height: 100px;
     width: 200px;
-
+    text-decoration: none;
 }
 
 .forum {
