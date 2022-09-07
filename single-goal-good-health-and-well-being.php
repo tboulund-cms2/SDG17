@@ -47,7 +47,7 @@
     <div class="new-goal-section text-center text-wrap mb-5">
         <div class="row new-goal-content">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <p class="col-4 col-xl-10 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                <p class="col-10 col-xl-5 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <?php the_field("the_new_goal_") ?>
                 </p> 
             </div>
