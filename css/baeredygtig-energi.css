@@ -31,6 +31,16 @@ h1 {
     color: #F9B70E !important
 }
 
+h2 {
+    font-size: 40px !important;
+    color: #F9B70E !important
+}
+
+p {
+    font-size: 30px !important;
+    color: black !important
+}
+
 .btns {
     height: 40%;
     width: 50%;
@@ -68,7 +78,10 @@ h1 {
 }
 
 .headertext1 {
-    color: #F9B70E;
+
+}
+
+.infotext1 {
     
 }
 
