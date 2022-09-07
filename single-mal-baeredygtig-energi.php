@@ -30,7 +30,11 @@
             <div class="col-md-7 spacer"></div>
         </div>
 
-        <section class="goals" id="goals"></section>
+        <section class="goals" id="goals">
+
+        <div class="card">hej</div>
+
+        </section>
 
     <?php endwhile ?>
     
