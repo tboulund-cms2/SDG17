@@ -212,7 +212,7 @@ h1 {
     }
 
     .mål, .forum {
-        height: 150px;
+        height: 200px;
         width: 300px;
     }
   }
@@ -220,5 +220,11 @@ h1 {
   @media screen and (max-width: 1300px) {
     .btns {
         flex-direction: column;
+        gap: 0;
+    }
+
+    .mål, .forum {
+        height: 200px;
+        width: 300px;
     }
   }
