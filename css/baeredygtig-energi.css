@@ -8,11 +8,6 @@
     padding: 0 !important
 }
 
-iframe {
-    width: 60% !important;
-    height: 60% !important;
-}
-
 .banner {
     width: 100vw;
     height: 89vh;
@@ -182,6 +177,7 @@ h1 {
     border: none;
 }    
 
+
 .leftcardone, .leftcardtwo, .leftcardthree, .rightcardone, .rightcardtwo {
     height: 400px;
     width: 300px;
@@ -191,7 +187,8 @@ h1 {
 }
 
 .cardcontainer {
-    gap: 30px;
+    display: flex;  
+    justify-content: space-between;
 } 
 
 .cardcolumnone, .cardcolumnthree {
