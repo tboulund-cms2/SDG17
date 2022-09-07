@@ -51,6 +51,19 @@ a {
     width: 200px;
 }
 
+.spacer {
+    height: 2px;
+    background-color: #F9B70E;
+}
+
+.spacer:first-of-type {
+    background-color: #0c8fcd;
+}
+
+.spacer:last-of-type {
+    background-color: #0c8fcd;
+}
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         gap: 50px;
