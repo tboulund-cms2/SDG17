@@ -46,6 +46,8 @@ h1 {
     text-decoration: none;
     background-color: #F9B70E;
     color:white;
+    border-radius: 20px;
+    font-size: 50px;
 }
 
 .spacerContainer {
