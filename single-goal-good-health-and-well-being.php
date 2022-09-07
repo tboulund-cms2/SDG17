@@ -23,7 +23,7 @@
         </div>        
     </div>
 
-    <div class="data-section text-center my-5">
+    <div class="data-section container text-center my-5">
         <div class="row data-group col-12 d-flex flex-wrap justify-content-center">                
             <div class="data-group-1 col-12 col-xl-3 ml-5">
                 <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
@@ -44,8 +44,8 @@
         </div>
     </div>
 
-    <div class="new-goal-section text-center text-wrap">
-        <div class="row new-goal-content my-3">
+    <div class="new-goal-section text-center text-wrap mb-5">
+        <div class="row new-goal-content">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
                 <p class="col-4 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <?php the_field("the_new_goal_") ?>
