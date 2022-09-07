@@ -41,13 +41,13 @@ h1 {
 }
 
 .forums, .goal {
-    height: 100px;
-    width: 200px;
+    height: 200px;
+    width: 300px;
     text-decoration: none;
     background-color: #F9B70E;
     color:white;
     border-radius: 20px;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .spacerContainer {
