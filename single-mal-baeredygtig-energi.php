@@ -7,15 +7,18 @@
                 <h1>Bæredygtig energi</h1>
                 <div class="col-md-12 btns">
                     <a href="/sdg17/groups/baeredygtig-energi/members/all-members/"><p>Forums</p></a>
-                    <button class="col-md-6 mål"><p>Mål for bæredygtig energi</p></button>
-                    <button class="col-md-6 forum"><p>Verdensmålets forum</p></button>
+                    <a href="#goals">Mål for bæredygtig energi</a>
                 </div>
             </div>
         </section>
-        <section class="info1"></section>
+        <section class="info1">
+            <div class="col-md-12 headertext"><?php the_field("info1_overskrift")?></div>
+            <div class="col-md-12 infotext"><?php the_field("info1_text")?></div>
+
+        </section>
         <section class="info2"></section>
         <section class="info3"></section>
-        <section class="goals"></section>
+        <section class="goals" id="goals"></section>
 
     <?php endwhile ?>
     
