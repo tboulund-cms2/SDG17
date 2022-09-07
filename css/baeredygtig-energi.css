@@ -53,6 +53,12 @@ h1 {
     align-items: center;
 }
 
+.goal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .spacerContainer {
     gap: 5px;
     display: flex;
