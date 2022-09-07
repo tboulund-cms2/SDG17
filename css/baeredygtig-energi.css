@@ -23,11 +23,11 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 200px;
+    gap: 300px;
 }
 
 h1 {
-    font-size: 100px, bold;
+    font-size: 2S00px, bold !important;
     color: #F9B70E !important
 }
 
@@ -37,7 +37,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-content: center;
-    gap: 100px;
+    gap: 200px;
 }
 
 .goal, .forums {
@@ -62,20 +62,33 @@ h1 {
 .spacerContainer {
     gap: 5px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .spacer {
     height: 2px;
     background-color: #F9B70E;
+    display: flex;
+    flex-direction: column;
 }
 
-.spacer:first-of-type {
+.spacerLine {
+    display: flex;
+    justify-items: center;
+}
+
+.spacerLine:first-of-type {
+    justify-items: flex-start;
+}
+
+.spacerLine:last-of-type {
+    justify-items: flex-end;
+}
+
+.spacer:first-of-type, .spacer:last-of-type {
     background-color: #0c8fcd;
 }
 
-.spacer:last-of-type {
-    background-color: #0c8fcd;
-}
 
 .card {
     height: 825px;

@@ -25,9 +25,15 @@
         </section>
 
         <div class="col-md-12 spacerContainer">
-            <div class="col-md-7 spacer"></div>
-            <div class="col-md-6 spacer"></div>
-            <div class="col-md-7 spacer"></div>
+            <div class="col-md-12 spacerLine">
+                <div class="col-md-7 spacer"></div>
+            </div>
+            <div class="col-md-12 spacerLine">
+                <div class="col-md-6 spacer"></div>
+            </div>
+            <div class="col-md-12 spacerLine">
+                <div class="col-md-7 spacer"></div>  
+            </div>
         </div>
 
         <section class="goals" id="goals">

@@ -398,7 +398,9 @@
 
         <div class="goals-container">
             <div class="col-3">
-                 <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
+                <a href="<?php the_field("life_below_water_group") ?>">
+                    <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
+                </a>
             </div>
             <div class="col-1"></div>
             <div class="col-3">
@@ -411,6 +413,7 @@
         </div>
 
     </section>
+
 
 
 <?php endwhile ?>
