@@ -86,8 +86,8 @@ h1 {
 }
 
 .info2 {
-    height: 60vh;
-    width: 100vw;
+    height: 500px;
+    width: 100%;
 }
 
 .img2 {
@@ -95,7 +95,6 @@ h1 {
     background-image: url("../img/plant.png");
     background-size: cover;
     width: 30%; 
-    border-radius: 50%;
 }
 
 .textbox2 {
