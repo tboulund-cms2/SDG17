@@ -146,49 +146,12 @@
     height: 500px;
 }
 
-
-
-.spacerContainer {
-    gap: 3px;
-    display: flex;
-    flex-wrap: wrap;
-    padding:0;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-
-.spacerLine {
-    display: flex;
-    justify-content: center;
-}
-
-.spacerLine:first-of-type {
-    justify-content: flex-start;
-}
-
-.spacerLine:last-of-type {
-    justify-content: flex-end;
-}
-
-.spacer {
-    height: 2px;
-    background-color: #F9B70E;
-    display: flex;
-    flex-direction: column;
-}
-
-.spacerLine:first-of-type .spacer, .spacerLine:last-of-type .spacer {
-    background-color: #0c8fcd;
-}
-
 .goals {
     background-image: url("../img/SDG17.jpg");
     background-size: cover;
     background-position: relative, 50px;
     height: auto;
     width: auto;
-    border-radius: 50px;
 }
 
 .goaltitle {
