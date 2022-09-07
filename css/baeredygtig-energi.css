@@ -23,11 +23,11 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 50%;
+    gap: 200px;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 100px;
     color: #F9B70E !important
 }
 
@@ -40,7 +40,7 @@ h1 {
     gap: 100px;
 }
 
-.forums, .goal {
+.goal, .forums {
     height: 150px;
     width: 300px;
     text-decoration: none;
