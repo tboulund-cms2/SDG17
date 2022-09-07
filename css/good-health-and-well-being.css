@@ -38,6 +38,7 @@ body {
 .btn-cta {
   background-color: #4C9F38;
   color: #EAEAEA;
+  padding: 40px;
 }
 
 .btn-cta:hover{
