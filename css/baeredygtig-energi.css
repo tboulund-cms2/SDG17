@@ -179,7 +179,7 @@
 }
 
 .leftcardone:hover, .leftcardtwo:hover, .leftcardthree:hover, .rightcardone:hover, .rightcardtwo:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition: 0.5s;
 }
 
