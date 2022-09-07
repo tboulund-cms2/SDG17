@@ -304,6 +304,10 @@
     .spacerLine {
         width: 100%;
     }
+
+    .spacerLine .spacer {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 1000px) {
