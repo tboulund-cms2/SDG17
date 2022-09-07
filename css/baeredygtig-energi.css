@@ -201,7 +201,7 @@
 
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
-    height: 1400px;
+    height: 1450px;
     display: flex;
     align-items: center;
 }
