@@ -131,6 +131,7 @@
     height: 500px;
     background-image: url("../img/plant.png");
     background-size: cover;
+    background-repeat: no-repeat;
     width: 500px;
     border-radius: 300px;
 }
@@ -153,6 +154,7 @@
     height: 500px;
     background-image: url("../img/windmill.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     width: 500px;
     border-radius: 300px;
 }
