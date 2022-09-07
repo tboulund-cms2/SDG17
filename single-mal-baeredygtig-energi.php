@@ -6,7 +6,7 @@
             <div class="col-md-12 backgroundimg" style="background-image: url(<?php the_field("banner") ?>)">
                 <h1>Bæredygtig energi</h1>
                 <div class="col-md-12 btns">
-                    <a href="#goals" class="goal">Mål for bæredygtig energi</a>
+                    <a href="#goals" class="goal"><p>Mål for bæredygtig energi</p></a>
                     <a href="/sdg17/groups/baeredygtig-energi/members/all-members/" class="forums"><p>Forums</p></a>
                 </div>
             </div>
