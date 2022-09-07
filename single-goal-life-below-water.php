@@ -397,15 +397,15 @@
 
 
         <div class="goals-container">
-            <div class="col-4">
+            <div class="col-3">
                  <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
             </div>
-            <div class="col"></div>
-            <div class="col-4">
+            <div class="col-1"></div>
+            <div class="col-3">
                 <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
             </div>
-            <div class="col"></div>
-            <div class="col-4">
+            <div class="col-1"></div>
+            <div class="col-3">
                  <img class="things-image" src="<?php the_field("goal_3") ?>" alt="">
              </div>
         </div>
