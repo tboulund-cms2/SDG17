@@ -63,7 +63,7 @@ body {
   object-fit: cover;
   height: 80vh;
   width: 100%;
-  object-position: 0% 100%;
+  object-position: 0% 0%;
 }
 
 .main-info-grid {
