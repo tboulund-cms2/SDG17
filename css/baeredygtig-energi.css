@@ -58,6 +58,7 @@
 .verdensmål {
     background-image: url("../img/energi.jpg");
     background-size: cover;
+    background-position: center;
     height: 150px;
     width: 150px;
     border-radius: 300px;
