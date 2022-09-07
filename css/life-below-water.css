@@ -116,7 +116,10 @@ h2{
 }
 #goals-section{
     margin-top: 70px;
+
+}
+.goals_container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
 }
