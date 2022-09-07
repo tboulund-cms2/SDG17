@@ -291,6 +291,10 @@
     .spacerLine:first-of-type, .spacerLine:last-of-type {
         display: none;
     }
+
+    .spacerLine {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 1000px) {
