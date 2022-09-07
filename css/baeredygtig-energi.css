@@ -187,14 +187,15 @@ h1 {
 }
 
 .cardcontainer {
-    display: flex;
-    padding:20px;
+    display: flex;  
+    justify-content: space-between;
 } 
 
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     width: 300px;
     height: 1400px;
+    margin: 50px;
 }
 
 
