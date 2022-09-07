@@ -13,10 +13,8 @@
         </section>
         <section class="info1">
             <div class="info1">
-                <div class="logo"></div>
                 <h2 class="col-md-12 headertext1 h2confiq"><?php the_field("info1_overskrift")?></h2>
                 <p class="col-md-12 infotext1 pconfiq"><?php the_field("info1_text")?></p>
-                <div class="verdensmål"></div>
             </div>
             
             
@@ -50,7 +48,7 @@
 
         <section class="goals" id="goals">
 
-            <div class="goaltitle">Mål for 2030</div>
+            <div class="goaltitle"><h2>Mål for 2030</h2></div>
 
             <div class="col-md-10 cardcontainer">
                 <div class="cardcolumnone">

@@ -39,31 +39,6 @@
     margin-right: 30px;
 }
 
-.logos {
-    height: 300px;
-    width: 700px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 100px;
-}
-
-.logo {
-    background-image: url("../img/verdensmaallogo.png");
-    background-size: cover;
-    height: 150px;
-    width: 150px;
-}
-
-.verdensmål {
-    background-image: url("../img/energi.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 150px;
-    width: 150px;
-    border-radius: 300px;
-}
-
 .pconfiq {
     font-size: 20px !important;
     color: black !important;
@@ -196,6 +171,10 @@
 
 .spacerLine:first-of-type .spacer, .spacerLine:last-of-type .spacer {
     background-color: #0c8fcd;
+}
+
+.goals {
+    background-image: url("../img/Untitled-2.jpg");
 }
 
 .goaltitle {
