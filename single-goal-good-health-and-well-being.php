@@ -63,7 +63,7 @@
         <div class="main-icon-img col-12 col-xl-6">
             <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
         </div>
-        <div class="main-info-grid col-12 col-xl-6 p-5 d-flex flex-column align-items-center">
+        <div class="main-info-grid col-12 col-xl-6 d-flex flex-column align-items-center">
             <div class="main-info-grid-title pb-5">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
                 <p class="col-10 col-xl-4"><?php the_field("target_description") ?></p>
