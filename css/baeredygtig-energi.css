@@ -243,6 +243,12 @@ h1 {
     background-color: #83CE29;
 }
 
+.cardImg {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         height: auto;
