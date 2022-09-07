@@ -179,7 +179,6 @@ h1 {
     border: none;
 }    
 
-
 .leftcardone, .leftcardtwo, .leftcardthree, .rightcardone, .rightcardtwo {
     height: 400px;
     width: 300px;
@@ -193,6 +192,7 @@ h1 {
     display: flex;  
     justify-content: space-between;
     float: none !important;
+    margin: 0 auto;
 } 
 
 .cardcolumnone, .cardcolumnthree {
