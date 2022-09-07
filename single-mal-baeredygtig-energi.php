@@ -15,8 +15,14 @@
             <div class="col-md-12 headertext1"><?php the_field("info1_overskrift")?></div>
             <div class="col-md-12 infotext1"><?php the_field("info1_text")?></div>
         </section>
-        <section class="info2"></section>
-        <section class="info3"></section>
+        <section class="info2">
+            <div class="col-md-12 headertext1"><?php the_field("info2_overskrift")?></div>
+            <div class="col-md-12 headertext1"><?php the_field("info2_text")?></div>
+        </section>
+        <section class="info3">
+            <div class="col-md-12 headertext1"><?php the_field("info3_overskrift")?></div>
+            <div class="col-md-12 headertext1"><?php the_field("info3_text")?></div>
+        </section>
         <section class="goals" id="goals"></section>
 
     <?php endwhile ?>
