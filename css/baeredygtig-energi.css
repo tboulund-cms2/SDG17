@@ -274,7 +274,9 @@ h1 {
         width: 80vw;
     }
 
-    .textbox1, .textbox2 {
+    .textbox1, .textbox2, .textbox3 {
+        display: flex;
+        justify-content: center;
         height: auto;
         width: 100vw;
     }
