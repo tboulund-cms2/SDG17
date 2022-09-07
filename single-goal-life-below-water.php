@@ -59,7 +59,7 @@
         </div>
 
 
-    <div class="another-container col-12">
+     <div class="another-container col-12">
         <div class="col-12 target-container">
         <div class="one">
             <div class="col-6 target-left">
@@ -259,6 +259,48 @@
             </div>
         </div>
  
+        </div>
+    </section>
+
+
+    <section id="things-section" class="col-12">
+        <div class="col-12">
+            <h2><?php the_field("headline_2") ?></h2>
+        </div>
+
+        <div class="one">
+            <div class="col-6 things-left">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_description") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+
+
+            <div class="col-6 things-right">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                            <?php the_field("light_bulb_description") ?>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+         
         </div>
     </section>
 
