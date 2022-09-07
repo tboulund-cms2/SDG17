@@ -110,6 +110,15 @@ h1 {
     background-color: #0c8fcd;
 }
 
+.goaltitle {
+    height: 100px;
+    width: 350px;
+    background-color: #83CE29;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .card {
     height: 400px;

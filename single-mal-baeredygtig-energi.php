@@ -38,6 +38,7 @@
 
         <section class="goals" id="goals">
 
+        <div class="goaltitle">Goals for 2030</div>
         <div class="card"></div>
 
         </section>
