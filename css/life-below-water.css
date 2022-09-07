@@ -89,6 +89,11 @@ img {
     color: rgb(30,113,103, 0.87);
     padding: 30px;
 }
+.img-target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .boox{
     display: flex;
     justify-content: center;
