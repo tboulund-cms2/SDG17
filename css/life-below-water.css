@@ -61,9 +61,6 @@ img {
 #targets-section{
     margin-top: 50px;
     padding-top: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
 }
 .target-container{
@@ -94,6 +91,12 @@ img {
     padding: 30px;
 }
 .boox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.targets_one{
+
     display: flex;
     justify-content: center;
     align-items: center;
