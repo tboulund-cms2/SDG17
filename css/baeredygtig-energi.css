@@ -190,7 +190,7 @@ h1 {
 
 .cardcontainer {
     display: flex;  
-    justify-content: space-between;
+    justify-content: center;
     float: none !important;
     margin: 0 auto;
 } 
@@ -204,6 +204,11 @@ h1 {
 
 .cardcolumnthree {
     justify-content: center;
+}
+
+.cardcolumtwo {
+    width: 300px;
+    display: flex;
 }
 
 .greenCenterLine {
