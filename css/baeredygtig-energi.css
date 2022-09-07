@@ -354,7 +354,7 @@
 
   
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 900px) {
     .info2, .info3 {
         display: flex;
         flex-direction: column;
@@ -373,11 +373,6 @@
         flex-direction: column;
         gap: 20px;
         width: auto;
-    }
-
-    .info3 {
-        display: flex;
-        flex-direction: column-reverse;
     }
 
     .titel1 {
