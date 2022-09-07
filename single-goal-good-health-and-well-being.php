@@ -15,7 +15,7 @@
             <img class="hero-image img-fluid  d-flex col-12" src="<?php the_field("hero_image") ?>" alt=""> 
             <div class="hero-content d-flex flex-column flex-wrap justify-content-center align-items-center">                                  
                 <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
-                <h3 class="hero-subtitle my-5"><?php the_field("hero_subtitle") ?></h3>
+                <h3 class="hero-subtitle my-2"><?php the_field("hero_subtitle") ?></h3>
                 <div class="call-to-action">
                     <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Forum </a>
                 </div>

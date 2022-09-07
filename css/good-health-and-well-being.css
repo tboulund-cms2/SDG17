@@ -184,6 +184,10 @@ body {
   color: #4C9F38;
 }
 
+.data-section{
+  position: absolute;
+}
+
 /* img {
   display: block;
 } */
