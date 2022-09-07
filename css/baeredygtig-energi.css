@@ -260,18 +260,13 @@ h1 {
         width: auto;
     }
 
-    .mål, .forum {
-        height: 200px;
-        width: 300px;
-    }
-
     .info2, .info3 {
         gap:0;
     }
 
     .info1, .info2, .info3 {
         height: auto;
-        width: auto;
+        width: 80vh;
     }
 
   }
