@@ -314,6 +314,10 @@
         gap: 20px;
     }
 
+    .info3 {
+        flex-direction: column-reverse;
+    }
+
     .titel1 {
         font-size: 40px !important
     }
