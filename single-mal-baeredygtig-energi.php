@@ -52,9 +52,15 @@
 
         <div class="col-md-10 cardcontainer">
             <div class="cardcolumnone">
-                <div class="leftcardone"></div>
-                <div class="leftcardtwo"></div>
-                <div class="leftcardthree"></div>
+                <div class="leftcardone">
+                <p class="col-md-12 cardtext"><?php the_field("leftcardone")?>
+                </div>
+                <div class="leftcardtwo">
+                <p class="col-md-12 cardtext"><?php the_field("leftcardtwo")?>
+                </div>
+                <div class="leftcardthree">
+                <p class="col-md-12 cardtext"><?php the_field("leftcardthree")?>
+                </div>
             </div>
             <div class="cardcolumntwo">
                 <div class="lineColumn">
@@ -69,8 +75,12 @@
                 </div>
             </div>
             <div class="cardcolumnthree">
-                <div class="rightcardone"></div>
-                <div class="rightcardtwo"></div>
+                <div class="rightcardone">
+                <p class="col-md-12 cardtext"><?php the_field("rightcardone")?>
+                </div>
+                <div class="rightcardtwo">
+                <p class="col-md-12 cardtext"><?php the_field("rightcardtwo")?>
+                </div>
             </div>
         </div>
 
