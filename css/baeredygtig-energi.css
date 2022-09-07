@@ -265,6 +265,22 @@
     margin: 15px auto 0;
 }
 
+.goalsMobile {
+    display: none;
+}
+
+
+@media screen and (max-width: 768px) {
+    .goals {
+        display: none;
+    }
+
+    .goalsMobile {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         height: auto;
@@ -302,6 +318,14 @@
         align-items: center;
         height: auto;
         width: 100vw;
+    }
+
+    .cardcolumntwo {
+        width:auto;
+    }
+
+    .lineColumn {
+        width: 50px;
     }
 
   }
