@@ -189,12 +189,12 @@ h1 {
 .cardcontainer {
     display: flex;  
     justify-content: space-between;
+    padding: 50px;
 } 
 
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     height: 1400px;
-    padding: 50px;
 }
 
 
