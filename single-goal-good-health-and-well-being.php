@@ -13,7 +13,7 @@
     <div class="hero-section text-center">      
         <div class="hero-image-text-container col-12 d-flex align-items-center justify-content-center flex-column">
             <img class="hero-image img-fluid  d-flex col-12" src="<?php the_field("hero_image") ?>" alt=""> 
-            <div class="hero-content d-flex flex-column flex-wrap justify-content-center align-items-center col-10 col-xl-6">                                  
+            <div class="hero-content d-flex flex-column flex-wrap justify-content-center align-items-center col-10 col-xl-5">                                  
                 <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                 <h3 class="hero-subtitle my-2"><?php the_field("hero_subtitle") ?></h3>
                 <div class="call-to-action">
@@ -25,15 +25,15 @@
 
     <div class="data-section container text-center my-5">
         <div class="row data-group col-12 d-flex flex-wrap justify-content-center">                
-            <div class="data-group-1 col-12 col-xl-3 ml-5">
+            <div class="data-group-1 col-12 col-xl-3 ml-5 mb-3">
                 <h1 class="data-number"><?php the_field("data_number_1") ?></h1>
                 <h4 class="data-description"><?php the_field("data_description_1") ?></h4>
             </div>  
-            <div class="data-group-2 col-12 col-xl-3">
+            <div class="data-group-2 col-12 col-xl-3 mb-3">
                 <h1 class="data-number"><?php the_field("data_number_2") ?></h1>
                 <h4 class="data-description"><?php the_field("data_description_2") ?></h4>
             </div> 
-            <div class="data-group-3 col-12 col-xl-3">
+            <div class="data-group-3 col-12 col-xl-3 mb-3">
                 <h1 class="data-number"><?php the_field("data_number_3") ?></h1>
                 <h4 class="data-description"><?php the_field("data_description_3") ?></h4>
             </div> 
@@ -145,7 +145,7 @@
     <div class="action-section container">
         <div class="row action-title-section my-5">
             <div class="col-12 d-flex justify-content-center align-items-center flex-column flex-wrap">
-                <div class="action-title-container col-12 col-xl-10 d-flex justify-content-center align-items-center flex-column flex-wrap">
+                <div class="action-title-container col-12 col-xl-5 d-flex justify-content-center align-items-center flex-column flex-wrap">
                     <h2>
                         <?php the_field("action_title") ?>
                     </h2>
