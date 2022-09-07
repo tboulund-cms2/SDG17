@@ -258,12 +258,17 @@ h1 {
     }
 
     .info2, .info3 {
-        gap:0;
+        gap: 10px;;
     }
 
     .info1, .info2, .info3 {
         height: auto;
-        width: 120vh;
+        width: 80vw;
+    }
+
+    .textbox1, .textbox2 {
+        height: auto;
+        width: 100vw;
     }
 
   }
@@ -277,10 +282,6 @@ h1 {
         height: auto;
     }
 
-    .textbokx1, .textbox2 {
-        height: auto;
-        width: 70wv;
-    }
   }
 
   @media screen and (max-width: 1100px) {
