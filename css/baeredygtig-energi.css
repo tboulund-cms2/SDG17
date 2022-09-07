@@ -194,6 +194,7 @@ h1 {
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     height: 1400px;
+    padding: 50px;
 }
 
 
