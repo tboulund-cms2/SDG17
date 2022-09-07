@@ -29,16 +29,20 @@
 h1 {
     font-size: 80px !important;
     color: #F9B70E !important
+
 }
 
 .h2confiq {
-    font-size: 40px !important;
+    font-size: 30px !important;
     color: #F9B70E !important;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .pconfiq {
-    font-size: 20px !important;
-    color: black !important
+    font-size: 15px !important;
+    color: black !important;
+    margin: 30px;
 }
 
 .btns {
