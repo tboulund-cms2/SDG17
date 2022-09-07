@@ -66,12 +66,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.goal {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-top: 50px;
 }
 
 .info1 {
