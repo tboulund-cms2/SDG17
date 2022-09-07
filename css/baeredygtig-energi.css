@@ -90,6 +90,13 @@ h1 {
 }
 
 
+.card {
+    height: 825px;
+    width: 650px;
+    background-color: #F9B70E;
+    
+}
+
 @media screen and (max-width: 1000px) {
     .backgroundimg {
         gap: 50px;
