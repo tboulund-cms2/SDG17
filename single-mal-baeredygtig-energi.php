@@ -50,7 +50,7 @@
 
         <div class="goaltitle">Mål for 2030</div>
 
-        <div class="cardcontainer">
+        <div class="col-md-10 cardcontainer">
             <div class="cardcolumnone">
                 <div class="leftcardone"></div>
                 <div class="leftcardtwo"></div>
