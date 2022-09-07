@@ -101,11 +101,12 @@ body {
 }
 
 .hero-title {
-  position: absolute;
+  /* position: absolute;
   top: 50%;
   width: 100%;
   text-align: center;
-  font-weight: bold;
+  font-weight: bold; */
+  color: #EAEAEA;
 }
 
 
@@ -174,13 +175,9 @@ body {
 
 }
 
-.hero-title {
-  color: #EAEAEA;
-}
-
 .hero-subtitle {
   color: #EAEAEA;
-  margin-top: 150px;
+  /* margin-top: 150px; */
 }
 
 .data-number {
