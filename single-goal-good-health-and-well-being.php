@@ -66,11 +66,11 @@
         <div class="main-info-grid col-12 col-xl-6 p-4">
             <div class="main-info-grid-title">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                <p class="col-12 col-xl-4"><?php the_field("target_description") ?></p>
+                <p class="col-10 col-xl-4"><?php the_field("target_description") ?></p>
             </div>
 
             <div class="box-container-for-icons col-12 col-xl-6">
-                <div class="main-info-grid-icon">
+                <div class="main-info-grid-icon pe-4">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image") ?>" alt="">
                         <p><?php the_field("small_icon_text") ?></p>
@@ -103,7 +103,7 @@
 
                 </div>
 
-                <div class="main-info-grid-icon">
+                <div class="main-info-grid-icon pe-4">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image_copy7") ?>" alt="">
                         <p><?php the_field("small_icon_text_copy7") ?></p>
