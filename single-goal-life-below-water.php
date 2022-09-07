@@ -302,10 +302,6 @@
             </div>
          
         </div>
-
-
-
-
         <div class="two">
             <div class="col-6 things-left">
                 <div class="col-3">
@@ -340,10 +336,6 @@
             </div>
          
         </div>
-
-
-
-
         <div class="three">
             <div class="col-6 things-left">
                 <div class="col-3">
@@ -396,6 +388,30 @@
             <div class="col-6"></div>
         </div>
     </section>
+
+
+    <section id="goals-section" class="col-12">
+        <div class="col-12">
+            <h2><?php the_field("headline_3") ?></h2>
+        </div>
+
+
+
+        <div class="col-4">
+        <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
+        </div>
+        <div class="col"></div>
+        <div class="col-4">
+        <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
+        </div>
+        <div class="col"></div>
+        <div class="col-4">
+        <img class="things-image" src="<?php the_field("goal_3") ?>" alt="">
+        </div>
+
+
+    </section>
+
 
 <?php endwhile ?>
 
