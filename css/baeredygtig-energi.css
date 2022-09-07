@@ -186,7 +186,7 @@ h1 {
     background-color: #F9B70E;
     border-radius: 25px;
     border: none;
-    margin: 10px;
+    margin: 40px;
 }
 
 .cardcontainer {
@@ -197,7 +197,7 @@ h1 {
 .cardcolumnone, .cardcolumnthree {
     flex-direction: column;
     height: 1400px;
-    gap: 60px;
+    gap: 30px;
 }
 
 
