@@ -17,7 +17,7 @@
                 <h1 class="hero-title"><?php the_field("hero_title") ?></h1>
                 <h3 class="hero-subtitle my-2"><?php the_field("hero_subtitle") ?></h3>
                 <div class="call-to-action mt-4">
-                    <a class="btn btn-cta " role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Conversation </a>
+                    <a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/good-health-and-well-being/forum/good-health-and-well-being/" target="_blank"> Join the Conversation </a>
                 </div>
             </div>   
         </div>        
@@ -59,17 +59,17 @@
 <!-- Targets Section - Leifur -->
 
 <div class="target-section-container">
-    <div class="main-card-target col-12">
-        <div class="main-icon-img col-12 col-xl-6">
+    <div class="main-card-target col-12 d-flex flex-wrap">
+        <div class="main-icon-img col-12 col-xxl-6">
             <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
         </div>
-        <div class="main-info-grid col-12 col-xl-6 p-5">
-            <div class="main-info-grid-title pb-5">
+        <div class="main-info-grid col-12 col-xxl-6 p-5">
+            <div class="main-info-grid-title pb-3">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
-                <p class="col-10 col-xl-4"><?php the_field("target_description") ?></p>
+                <p class="col-10 col-xl-6"><?php the_field("target_description") ?></p>
             </div>
 
-            <div class="box-container-for-icons col-12 col-xl-6">
+            <div class="box-container-for-icons">
                 <div class="main-info-grid-icon pe-5">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image") ?>" alt="">
@@ -99,8 +99,6 @@
                         <img src="<?php the_field("small_icon_image_copy6") ?>" alt="">
                         <p><?php the_field("small_icon_text_copy6") ?></p>
                     </div>
-
-
                 </div>
 
                 <div class="main-info-grid-icon pe-5">
