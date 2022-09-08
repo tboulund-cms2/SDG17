@@ -9,9 +9,9 @@
 
        <section class="mid">
        <h2 class="overskrift2"><?php the_field("overskrift_2")?></h2>
-        <div class="midmid">
+        < class="midmid">
             <p class="text2"><?php the_field("text_2")?></p>
-            <div class="video"><iframe width="560" height="315" src="<?php the_field("video") ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+            <iframe width="560" height="315" src="<?php the_field("video") ?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
        </section>
