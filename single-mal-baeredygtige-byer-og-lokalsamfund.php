@@ -89,7 +89,7 @@
 
         </div>
         <section id="power-wordpress" class="d-flex col-md-12 info-background justify-content-center align-items-center">
-            <h2>powered by Wordpress <?php echo date('Y'); ?></h2>
+            <h2>Powered by Wordpress <?php echo date('Y'); ?></h2>
         </section>
     </div>
     <?php get_footer() ?>
