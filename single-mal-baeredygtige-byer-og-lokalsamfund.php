@@ -96,8 +96,7 @@
         </div>
     </div>
     <section id="power-wordpress" class="d-flex col-md-12 info-background justify-content-center align-items-center">
-        <h2>powered by Wordpress 2022</h2>
-        <?php echo date('Y'); ?>
+        <h2>powered by Wordpress <?php echo date('Y'); ?></h2>
     </section>
     <?php get_footer() ?>
 </body>
