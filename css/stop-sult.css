@@ -3,6 +3,10 @@
     
 }
 
+.col {
+    display: flex;
+    flex-direction: column;
+}
 .first {
     display: flex;
     

@@ -4,6 +4,9 @@
 
     <div class="stop-sult">
     <h1 class="overskrift"> <?php the_title() ?></h1>
+    
+    <div class="col">
+    
 
 
     <div class="first">
@@ -17,7 +20,8 @@
     <p class="tekst"><?php the_field("text-2") ?></p> 
        
     </div>
-
+    </div>
+    <div class="col">
     <div class="third">
     <p class="tekst"><?php the_field("text-3") ?></p> 
         <img class="image" src="<?php the_field("image-3") ?>" alt="">
@@ -27,8 +31,9 @@
     <img class="image" src="<?php the_field("image-4") ?>" alt="">
     <p class="tekst"><?php the_field("text-4") ?></p> 
     </div>
-
+    </div>
     <button> Forum </button>
+    
     </div>
         
 
