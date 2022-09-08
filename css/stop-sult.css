@@ -41,7 +41,7 @@
 }
 
 .btn {
-    display: inline-grid;
+    width: 100%;
 }
 
 .buttons {
@@ -55,7 +55,7 @@
     text-align: center;
     display: inline-block;
     font-size: 16px;
-    margin: 47px 0 2px -67px;
+    margin: 40px 10px;
 }
 
 
