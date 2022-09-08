@@ -64,12 +64,12 @@
             <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
         </div>
         <div class="main-info-grid col-12 col-xxl-6 p-5">
-            <div class="main-info-grid-title pb-5">
+            <div class="main-info-grid-title pb-3">
                 <h2 class="target-h2"><?php the_field("target_title") ?></h2>
                 <p class="col-10 col-xl-6"><?php the_field("target_description") ?></p>
             </div>
 
-            <div class="box-container-for-icons">
+            <div class="box-container-for-icons d-flex flex-wrap">
                 <div class="main-info-grid-icon pe-5">
                     <div class="main-info-grid-icon-box">
                         <img src="<?php the_field("small_icon_image") ?>" alt="">
@@ -99,8 +99,6 @@
                         <img src="<?php the_field("small_icon_image_copy6") ?>" alt="">
                         <p><?php the_field("small_icon_text_copy6") ?></p>
                     </div>
-
-
                 </div>
 
                 <div class="main-info-grid-icon pe-5">
