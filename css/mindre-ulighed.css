@@ -58,7 +58,8 @@
 .video {
     display: flex;
     justify-content: center;
-    width: 50%;
+    width: 600px;
+    height: auto;
 }
 
 .bund {
