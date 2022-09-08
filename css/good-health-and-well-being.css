@@ -89,7 +89,7 @@ body {
 .main-info-grid-icon-box {
   display: flex;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .main-info-grid-icon-box img{
