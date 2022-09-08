@@ -443,14 +443,14 @@
 
         <div class="newsletter-container">
             <div class="col-12 d-flex justifiy-content-center align-items-center">
-                <div class="col-6">
+                <div class="col-6 text">
                     <h3><?php the_field("updated_text") ?></h3>
                 </div>
                 <div class="col-6 ">
-                    <div class="col-12 text-align-center">
+                    <div class="col-12 text">
                         <h4><?php the_field("headline_5") ?></h4>
                     </div>
-                    <div class="col-12 text-align-center">
+                    <div class="col-12 text">
                         <label for="email">Enter your email:</label>
                         <input type="email" id="email" name="email">
                     </div>
