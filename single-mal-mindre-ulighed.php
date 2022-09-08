@@ -3,7 +3,8 @@
     <?php while(have_posts()): the_post() ?>
        <section class="top">
             <h1 class="overskrift"><?php the_field("overskrift_1")?></h1>
-            <p class="knap"></p>
+            <a href=""><p class="knap">Forum</p></a>
+            
        </section>
 
        <section class="mid">
