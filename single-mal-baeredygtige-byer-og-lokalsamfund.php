@@ -16,7 +16,7 @@
         <div class="banner">
             <div class="headline">Mål:11 bæredygtige byer og lokalsamfund</div>
             <div class="row">
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-12 col-sm-12">
                     <img class="banner-image" src="<?php the_field("banner-image") ?>" alt="">
                     <h1><?php the_field("banner-text") ?></h1>
 
