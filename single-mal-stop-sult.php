@@ -32,9 +32,9 @@
     </div>
     </div>
  
-    <div >
-    <button class="btn-2"> Forum </button> 
-    <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="btn-2">  Mål </button></a>
+    <div class="b2">
+    <button class="btn-b2"> Forum </button> 
+    <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="btn-b2">  Mål </button></a>
     </div>
 
     <div class="video">

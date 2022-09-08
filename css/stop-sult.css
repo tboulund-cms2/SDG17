@@ -40,12 +40,12 @@
     font-size: 20px;
 }
 
-div {
+.b2 {
     width: 100%;
     border: none;
 }
 
-.btn-2 {
+.btn-b2 {
     color: white;
     background-color: #d9a1008c;
     box-shadow: 3px 1px 3px #b6ac91;
