@@ -40,8 +40,8 @@
     font-size: 20px;
 }
 
-.bottom {
-
+.bns {
+ margin: 0;
 }
 
 .buttons {
@@ -55,7 +55,7 @@
     text-align: center;
     display: inline-block;
     font-size: 16px;
-    margin: 80px 2px;
+    margin: 80px 20px;
 }
 
 
