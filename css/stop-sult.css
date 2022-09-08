@@ -6,7 +6,6 @@
 .col {
     display: flex;
     flex-direction: row;
-    color: white;
     margin: 50px;
 }
 
@@ -19,11 +18,11 @@
     display: flex;
     flex-direction: column;
     text-align: justify;
-    
+    color: white;
 }
 
 .image {
-   
+   height: 300px;
     
 }
 
