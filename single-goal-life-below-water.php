@@ -442,7 +442,7 @@
 
 
         <div class=" col-12 newsletter-container row d-flex flex-wrap">
-                <div class="col-6">
+                <div class="col-6 newsletter">
                     <p class="text"><?php the_field("updated_text") ?></p>
                 </div>
                 <div class="col-6 boxos">
@@ -458,8 +458,7 @@
         </div>
     </section> 
 
-    <section id="footer">
-        
+    <section id="footer">        
     </section>
 
 <?php endwhile ?>
