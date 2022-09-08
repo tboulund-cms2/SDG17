@@ -25,9 +25,11 @@
     height: 50px;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: whitesmoke;
     border-color: darkmagenta;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .mid {
