@@ -446,7 +446,7 @@
                 <div class="col-6">
                     <h3><?php the_field("updated_text") ?></h3>
                 </div>
-                <div class="col-6">
+                <div class="col-6 d-flex justifiy-content-center align-items-center">
                     <div class="col-12">
                         <h4><?php the_field("headline_5") ?></h4>
                     </div>
