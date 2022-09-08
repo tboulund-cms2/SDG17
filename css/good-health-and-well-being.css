@@ -46,11 +46,9 @@ body {
   color: #EAEAEA;
 }
 
-/* .main-card-target {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-} */
+.main-card-target {
+  min-height: 80vh;
+}
 
 /* .main-icon-img {
   width: 90%;
@@ -61,7 +59,7 @@ body {
 } */
 
 .main-icon-img{
-  height: 80vh;
+  height: 100%;
 }
 
 .icon-picture{
@@ -74,7 +72,7 @@ body {
 .main-info-grid {
   /* width: 100%; */
   /* padding-left: 20px; */
-  min-height: 80vh;
+  min-height: 100%;
   background-color: #cdeac5;
 }
 
