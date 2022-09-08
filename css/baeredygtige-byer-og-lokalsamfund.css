@@ -5,7 +5,7 @@
     background-size: cover;
 }
 
-.container {
+.container-byer {
     --bs-gutter-x: 0rem !important;
     max-width: 100% !important;
     background-color: orange;

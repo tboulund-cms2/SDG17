@@ -11,7 +11,7 @@
 <body>
 
     <?php get_header() ?>
-    <div class="container">
+    <div class="container-byer">
 
         <div class="banner">
             <div class="headline">Mål:11 bæredygtige byer og lokalsamfund</div>
