@@ -112,6 +112,8 @@
 
 .pcconfiq {
     font-size: 25px;
-    font-weight: bold;
     font-family: Impact, sans-serif;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
