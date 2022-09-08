@@ -42,6 +42,8 @@
 
 }
 .midmid {
+    height: 250px;
+    width: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,12 +51,14 @@
 
 }
 .text2 {
+    width: 50%;
     font-size: medium;
     color: darkmagenta;
 }
 .video {
     display: flex;
     justify-content: center;
+    width: 50%;
 }
 
 .bund {
