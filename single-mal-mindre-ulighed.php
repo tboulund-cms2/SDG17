@@ -8,16 +8,16 @@
        </section>
 
        <section class="mid">
-        <h2 class="tektop"></h2>
+       <h2 class="overskrift2"><?php the_field("overskrift_2")?></h2>
         <div class="midmid">
-            <p class="textbox1"></p>
+            <p class="text2"><?php the_field("text_2")?></p>
             <div class="video"></div>
         </div>
 
        </section>
        <section class="bund">
-          <h2 class="tektop"></h2>
-          <p class="textbox1"></p>
+            <h2 class="overskrift3"><?php the_field("overskrift_3")?></h2>
+            <p class="text3"><?php the_field("text_3")?></p>
         </section>
     <?php endwhile ?>
     
