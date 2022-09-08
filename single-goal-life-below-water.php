@@ -441,8 +441,8 @@
         </div>
 
 
-        <div class="newsletter-container row d-flex flex-wrap">
-            <div class="col-12">
+        <div class=" col-12 newsletter-container row d-flex flex-wrap">
+            
                 <div class="col-6">
                     <h3 class="text"><?php the_field("updated_text") ?></h3>
                 </div>
@@ -454,7 +454,7 @@
                         <label for="email">Enter your email:</label>
                         <input type="email" id="email" name="email">
                     </div>
-                </div>
+             
             </div>
 
 </div>
