@@ -2,9 +2,7 @@
 
     <?php while(have_posts()): the_post() ?>
        <section class="top">
-            <div class="logo">
-            </div>
-            <h1 class="overskrift"></h1>
+            <h1 class="overskrift"><?php the_field("overskrift_1")?></h1>
             <p class="knap"></p>
        </section>
 
