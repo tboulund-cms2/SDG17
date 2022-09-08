@@ -4,7 +4,7 @@
 
     <div class="stop-sult">
     <div class="colums">
-    <h1 class="mal2">MÅL 2: <p> STOP SULT, OPNÅ FØDEVARESIKKERHED OG FORBEDRET ERNÆRING SAMT FREMME BÆREDYGTIGT LANDBRUG</p></h1>
+    <h1 class="mal2">MÅL 2: STOP SULT, OPNÅ FØDEVARESIKKERHED OG FORBEDRET ERNÆRING SAMT FREMME BÆREDYGTIGT LANDBRUG</h1>
     
     <div class="col">
     <div class="box">
