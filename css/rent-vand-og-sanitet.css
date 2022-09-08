@@ -51,6 +51,6 @@ object-position: 0% 0%;
 
 .imgsmall {
     object-fit: scale-down;
-    flex-direction: row-reverse;
-    flex-wrap: nowrap;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
