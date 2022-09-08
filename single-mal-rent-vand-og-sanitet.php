@@ -56,38 +56,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
            <div class="col-1">6.5</div> 
            <div class="col-5 col-sm-11"></div>
 
-           <div class="col-1">6.6</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.a.</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.b.</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.1.1</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.2.1</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.3.1</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.3.2</div> 
-           <div class="col-5 col-sm-11"></div>
-           
-           <div class="col-1">6.4.2</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.5.1</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.5.2</div> 
-           <div class="col-5 col-sm-11"></div>
-
-           <div class="col-1">6.3.2</div> 
-           <div class="col-5 col-sm-11"></div> -->
+          </div> -->
 
 
 <section>
@@ -107,7 +76,6 @@ Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges v
 
 
 <p> 6.5 <br> Inden 2030 skal forvaltning af vandressourcer integreres på alle niveauer, herunder gennem samarbejde på tværs af landegrænser, som det er relevant. </p>
-
 
 <p> 6.6 <br> Inden 2020 skal vandrelaterede økosystemer, herunder bjerge, skove, vådområder, floder, grundvandsbassiner og søer beskyttes og gendannes. </p>
 
