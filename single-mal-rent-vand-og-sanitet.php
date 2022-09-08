@@ -88,6 +88,87 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
 
            <div class="col-1">6.3.2</div> 
            <div class="col-5 col-sm-11"></div> -->
+
+
+           <style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 900px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+<p>6.1 <br> Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p>
+    
+ <p> 6.2 <br> Inden 2030 skal der opnås lige adgang til egnet sanitet og hygiejne for alle, og ordentlige toilet forhold for alle, med særlig opmærksomhed på kvinder og pigers behov, og på mennesker i sårbare situationer.</p>
+            
+            
+<p> 6.3 <br> Inden 2030 skal vandkvaliteten forbedres ved at reducere forurening, afskaffe affaldsdumping og minimere udslip af farlige kemikalier og materialer, og halvere andelen af ubehandlet spildevand og væsentligt øge genanvendelse og sikker genbrug globalt.</p>
+
+<p> 6.4 <br> 	
+Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges væsentligt, og der skal sikres bæredygtig indvinding af og forsyning med ferskvand for at imødegå vandknaphed, og væsentligt reducere antallet af mennesker, der lider af vandmangel, betydeligt. </p>
+
+
+<p> 6.5 <br> Inden 2030 skal forvaltning af vandressourcer integreres på alle niveauer, herunder gennem samarbejde på tværs af landegrænser, som det er relevant. </p>
+
+
+<p> 6.6 <br> Inden 2020 skal vandrelaterede økosystemer, herunder bjerge, skove, vådområder, floder, grundvandsbassiner og søer beskyttes og gendannes. </p>
+
+    <p>6.a <br> Inden 2030 skal det internationale samarbejde og støtte til kapacitetsopbygning i udviklingslande udvides indenfor vand- og sanitetsrelaterede aktiviteter og programmer, herunder indvinding af vand, afsaltning, vandeffektivitet, spildevandsbehandling, genbrug og genanvendelsesteknologier.</p>
+    
+    <p>6.b <br> Støtte og styrke lokalsamfundenes deltagelse i at forbedre forvaltningen af vand- og sanitet. </p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    
+     <p>6.1.1 <br> 	
+Andel af befolkning, der bruger sikkert forvaltet drikkevandsservice.</p>
+      <p>6.2.1 <br> 
+Andel af befolkning, der bruger sikkert forvaltede sanitetsfaciliteter, herunder håndvask faciliteter med sæbe og vand.</p>
+       <p>6.3.1 <br> Andel af spildevand, der behandles sikkert. </p>
+        <p>6.3.2 <br> Andel af vandområder med god vandkvalitet. </p>
+       <p>6.4.1 <br>Ændring af vandforbrugs-effektiviteten over tid. </p>
+       <p>6.4.2 <br> Vandstressniveau: indvindingen af vand som en andel af de tilgængelige friskvandsressourcer. </p>
+       <p>6.5.1 <br> 	
+Grad af implementering af integreret vandressource forvaltning (0 - 100). </p>
+
+ <p>6.5.2 <br> 		
+Andel af vandoplande på tværs af landegrænser med en operationel aftale om vandsamarbejde. </p>
+
+ <p>6.4.2 <br> 	
+Ændring i omfanget af vandrelaterede økosystemer over tid. </p>
+
+<p>6.a.2 <br> 	
+	
+Mængde af vand- og sanitetsrelaterede officiel udviklingsbistand, som er del af en regeringskoordineret udgiftsplan. </p>
+
+<p>6.4.2 <br> 	
+Andel af lokale administrative enheder med etablerede og operationelle politikker og procedurer for lokalsamfundenes deltagelse i for forvaltning af vand og sanitet. </p>
+       
+       
+    
+  </div>
+</div>
         </div>
          
          </div>
