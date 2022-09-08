@@ -57,6 +57,8 @@
         <br>
         <br>
         <div class="del-mål">
+            <br>
+            <br>
             <h2 class="mål-tekst">Verdensmål 11 i delmål</h2>
             <br>
             <p class="mål-hvid">
