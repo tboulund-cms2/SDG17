@@ -33,17 +33,13 @@
         <div>
             <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
         </div>
+        <div>
+            <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
+        </div>
     </div>
 
     <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EHeWPWny3BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="row">
-        <div class="col-4">
-            <div>
-                <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
-            </div>
-        </div>
     </div>
     <div class="description2">
         <div class="description-3">
