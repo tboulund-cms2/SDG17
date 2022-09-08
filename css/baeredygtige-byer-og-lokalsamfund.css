@@ -121,10 +121,8 @@
 @media screen and (max-width:1000px) {
 
     .btn{
-        gap: 20px;
         width: auto;
         font-size: 15px !important;
-        padding-top: -200px;
     }
     
 } 
