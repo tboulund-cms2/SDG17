@@ -30,14 +30,14 @@
         </div> 
     </div>
 
-    <div class="bottom">
+    <div class="bns">
     <button class="buttons"> Forum </button> 
     <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="buttons">  Mål </button></a>
-
+    </div>
     <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2UK5mY8b8gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</div>
+
     </div>
         
 
