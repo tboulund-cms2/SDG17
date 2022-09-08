@@ -22,7 +22,9 @@
 .knap {
     width: 100px;
     height: 50px;
-    background-color: fuchsia;
+    background-color: whitesmoke;
+    border-color: darkmagenta;
+    border-radius: 10px;
 }
 
 .mid {
