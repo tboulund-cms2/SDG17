@@ -416,17 +416,21 @@
 
         <div class="goals-container">
             <div class="col-3">
-                <a href="<?php the_field("life_below_water_group") ?>">
+                <a href="<?php the_field("no_poverty_page") ?>">
                     <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
                 </a>
             </div>
             <div class="col-1"></div>
             <div class="col-3">
-                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
+            <a href="#">
+                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">¨
+                </a>
             </div>
             <div class="col-1"></div>
             <div class="col-3">
+            <a href="<?php the_field("good_health_page") ?>">
                  <img class="things-image" src="<?php the_field("goal_3") ?>" alt="">
+                 </a>
              </div>
         </div>
 
