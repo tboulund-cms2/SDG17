@@ -86,7 +86,6 @@
             <br>
             <span id="mål-tekst">De mindst udviklede lande skal støttes</span>,bl.a. gennem finansiel og teknisk bistand, til at bygge bæredygtige og robuste bygninger med anvendelse af lokale materialer.
             <br>
-            <br>
         </p>
 
 
