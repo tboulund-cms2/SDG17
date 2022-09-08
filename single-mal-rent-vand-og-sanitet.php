@@ -17,11 +17,6 @@
 
 <div>
 <grid-container>
-
-</grid-container>
-
-</div>
-
 <p class="columntext"> Vandmangel påvirker mere end 40 procent af verdens befolkning. Det er et alarmerende tal, som  forventes at øge med de stigende globale temperaturer forårsaget af klimaændringerne. 
 
  
@@ -39,6 +34,10 @@ Universel adgang til sikkert og billigt drikkevand til alle inden 2030 kræver, 
  
 
 Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdagsordenen for bæredygtig udvikling frem mod 2030. En integreret tilgang er afgørende for fremskridt på tværs af de forskellige mål.</p>
+</grid-container>
+
+</div>
+
 </div>
 
 <img src="https://www.verdensmaalene.dk/img/6.jpg" alt="">
