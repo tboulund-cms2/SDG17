@@ -66,12 +66,22 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: #7fff94;
-    border-radius: 25px;
+    background-color: #0495c9;
     border: none;
     text-align: center;
     display: inline-block;
-    color: white;
+    color: #fff;
+    border-color: #FFB304;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.open>.dropdown-toggle.btn {
+    color: #fff;
+    background-color: #00b3db;
+    border-color: white;
 }
 
 .del-mål {
