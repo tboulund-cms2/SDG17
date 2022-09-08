@@ -35,6 +35,17 @@
 .mid {
     height: 50vh;
     width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.midmid {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
 }
 
 .bund {
