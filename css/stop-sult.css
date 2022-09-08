@@ -17,8 +17,8 @@
 
 .overskrift {
     color: white; 
-    font: small-caps;
     margin-left: 40%;
+    text-transform: uppercase;
 }
 
 .box {
