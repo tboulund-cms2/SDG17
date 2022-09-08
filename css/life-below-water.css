@@ -125,6 +125,11 @@ h2{
     align-items: center; 
 }
 .link p{
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
+}
+
+#newsletter-section{
+    margin-top: 70px;
+
 }

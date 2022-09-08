@@ -442,25 +442,30 @@
 
 
         <div class="goals-container">
-            <div class="col-3">
-                <a href="<?php the_field("no_poverty_page") ?>">
-                    <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
-                </a>
+            <div class="col-12">
+                <div class="col-6">
+                    <h3><?php the_field("updated_text") ?></h3>
+                </div>
+                <div class="col-6">
+                    <div class="col-12">
+                        <h4><?php the_field("headline_5") ?></h4>
+                    </div>
+                    <div class="col-12">
+                        <label for="email">Enter your email:</label>
+                        <input type="email" id="email" name="email">
+                    </div>
+                </div>
             </div>
-            <div class="col-1"></div>
-            <div class="col-3">
-            <a href="#">
-                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
-                </a>
-            </div>
-            <div class="col-1"></div>
-            <div class="col-3">
-            <a href="<?php the_field("good_health_page") ?>">
-                 <img class="things-image" src="<?php the_field("goal_3") ?>" alt="">
-                 </a>
-             </div>
-        </div>
 
+
+            <div class="col-12">
+                <div class="col-6">
+                </div>
+                <div class="col-6">
+
+                </div>
+            </div>
+</div>
     </section> 
 
 
