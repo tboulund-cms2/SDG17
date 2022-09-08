@@ -48,6 +48,14 @@
     gap: 10px;
 
 }
+.text2 {
+    font-size: medium;
+    color: darkmagenta;
+}
+.video {
+    display: flex;
+    justify-content: center;
+}
 
 .bund {
     height: 50vh;
