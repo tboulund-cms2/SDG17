@@ -53,6 +53,8 @@
             <p class="pcconfiq">Forum</p>
         </a>
     </div>
+    <br>
+    <br>
     <div class="del-mål">
         <h2 id="mål-tekst">Verdensmål 11 i delmål</h2>
         <br>
