@@ -6,7 +6,7 @@
 .col {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 25%;
 }
 .first {
     display: flex;
