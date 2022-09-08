@@ -14,9 +14,14 @@
     font: small-caps;
 }
 
+.box {
+    width: 200px;
+}
+
 .tekst {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     text-align: justify;
     color: white;
 }
