@@ -20,9 +20,9 @@
                     <img class="banner-image" src="<?php the_field("banner-image") ?>" alt="">
                 </div>
             </div>
-            <div class="col-md-8 col-sm-12">
-                <h1><?php the_field("banner-text") ?></h1>
-            </div>
+        </div>
+        <div class="col-md-8 col-sm-12">
+            <h1><?php the_field("banner-text") ?></h1>
         </div>
     </div>
     <div class="description">
