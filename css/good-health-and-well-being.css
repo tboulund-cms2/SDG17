@@ -59,12 +59,13 @@ body {
 } */
 
 .main-icon-img{
-  height: 100%;
+  height: auto;
+  background-color: #4C9F38;
   
 }
 
 .icon-picture{
-  object-fit: cover;
+  /*object-fit: cover;*/
   height: 100vh;
   width: 100%;
   object-position: 0% 0%;
