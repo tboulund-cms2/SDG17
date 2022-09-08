@@ -3,7 +3,7 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="stop-sult">
-    MÅL 2
+    <h1>MÅL 2</h1>
     
     <div class="col">
     <div class="box">
