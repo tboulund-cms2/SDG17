@@ -22,7 +22,7 @@
 
 </div>
 
-<p> Vandmangel påvirker mere end 40 procent af verdens befolkning. Det er et alarmerende tal, som  forventes at øge med de stigende globale temperaturer forårsaget af klimaændringerne. 
+<p class="columntext"> Vandmangel påvirker mere end 40 procent af verdens befolkning. Det er et alarmerende tal, som  forventes at øge med de stigende globale temperaturer forårsaget af klimaændringerne. 
 
  
 
