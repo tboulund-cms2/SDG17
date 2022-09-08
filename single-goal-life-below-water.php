@@ -423,7 +423,7 @@
             <div class="col-1"></div>
             <div class="col-3">
             <a href="#">
-                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">¨
+                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
                 </a>
             </div>
             <div class="col-1"></div>
