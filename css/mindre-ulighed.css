@@ -41,6 +41,9 @@
     flex-direction: column;
 
 }
+.overskrift2 {
+    height: 100px;
+}
 .midmid {
     height: auto;
     width: auto;
@@ -71,6 +74,10 @@
     .midmid, .mid {
         gap: 10px;
         height: auto;
+    }
+    .mid {
+        display: flex;
+        flex-direction: column;
     }
   }
 
