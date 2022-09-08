@@ -25,11 +25,6 @@
             </div>
         </div>
     </div>
-    <div class="col-md-12 btn">
-        <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
-            <p class="pcconfiq">Forum</p>
-        </a>
-    </div>
     <div class="description">
         <div>
             <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
@@ -41,7 +36,11 @@
             <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
         </div>
     </div>
-
+    <div class="col-md-12 btn">
+        <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
+            <p class="pcconfiq">Forum</p>
+        </a>
+    </div>
     <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EHeWPWny3BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
