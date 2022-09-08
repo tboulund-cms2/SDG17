@@ -15,7 +15,8 @@
 }
 
 .box {
-    width: 200px;
+    display: flex;
+    
 }
 
 .tekst {
