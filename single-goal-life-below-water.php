@@ -435,6 +435,34 @@
 
     </section>
 
+    <section id="newsletter-section" class="col-12">
+        <div class="col-12">
+            <h2><?php the_field("headline_4") ?></h2>
+        </div>
+
+
+        <div class="goals-container">
+            <div class="col-3">
+                <a href="<?php the_field("no_poverty_page") ?>">
+                    <img class="things-image" src="<?php the_field("goal_1") ?>" alt="">
+                </a>
+            </div>
+            <div class="col-1"></div>
+            <div class="col-3">
+            <a href="#">
+                <img class="things-image" src="<?php the_field("goal_2") ?>" alt="">
+                </a>
+            </div>
+            <div class="col-1"></div>
+            <div class="col-3">
+            <a href="<?php the_field("good_health_page") ?>">
+                 <img class="things-image" src="<?php the_field("goal_3") ?>" alt="">
+                 </a>
+             </div>
+        </div>
+
+    </section> 
+
 
 
 <?php endwhile ?>
