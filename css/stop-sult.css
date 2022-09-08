@@ -42,10 +42,16 @@
 
 .buttons {
     color: white;
-    background-color: #d9a100;
+    background-color: #d9a1008c;
     box-shadow: 3px 1px 3px #dabf6f;
     border: none;
-    border-radius: 35px;
+    border-radius: 25px;
+    width: 130px;
+    height: 46px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }
 
 
