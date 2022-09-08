@@ -34,3 +34,11 @@
     background-color: #FC766AFF;
     color: white;
 }
+
+.btn{
+    height:300px ;
+    width: 600px;
+    display: flex;
+    justify-content:center ;
+    align-content: center;
+}
