@@ -16,7 +16,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
+    gap: 50px;
 }
 
 .knap {
@@ -25,7 +26,6 @@
     display: flex;
     justify-content: center;
     background-color: whitesmoke;
-    border: 1px;
     border-color: darkmagenta;
     border-radius: 10px;
 }
@@ -39,3 +39,10 @@
     height: 50vh;
     width: 100vw;
 }
+
+@media screen and (max-width: 700px) {
+    .top {
+        gap: 10px;
+        height: auto;
+    }
+  }
