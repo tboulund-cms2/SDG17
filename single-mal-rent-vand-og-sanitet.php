@@ -73,7 +73,6 @@ Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdags
           </div> -->
 
           <div><img class="imgsmall" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_6_TARGET_6.1_0.png" alt=""></div> 
-
 <section>
 
 <div class="">
