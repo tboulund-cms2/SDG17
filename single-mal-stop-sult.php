@@ -3,32 +3,41 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="stop-sult">
+    <h1 class="mal2">MÅL 2</h1>
+    
+    <div class="col">
+    <div class="box">
     <h1 class="overskrift"> <?php the_title() ?></h1>
-
-
-    <div class="first">
-      
-       <p class="tekst"><?php the_field("text") ?></p> 
-        <img class="image" src="<?php the_field("image") ?>" alt="">
     </div>
-
-    <div class="second">
-    <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
-    <p class="tekst"><?php the_field("text-2") ?></p> 
-       
-    </div>
-
-    <div class="third">
-    <p class="tekst"><?php the_field("text-3") ?></p> 
+        <div class="box">
+         <p class="tekst"><?php the_field("text") ?></p> 
+       </div>
+        <img class="image" src="<?php the_field("image-2") ?>" alt="">
+        <div class="box">
+        <p class="tekst"><?php the_field("text-3") ?></p> 
+        </div> 
+        <img class="image" src="<?php the_field("image-4") ?>" alt="">
+    </div>   
+    
+    <div class="col-1">
+    <img class="image" src="<?php the_field("image") ?>" alt="">
+    <div class="box">
+        <p class="tekst"><?php the_field("text-2") ?></p> 
+        </div>  
         <img class="image" src="<?php the_field("image-3") ?>" alt="">
-    </div> 
-
-    <div class="fourth">
-    <img class="image" src="<?php the_field("image-4") ?>" alt="">
-    <p class="tekst"><?php the_field("text-4") ?></p> 
+        <div class="box">
+        <p class="tekst"><?php the_field("text-4") ?></p> 
+        </div> 
     </div>
 
-    <button> Forum </button>
+ 
+    <button class="buttons"> Forum </button> 
+    <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="buttons">  Mål </button></a>
+   
+    <div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2UK5mY8b8gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
     </div>
         
 
