@@ -446,11 +446,11 @@
                 <div class="col-6">
                     <h3><?php the_field("updated_text") ?></h3>
                 </div>
-                <div class="col-6 text-align-center">
-                    <div class="col-12">
+                <div class="col-6 ">
+                    <div class="col-12 text-align-center">
                         <h4><?php the_field("headline_5") ?></h4>
                     </div>
-                    <div class="col-12">
+                    <div class="col-12 text-align-center">
                         <label for="email">Enter your email:</label>
                         <input type="email" id="email" name="email">
                     </div>
