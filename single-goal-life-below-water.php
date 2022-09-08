@@ -448,7 +448,7 @@
                 </div>
                 <div class="col-6 boxos">
                     <div class="col-12">
-                        <h4 class="text"><?php the_field("headline_5") ?></h4>
+                        <b><h4 class="text"><?php the_field("headline_5") ?></h4></b>
                     </div>
                     <div class="col-12 text">
                         <input type="email" id="email" name="email"placeholder="Enter your email:">
