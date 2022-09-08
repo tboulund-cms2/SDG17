@@ -237,6 +237,10 @@ body {
     font-size: 24px !important;
   }
 
+  .icon-picture {
+    height: auto;
+  }
+
   .box-container-for-icons {
     flex-direction: column;
   }
