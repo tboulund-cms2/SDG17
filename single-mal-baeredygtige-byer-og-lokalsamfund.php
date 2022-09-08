@@ -13,23 +13,20 @@
     <?php get_header() ?>
     <div class="container-byer">
 
-        <div class="col-md-12 col-sm-12">
-            <div class="banner">
-                <div class="headline">Mål:11 bæredygtige byer og lokalsamfund</div>
-                <div class="row">
-                    <div class="col-md-12 col-sm-12">
-                        <img class="banner-image" src="<?php the_field("banner-image") ?>" alt="">
-                        <h1><?php the_field("banner-text") ?></h1>
+        <div class="banner">
+            <div class="headline">Mål:11 bæredygtige byer og lokalsamfund</div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <img class="banner-image" src="<?php the_field("banner-image") ?>" alt="">
+                    <h1><?php the_field("banner-text") ?></h1>
 
-                    </div>
                 </div>
-
             </div>
         </div>
+
         <div class="col-md-12 col-sm-12">
             <div class="description">
                 <p style="padding:50px,150px,20px,150px"><?php the_field("description-1") ?></p>
-
                 <p style="padding:0px,150px,30px,150px"><?php the_field("description-2") ?></p>
             </div>
         </div>
@@ -41,12 +38,11 @@
     <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EHeWPWny3BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div class="col-md-12 col-sm-12">
-        <div class="description2">
-            <div class="description-3">
-                <p style="padding:50px,150px,20px,150px"><?php the_field("description-3") ?></p>
-                <p style="padding:0px,150px,30px,150px"><?php the_field("description-4") ?></p>
-            </div>
+    <div class="description2">
+        <div class="description-3">
+            <p style="padding:50px,150px,20px,150px"><?php the_field("description-3") ?></p>
+
+            <p style="padding:0px,150px,30px,150px"><?php the_field("description-4") ?></p>
         </div>
     </div>
     <div class="col-md-12 col-sm-12 btn">
