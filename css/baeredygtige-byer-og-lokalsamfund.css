@@ -67,6 +67,11 @@
     justify-content: center;
     align-content: center;
     background-color: #7fff94;
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    color: white;
 }
 
 .del-mål {
