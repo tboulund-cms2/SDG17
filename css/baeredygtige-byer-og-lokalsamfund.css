@@ -66,3 +66,15 @@ background-image: cover;
     align-content: center;
     background-color: #7fff94;
 }
+
+.del-mål{
+    background-color: orange;
+}
+
+.mål-tekst{
+    color: red;
+}
+.mål-hvid
+{
+    color: white;
+}
