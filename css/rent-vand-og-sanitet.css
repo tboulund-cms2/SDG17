@@ -51,5 +51,5 @@ object-position: 0% 0%;
 
 .imgsmall {
     object-fit: scale-down;
-    grid-row: auto;
+    flex-direction: row;
 }
