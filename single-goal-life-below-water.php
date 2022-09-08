@@ -451,8 +451,7 @@
                         <h4 class="text"><?php the_field("headline_5") ?></h4>
                     </div>
                     <div class="col-12 text">
-                        <label for="email">Enter your email:</label>
-                        <input type="email" id="email" name="email">
+                        <input type="email" id="email" name="email"placeholder="Enter your email:">
                     </div>
              
             </div>
