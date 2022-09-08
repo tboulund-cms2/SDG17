@@ -441,12 +441,12 @@
         </div>
 
 
-        <div class="newsletter-container">
+        <div class="newsletter-container row d-flex flex-wrap">
             <div class="col-12">
                 <div class="col-6">
                     <h3 class="text"><?php the_field("updated_text") ?></h3>
                 </div>
-                <div class="col-6 ">
+                <div class="col-6">
                     <div class="col-12">
                         <h4 class="text"><?php the_field("headline_5") ?></h4>
                     </div>
