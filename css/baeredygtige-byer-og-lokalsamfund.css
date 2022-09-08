@@ -73,8 +73,12 @@ background-image: cover;
 
 #mål-tekst{
     color: red;
+    font-family: Helvetica, serif,bold;
+    font-size: 20;
 }
 #mål-hvid
 {
     color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 20;
 }
