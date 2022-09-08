@@ -28,6 +28,7 @@
                 <div>
                     <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
                 </div>
+                <br>
                 <div>
                     <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
                 </div>
