@@ -120,6 +120,9 @@ h2{
 }
 .goals-container{
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 .link p{
     color: #FFFFFF;
@@ -128,5 +131,7 @@ h2{
 
 #newsletter-section{
     margin-top: 70px;
-
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
