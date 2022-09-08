@@ -38,7 +38,6 @@ body {
 .btn-cta {
   background-color: #4C9F38;
   color: #EAEAEA;
-  padding: 15px;
 }
 
 .btn-cta:hover{
@@ -60,9 +59,13 @@ body {
   width: 100%;
 } */
 
+.main-icon-img{
+  min-height: 80vh;
+}
+
 .icon-picture{
   object-fit: cover;
-  height: 80vh;
+  height: 100%;
   width: 100%;
   object-position: 0% 0%;
 }
