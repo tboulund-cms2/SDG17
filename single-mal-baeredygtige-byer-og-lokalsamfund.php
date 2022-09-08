@@ -41,7 +41,7 @@
                 <p style="padding:0px,150px,30px,150px"><?php the_field("description-4") ?></p>
             </div>
         </div>
-        <div class="col-md-12 col-sm-12 rounded-pill btn">
+        <div class="col-md-12 col-sm-6 rounded-pill btn">
             <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
                 <p class="pcconfiq">Forum</p>
             </a>
