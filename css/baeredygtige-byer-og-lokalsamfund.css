@@ -1,6 +1,4 @@
-.body{
-    background-color: orange;
-}
+
 
 
 .banner-image {
@@ -10,6 +8,7 @@
 .container {
     --bs-gutter-x: 0rem !important;
     max-width: 100% !important;
+    background-color: orange;
 }
 
 .banner {
