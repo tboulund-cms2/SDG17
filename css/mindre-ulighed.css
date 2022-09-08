@@ -45,7 +45,7 @@
     height: 100px;
 }
 .midmid {
-    height: auto;
+    height: 120vh;
     width: auto;
     display: flex;
     justify-content: center;
