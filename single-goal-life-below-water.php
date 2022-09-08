@@ -393,8 +393,8 @@
                 <div class="col-9">
                     <div class="col-1"></div>
                     <div class="col-10">
-                        <div class="col-12">
-                        <a class="link" href="<?php the_field("life_below_water_group") ?>">
+                        <div class="col-12 link">
+                        <a href="<?php the_field("life_below_water_group") ?>">
                             <p>Continue to the group members</p>
                         </a>
                         </div>
