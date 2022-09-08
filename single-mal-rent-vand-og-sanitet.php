@@ -22,8 +22,23 @@
 
 </div>
 
-<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem corrupti officiis sint minima beatae perspiciatis ea eaque dolorem perferendis possimus. <br>
-Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusamus.</p>
+<p> Vandmangel påvirker mere end 40 procent af verdens befolkning. Det er et alarmerende tal, som  forventes at øge med de stigende globale temperaturer forårsaget af klimaændringerne. 
+
+ 
+
+Selvom 2,1 milliarder mennesker har fået forbedret adgang til vand og sanitet siden 1990, er svindende forsyninger af rent drikkevand et stort problem, som påvirker alle kontinenter.
+
+ 
+
+I 2011 oplevede 41 lande ”vandstress”; ti af dem er tæt på at udtømme deres kilder med vedvarende ferskvand og må nu regne med ikke-konventionelle kilder. Tørke og ørkendannelse forværrer allerede disse tendenser. I 2050 forventes det, at hver fjerde er påvirket af tilbagevendende vandmangel.
+
+ 
+
+Universel adgang til sikkert og billigt drikkevand til alle inden 2030 kræver, at vi investerer i infrastruktur, leverer sanitære faciliteter og fremmer hygiejne på alle niveauer. Beskyttelse og genoprettelse af vandrelaterede økosystemer som skove, bjerge, vådområder og floder er afgørende, hvis vi skal afbøde vandmangel. Der er også brug for at styrke det internationale samarbejde for at fremme vandeffektivitet og støtte behandlingsteknologier i udviklingslande.
+
+ 
+
+Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdagsordenen for bæredygtig udvikling frem mod 2030. En integreret tilgang er afgørende for fremskridt på tværs af de forskellige mål.</p>
 </div>
 
 <img src="https://www.verdensmaalene.dk/img/6.jpg" alt="">
