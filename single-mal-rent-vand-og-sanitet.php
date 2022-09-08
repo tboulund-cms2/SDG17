@@ -30,7 +30,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
 </div>
 
 <div class=flexcontainer>
-    <section>
+   <!--  <section>
         <h1> Verdensmål 6: I delmål og indikatorer</h1>
         <div>
          
@@ -55,7 +55,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
             Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges væsentligt, og der skal sikres bæredygtig indvinding af og forsyning med ferskvand for at imødegå vandknaphed, og væsentligt reducere antallet af mennesker, der lider af vandmangel, betydeligt.</p></div>
            <div class="col-1">6.5</div> 
            <div class="col-5 col-sm-11"></div>
-<!-- 
+
            <div class="col-1">6.6</div> 
            <div class="col-5 col-sm-11"></div>
 
@@ -116,7 +116,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="flexcontainer" style="background-color:#aaa;">
     <h2>Column 1</h2>
 <p>6.1 <br> Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p>
     
