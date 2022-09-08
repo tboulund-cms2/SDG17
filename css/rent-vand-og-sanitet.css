@@ -44,7 +44,7 @@ text-align:justify;
 
 .imgfirst {
 height: 100vh;
-width: 50%;
+width: auto;
 object-position: 0% 0%;
 
 }
