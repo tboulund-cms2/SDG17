@@ -385,7 +385,7 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-            <div class="col-6">
+            
             <div class="col-6 things-right">
                 <div class="col-3">
                     <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
@@ -403,7 +403,6 @@
                 </div>
             </div>
 
-            </div>
         </div>
     </section>
 
