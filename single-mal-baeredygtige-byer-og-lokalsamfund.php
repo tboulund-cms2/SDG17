@@ -49,10 +49,8 @@
         </div>
         <div class="col-md-12 col-sm-12 btn">
             <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
-                <p class="pcconfiq">Forum</p>
+                <p class="pcconfiq col-md-12 col-sm-12">Forum</p>
             </a>
-            <br>
-            <br>
         </div>
         <br>
         <br>
