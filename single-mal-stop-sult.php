@@ -3,6 +3,7 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="stop-sult">
+    <div>
     <h1 class="mal2">MÅL 2</h1>
     
     <div class="col">
@@ -29,11 +30,12 @@
         <p class="tekst"><?php the_field("text-4") ?></p> 
         </div> 
     </div>
-
+    </div>
  
+    <div>
     <button class="buttons"> Forum </button> 
     <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="buttons">  Mål </button></a>
-   
+    </div>
     <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2UK5mY8b8gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
