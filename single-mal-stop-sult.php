@@ -3,8 +3,10 @@
     <?php while(have_posts()): the_post() ?>
 
     <div class="stop-sult">
-    <h1 class="mal2">MÅL 2</h1>
-    
+    <h1 class="mal2">MÅL 2: STOP SULT</h1>
+    <div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2UK5mY8b8gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
     <div class="col">
     <div class="box">
     <h1 class="overskrift"> <?php the_title() ?></h1>
@@ -33,9 +35,7 @@
     <div class="bottom">
     <button> Forum </button>
 
-    <div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2UK5mY8b8gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+   
 </div>
     </div>
         
