@@ -91,14 +91,14 @@ body {
 .main-info-grid-icon-box {
 
   display: flex;
-  
   align-items: center;
   padding-top: 10px;
 
 }
 
 .main-info-grid-icon-box img{
-  width: 30px;
+  width: 56px;
+  height: auto;
   padding: 5px;
   background-color: #4C9F38;
   border-radius: 50%;
