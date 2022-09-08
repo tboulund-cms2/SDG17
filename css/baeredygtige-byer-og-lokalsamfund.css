@@ -115,14 +115,20 @@
     font-size: 25px !important;
     color: white;
     font-family: Impact, sans-serif;
-    margin: -1vh;
 }
 
-@media screen and (max-width:1000px) {
-
-    .btn{
-        width: auto;
-        font-size: 15px !important;
+@media screen and (max-width: 1000px) {
+    .forums{
+        height: 100px;
+        width: 200px;
     }
     
-} 
+}
+
+@media screen and (max-width: 900px) {
+    .forums{
+        height: 100px;
+        width: 200px;
+    }
+    
+}
