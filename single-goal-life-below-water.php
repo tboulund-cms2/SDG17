@@ -443,11 +443,11 @@
 
         <div class=" col-12 newsletter-container row d-flex flex-wrap">
                 <div class="col-6">
-                    <h3 class="text"><?php the_field("updated_text") ?></h3>
+                    <p class="text"><?php the_field("updated_text") ?></p>
                 </div>
                 <div class="col-6 boxos">
                     <div class="col-12">
-                        <b><h4 class="text"><?php the_field("headline_5") ?></h4></b>
+                        <h3 class="text"><?php the_field("headline_5") ?></h3>
                     </div>
                     <div class="col-12 text">
                         <input type="email" id="email" name="email"placeholder="Enter your email:">
