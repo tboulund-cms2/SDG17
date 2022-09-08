@@ -20,7 +20,7 @@
                     <img class="banner-image" src="<?php the_field("banner-image") ?>" alt="">
                 </div>
                 <br>
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-4 col-sm-12">
                     <h1><?php the_field("banner-text") ?></h1>
                 </div>
             </div>
@@ -59,7 +59,7 @@
         <div class="del-mål">
             <br>
             <br>
-            <h2 class="mål-tekst">Verdensmål 11 i delmål</h2>
+            <h2 class="mål-overskrift">Verdensmål 11 i delmål</h2>
             <br>
             <p class="mål-hvid">
                 <span class="mål-tekst">Inden 2030</span>,skal alle sikres adgang til egnede og sikre boliger til en overkommelige pris med adgang til grundlæggende tjenesteydelser, og slumkvarterer skal opgraderes.
