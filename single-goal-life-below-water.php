@@ -442,7 +442,6 @@
 
 
         <div class=" col-12 newsletter-container row d-flex flex-wrap">
-            
                 <div class="col-6">
                     <h3 class="text"><?php the_field("updated_text") ?></h3>
                 </div>
@@ -454,7 +453,7 @@
                         <input type="email" id="email" name="email"placeholder="Enter your email:">
                     </div>
              
-            </div>
+                 </div>
 
 </div>
     </section> 

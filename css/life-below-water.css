@@ -144,7 +144,5 @@ h2{
 color: white;
 }
 .boxos{
-    display: flex;
-    justify-content: center;
-    align-items: center;  
+text-align: center; 
 }
