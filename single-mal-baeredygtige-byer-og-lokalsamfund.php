@@ -49,8 +49,9 @@
         </div>
         <div class="col-md-12 col-sm-12 btn">
             <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
-                <p class="pcconfiq col-md-12 col-sm-12">Forum</p>
+                <p class="pcconfiq">Forum</p>
             </a>
+
         </div>
         <br>
         <br>
@@ -94,7 +95,10 @@
 
         </div>
     </div>
-
+    <section id="power-wordpress" class="d-flex col-md-12 info-background justify-content-center align-items-center">
+        <h2>powered by Wordpress 2022</h2>
+        <?php echo date('Y'); ?>
+    </section>
     <?php get_footer() ?>
 </body>
 
