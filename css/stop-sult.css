@@ -45,7 +45,7 @@
     border: none;
 }
 
-.btn-2 {
+button {
     color: white;
     background-color: #d9a1008c;
     box-shadow: 3px 1px 3px #b6ac91;
@@ -57,10 +57,6 @@
     display: inline-block;
     font-size: 16px;
     margin: 40px 10px;
-}
-
-.btn:hover {
-    background-color: #b6ac91;
 }
 
 
