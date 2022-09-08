@@ -19,9 +19,18 @@
     flex-direction: column;
 }
 
-
+.knap {
+    width: 100px;
+    height: 50px;
+    background-color: fuchsia;
+}
 
 .mid {
+    height: 50vh;
+    width: 100vw;
+}
+
+.bund {
     height: 50vh;
     width: 100vw;
 }
