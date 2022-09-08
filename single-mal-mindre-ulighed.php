@@ -3,7 +3,7 @@
     <?php while(have_posts()): the_post() ?>
        <section class="top">
             <h1 class="overskrift"><?php the_field("overskrift_1")?></h1>
-            <a href=""><p class="knap">Forum</p></a>
+            <a href="http://boulund.com/sdg17/forums/forum/ligevaerdier-for-alle/"><p class="knap">Forum</p></a>
             
        </section>
 
