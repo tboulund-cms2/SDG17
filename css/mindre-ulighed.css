@@ -67,6 +67,13 @@
     width: 100vw;
 }
 
+@media screen and (max-width: 1000px) {
+    .midmid {
+        gap: 10px;
+        height: auto;
+    }
+  }
+
 @media screen and (max-width: 700px) {
     .top {
         gap: 10px;
