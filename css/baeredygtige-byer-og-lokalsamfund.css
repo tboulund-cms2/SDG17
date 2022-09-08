@@ -120,31 +120,39 @@
 
 @media screen and (max-width: 1000px) {
     .a,.pcconfiq,.forums{
-        margin: -1vh;
-        font-size: 20px;
+        justify-content: center;
+        align-content: center;
+        display: flex;
+        text-align: center;
     }
     
 }
 
 @media screen and (max-width: 900px) {
     .a,.pcconfiq,.forums{
-        margin: -1vh;
-        font-size: 20px;
+        justify-content: center;
+        align-content: center;
+        display: flex;
+        text-align: center;
     }
     
 }
 @media screen and (max-height: 1000px) {
     .a,.pcconfiq,.forums{
-        margin: -1vh;
-        font-size: 20px;
+        justify-content: center;
+        align-content: center;
+        display: flex;
+        text-align: center;
     }
     
 }
 
 @media screen and (max-height: 900px) {
     .a,.pcconfiq,.forums{
-        margin: -1vh;
-        font-size: 20px;
+        justify-content: center;
+        align-content: center;
+        display: flex;
+        text-align: center;
     }
     
 }
