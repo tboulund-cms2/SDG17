@@ -71,10 +71,16 @@ background-image: cover;
     background-color: orange;
 }
 
-.mål-tekst{
+.mål-overskrift{
     color: red;
     font-family: Helvetica, serif,bold;
     font-size: 25px;
+}
+
+.mål-overskrift{
+    color: red;
+    font-family: Helvetica, serif,bold;
+    font-size: 35px;
 }
 .mål-hvid
 {
