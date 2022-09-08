@@ -8,12 +8,7 @@
     background-attachment: fixed;
 }
 .image-1 {
-
-    background-size: cover;
-    background-size: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+background-image: cover;
 }
 .container-byer {
     --bs-gutter-x: 0rem !important;
