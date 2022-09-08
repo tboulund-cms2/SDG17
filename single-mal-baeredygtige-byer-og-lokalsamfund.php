@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 col-sm-6">
+        <div class="col-md-12 col-sm-12">
             <div class="description">
                 <div>
                     <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
