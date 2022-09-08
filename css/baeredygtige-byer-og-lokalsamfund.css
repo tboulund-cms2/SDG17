@@ -35,8 +35,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 50px;
-    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 100px;
     font-family: Georgia, serif;
 }
 
@@ -127,7 +127,7 @@
 
 @media screen and (max-width: 900px) {
     .forums{
-        margin: -1vh;
+                margin: -1vh;
     }
     
 }
