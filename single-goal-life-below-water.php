@@ -442,7 +442,7 @@
 
 
         <div class="newsletter-container">
-            <div class="col-12">
+            <div class="col-12 d-flex justifiy-content-center align-items-center">
                 <div class="col-6">
                     <h3><?php the_field("updated_text") ?></h3>
                 </div>
