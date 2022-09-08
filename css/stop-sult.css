@@ -42,7 +42,10 @@
 
 .buttons {
     color: white;
-    box-shadow: 3px 1px 3px rgb(234, 198, 158);
+    background-color: #d9a100;
+    box-shadow: 3px 1px 3px #dabf6f;
+    border: none;
+    border-radius: 35px;
 }
 
 
