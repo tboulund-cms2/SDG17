@@ -40,4 +40,9 @@
     font-size: 20px;
 }
 
+.buttons {
+    color: white;
+    box-shadow: 3px 1px 3px rgb(234, 198, 158);
+}
+
 
