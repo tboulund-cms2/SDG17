@@ -32,8 +32,8 @@
     </div>
     </div>
  
-  
-    <button class="btn-b2"> Forum </button> 
+  <a href="http://boulund.com/sdg17/groups/stop-sult/forum/stop-sult/stop-sult/">
+    <button class="btn-b2"> Forum </button> </a>
     <a href="https://www.un.org/development/desa/disabilities/envision2030-goal2.html"> <button class="btn-b2">  Mål </button></a>
    
 
