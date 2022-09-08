@@ -16,7 +16,7 @@
         </div>
         <div class="col">
 
-    <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
+    <img class="image" src="<?php the_field("image-2") ?>" alt="">
     <p class="tekst"><?php the_field("text-2") ?></p> 
     </div>   
     
