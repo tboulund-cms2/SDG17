@@ -30,9 +30,22 @@
     font-family: Georgia, serif;
 }
 
+.description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    font-family: Verdana, sans-serif;
+}
 .description2 {
-    background-color: #FC766AFF;
-    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
 }
 
 .btn{
