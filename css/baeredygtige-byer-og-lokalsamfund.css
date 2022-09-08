@@ -79,7 +79,7 @@
 .btn:active,
 .btn.active,
 .open>.dropdown-toggle.btn {
-    color: #fff;
+    color: darkorchid;
     background-color: white;
     border-color: white;
 }
