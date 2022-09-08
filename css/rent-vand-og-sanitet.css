@@ -44,10 +44,9 @@ text-align:justify;
 
 .imgfirst {
 height: 100vh;
-width: 100%;
+width: 50%;
 object-position: 0% 0%;
-image-rendering: auto;
-;
+
 }
 
 .imgsmall {
