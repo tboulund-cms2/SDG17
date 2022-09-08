@@ -66,7 +66,22 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: #7fff94;
+    background-color: lime;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    border-color: #FFB304;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.open>.dropdown-toggle.btn {
+    color: #fff;
+    background-color: white;
+    border-color: white;
 }
 
 .del-mål {
@@ -93,4 +108,10 @@
 
 #power-wordpress {
     background-color: yellow;
+}
+
+.pcconfiq {
+    font-size: 25px;
+    font-family: Impact, sans-serif;
+
 }
