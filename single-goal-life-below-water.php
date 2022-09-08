@@ -441,7 +441,7 @@
         </div>
 
 
-        <div class="goals-container">
+        <div class="newsletter-container">
             <div class="col-12">
                 <div class="col-6">
                     <h3><?php the_field("updated_text") ?></h3>
