@@ -75,6 +75,9 @@ Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdags
 
 <section>
 
+<?php
+$im = imagecreatefrompng("test.png");
+
 <div class="">
   <div class="flexcontainer" style="background-color:#ffff;">
 
