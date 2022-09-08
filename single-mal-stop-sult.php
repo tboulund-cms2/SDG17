@@ -16,7 +16,7 @@
         <img class="image" src="<?php the_field("image-4") ?>" alt="">
     </div>   
     
-    <div class="col">
+    <div class="col-1">
     <img class="image" src="<?php the_field("image") ?>" alt="">
     <div class="box">
         <p class="tekst"><?php the_field("text-2") ?></p> 
