@@ -7,18 +7,18 @@
     float: left;
     width: 50%;
     padding: 25px;
-    margin-top: 200px;
+    margin-top: 160px;
 }
 .col-1 {
     float: left;
     width: 50%;
-    padding: 20px;
+    padding: 25px;
 }
 
 .overskrift {
     color: white; 
     font: small-caps;
-    margin-left: 20%;
+    margin-left: 40%;
 }
 
 .box {

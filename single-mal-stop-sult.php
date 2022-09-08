@@ -6,7 +6,9 @@
     
     
     <div class="col">
+    <div class="box">
     <h1 class="overskrift"> <?php the_title() ?></h1>
+    </div>
         <div class="box">
          <p class="tekst"><?php the_field("text") ?></p> 
        </div>
