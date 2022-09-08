@@ -385,7 +385,25 @@
                     <div class="col-1"></div>
                 </div>
             </div>
-            <div class="col-6"></div>
+            <div class="col-6">
+            <div class="col-6 things-right">
+                <div class="col-3">
+                    <img class="things-image" src="<?php the_field("light_bulb_icon") ?>" alt="">
+                </div>
+                <div class="col-9">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <div class="col-12">
+                        <a href="<?php the_field("life_below_water_group") ?>">
+                            <p>Continue to the group members</p>
+                        </a>
+                        </div>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+
+            </div>
         </div>
     </section>
 
