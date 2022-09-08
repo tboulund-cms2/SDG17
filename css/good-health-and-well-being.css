@@ -87,10 +87,9 @@ body {
 }
 
 .main-info-grid-icon-box {
-
   display: flex;
   align-items: center;
-  padding-bottom: 20px;
+  padding-top: 10px;
 }
 
 .main-info-grid-icon-box img{
