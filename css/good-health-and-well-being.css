@@ -60,13 +60,13 @@ body {
 
 .main-icon-img{
   height: 100%;
-  object-fit: cover;
+  
 }
 
 .icon-picture{
   object-fit: cover;
   height: 100%;
-  width: 100%;
+  width: 100vh;
   object-position: 0% 0%;
 }
 
