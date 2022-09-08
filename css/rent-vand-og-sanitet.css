@@ -38,7 +38,7 @@ p {
 }
 
 .columntext {
-column-gap: normal;
+column-gap: 12%;
 margin: 30px 30px 50px 50px;
 text-align:justify;
 }
