@@ -33,9 +33,9 @@
         <div>
             <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
         </div>
-        <div>
-            <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
-        </div>
+    </div>
+    <div>
+        <img class="image-1" src="<?php the_field("image-1") ?>" alt="">
     </div>
 
     <div class="video">
@@ -52,6 +52,10 @@
         <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
             <p class="pcconfiq">Forum</p>
         </a>
+    </div>
+    <div class="del-mål">
+        <h2>Verdensmål 11 i delmål og indikatorer</h2>
+
     </div>
 
 
