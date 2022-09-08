@@ -116,7 +116,6 @@ Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges v
     <p>6.b <br> Støtte og styrke lokalsamfundenes deltagelse i at forbedre forvaltningen af vand- og sanitet. </p>
   </div>
   <section class="flexcontainer" style="background-color:#bbb;">
-    <h2>Column 2</h2>
     
      <p>6.1.1 <br> 	
 Andel af befolkning, der bruger sikkert forvaltet drikkevandsservice.</p>
