@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100% !important;
+    padding: 0 !important
+}
+
+.top {
+    height: 50vh;
+    width: 100vw;
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+}
