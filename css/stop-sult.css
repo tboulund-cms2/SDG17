@@ -4,8 +4,8 @@
 }
 
 .col {
-    display: flex;
-    flex-direction: column;
+    
+    float: left;
     width: 50%;
 }
 
@@ -20,9 +20,7 @@
 }
 
 .tekst {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    
     text-align: justify;
     color: white;
 }
