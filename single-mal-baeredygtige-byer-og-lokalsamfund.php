@@ -23,12 +23,14 @@
                 </div>
             </div>
         </div>
-        <div class="description">
-            <div>
-                <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
-            </div>
-            <div>
-                <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
+        <div class="col-md-6 col-sm-6">
+            <div class="description">
+                <div>
+                    <p style="padding:30px,100px,30px,100px"><?php the_field("description-1") ?></p>
+                </div>
+                <div>
+                    <p style="padding:30px,100px,30px,100px"><?php the_field("description-2") ?></p>
+                </div>
             </div>
         </div>
         <div>
