@@ -6,55 +6,27 @@
 .col {
     display: flex;
     flex-direction: row;
-    
+    color: white;
+    margin: 50px;
 }
-.first {
-    display: flex;
-    
-}
+
 .overskrift {
     color: white; 
     font: small-caps;
-    
 }
 
 .tekst {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    margin: 50px;
-}
-
-.first {
-    color: white;
-    display: flex;
-    margin-top: 50px;
     
 }
 
-.second {
-    color: white;
-    display: flex;
-    margin-top: 50px;
-}
-
-.third {
-    color: white;
-    display: flex;
-    margin-top: 50px;
-}
-
-.fourth {
-    color: white;
-    display: flex;
-    margin-top: 50px;
-}
-
 .image {
-    height: 400px;
-    margin: 50px;
+   
+    
 }
 
 .image-2 {
-    margin: 50px;
+    
 }
