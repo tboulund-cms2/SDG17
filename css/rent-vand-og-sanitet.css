@@ -28,6 +28,7 @@ p {
 }
 
 .flexcontainer {
+    background-color: #ffff;
     color: #4775f1;
     box-sizing: border-box;
     float: left;
