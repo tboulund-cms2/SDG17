@@ -23,7 +23,7 @@
     width: 100px;
     height: 50px;
     display: flex;
-    justify-content: right;
+    justify-self: right;
     background-color: whitesmoke;
     border-color: darkmagenta;
     border-radius: 10px;
