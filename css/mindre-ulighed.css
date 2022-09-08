@@ -68,7 +68,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-    .midmid {
+    .midmid, .mid {
         gap: 10px;
         height: auto;
     }
