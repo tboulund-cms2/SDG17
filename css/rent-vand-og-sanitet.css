@@ -52,4 +52,5 @@ object-position: 0% 0%;
 
 .imgsmall {
     object-fit: scale-down;
+    object-position: 0%;
 }
