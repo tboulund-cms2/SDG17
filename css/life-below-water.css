@@ -134,11 +134,12 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center; 
+
+    color: white;
 }
 .newsletter-container{
     margin-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center; 
-    color: white;
 }
