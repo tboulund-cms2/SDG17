@@ -59,7 +59,7 @@
 <!-- Targets Section - Leifur -->
 
 <div class="target-section-container">
-    <div class="main-card-target col-12">
+    <div class="main-card-target col-12 d-flex flex-wrap">
         <div class="main-icon-img col-12 col-xl-6">
             <img class="icon-picture" src="<?php the_field("icon_picture") ?>" alt="">
         </div>
