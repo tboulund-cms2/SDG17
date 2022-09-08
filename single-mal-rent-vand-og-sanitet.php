@@ -76,7 +76,7 @@ Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdags
 <section>
 
 <div class="">
-  <div class="" style="">
+  <div class="" style="background-color:#031d65;">
 
   <section class="flexcontainer" style="">
   <p>6.1 <br> Inden 2030 skal der opnås universel og lige adgang til sikkert drikkevand til en overkommelig pris for alle.</p>
@@ -98,7 +98,7 @@ Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges v
     
     <p>6.b <br> Støtte og styrke lokalsamfundenes deltagelse i at forbedre forvaltningen af vand- og sanitet. </p>
   </div>
-  <section class="flexcontainer" style="">
+  <section class="flexcontainer" style="background-color:#031d65;">
     
      <p>6.1.1 <br> 	
 Andel af befolkning, der bruger sikkert forvaltet drikkevandsservice.</p>
