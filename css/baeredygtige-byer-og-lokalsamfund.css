@@ -119,15 +119,17 @@
 }
 
 @media screen and (max-width: 1000px) {
-    .forums{
+    .a,.pcconfiq,.forums{
         margin: -1vh;
+        font-size: 20px;
     }
     
 }
 
 @media screen and (max-width: 900px) {
-    .forums{
-                margin: -1vh;
+    .a,.pcconfiq,.forums{
+        margin: -1vh;
+        font-size: 20px;
     }
     
 }
