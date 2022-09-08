@@ -80,8 +80,9 @@
 .btn.active,
 .open>.dropdown-toggle.btn {
     color: darkorchid;
-    background-color: white;
+    background-color: darkorchid;
     border-color: white;
+
 }
 
 .del-mål {
