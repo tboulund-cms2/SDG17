@@ -446,7 +446,7 @@
                 <div class="col-6">
                     <h3 class="text"><?php the_field("updated_text") ?></h3>
                 </div>
-                <div class="col-6">
+                <div class="col-6 boxos">
                     <div class="col-12">
                         <h4 class="text"><?php the_field("headline_5") ?></h4>
                     </div>
