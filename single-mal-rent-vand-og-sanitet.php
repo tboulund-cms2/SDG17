@@ -55,7 +55,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
             Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges væsentligt, og der skal sikres bæredygtig indvinding af og forsyning med ferskvand for at imødegå vandknaphed, og væsentligt reducere antallet af mennesker, der lider af vandmangel, betydeligt.</p></div>
            <div class="col-1">6.5</div> 
            <div class="col-5 col-sm-11"></div>
-
+<!-- 
            <div class="col-1">6.6</div> 
            <div class="col-5 col-sm-11"></div>
 
@@ -87,7 +87,7 @@ Excepturi ipsum quas, architecto blanditiis voluptate enim. Eius, commodi accusa
            <div class="col-5 col-sm-11"></div>
 
            <div class="col-1">6.3.2</div> 
-           <div class="col-5 col-sm-11"></div>
+           <div class="col-5 col-sm-11"></div> -->
         </div>
          
          </div>
