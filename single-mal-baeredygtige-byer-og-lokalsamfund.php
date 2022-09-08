@@ -51,41 +51,43 @@
             <a href="http://boulund.com/sdg17/groups/baeredygtige-byer/members/all-members/" class="forums">
                 <p class="pcconfiq">Forum</p>
             </a>
+            <br>
+            <br>
         </div>
         <br>
         <br>
         <div class="del-mål">
-            <h2 id="mål-tekst">Verdensmål 11 i delmål</h2>
+            <h2 class="mål-tekst">Verdensmål 11 i delmål</h2>
             <br>
-            <p id="mål-hvid">
-                <span id="mål-tekst">Inden 2030</span>,skal alle sikres adgang til egnede og sikre boliger til en overkommelige pris med adgang til grundlæggende tjenesteydelser, og slumkvarterer skal opgraderes.
+            <p class="mål-hvid">
+                <span class="mål-tekst">Inden 2030</span>,skal alle sikres adgang til egnede og sikre boliger til en overkommelige pris med adgang til grundlæggende tjenesteydelser, og slumkvarterer skal opgraderes.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2030</span>, skal der skabes adgang for alle til sikre, tilgængelige og bæredygtige transportsystemer til en overkommelig pris, trafiksikkerheden skal forbedres bl.a. ved at udbygge den kollektive trafik med særlig hensyn til behov hos sårbare befolkningsgrupper, kvinder, børn, personer med handicap og de ældre.
+                <span class="mål-tekst">Inden 2030</span>, skal der skabes adgang for alle til sikre, tilgængelige og bæredygtige transportsystemer til en overkommelig pris, trafiksikkerheden skal forbedres bl.a. ved at udbygge den kollektive trafik med særlig hensyn til behov hos sårbare befolkningsgrupper, kvinder, børn, personer med handicap og de ældre.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2030</span>,skal byudvikling gøres mere inkluderende og bæredygtig, og kapaciteten til en inddragende, integreret og bæredygtig boligplanlægning og forvaltning i alle lande skal styrkes.
+                <span class="mål-tekst">Inden 2030</span>,skal byudvikling gøres mere inkluderende og bæredygtig, og kapaciteten til en inddragende, integreret og bæredygtig boligplanlægning og forvaltning i alle lande skal styrkes.
                 <br>
                 <br>
-                <span id="mål-tekst">Indsatsen</span>,for at beskytte og bevare verdens kultur- og naturarv skal styrkes.
+                <span class="mål-tekst">Indsatsen</span>,for at beskytte og bevare verdens kultur- og naturarv skal styrkes.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2030</span>,skal antallet af dødsfald og antallet af berørte personer samt reduktion i de direkte økonomiske tab i forhold til det globale bruttonationalprodukt, som følge af katastrofer, herunder vandrelaterede katastrofer, reduceres betydeligt med fokus på beskyttelse af de fattige og mennesker i sårbare situationer.
+                <span class="mål-tekst">Inden 2030</span>,skal antallet af dødsfald og antallet af berørte personer samt reduktion i de direkte økonomiske tab i forhold til det globale bruttonationalprodukt, som følge af katastrofer, herunder vandrelaterede katastrofer, reduceres betydeligt med fokus på beskyttelse af de fattige og mennesker i sårbare situationer.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2030</span>,skal den negative miljøbelastning pr. indbygger reduceres, herunder ved at lægge særlig vægt på luftkvalitet og på husholdnings- og anden affaldsforvaltning.
+                <span class="mål-tekst">Inden 2030</span>,skal den negative miljøbelastning pr. indbygger reduceres, herunder ved at lægge særlig vægt på luftkvalitet og på husholdnings- og anden affaldsforvaltning.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2030</span>,skal der gives universel adgang til sikre, inkluderende og tilgængelige, grønne og offentlige rum, især for kvinder og børn, for ældre mennesker og for personer med handicap.
+                <span class="mål-tekst">Inden 2030</span>,skal der gives universel adgang til sikre, inkluderende og tilgængelige, grønne og offentlige rum, især for kvinder og børn, for ældre mennesker og for personer med handicap.
                 <br>
                 <br>
-                <span id="mål-tekst">Positive økonomiske, sociale og miljømæssige forbindelser</span>,mellem by, opland og landdistrikter skal støttes ved at styrke den nationale og regionale udviklingsplanlægning.
+                <span class="mål-tekst">Positive økonomiske, sociale og miljømæssige forbindelser</span>,mellem by, opland og landdistrikter skal støttes ved at styrke den nationale og regionale udviklingsplanlægning.
                 <br>
                 <br>
-                <span id="mål-tekst">Inden 2020</span>,skal der ske en betydelig stigning i antallet af byer og bosættelser, der vedtager og gennemfører integrerede politikker og planer, der stræber mod inklusion, ressourceeffektivitet, modvirkning og tilpasning til klimaændringer, modstandsdygtighed over for katastrofer, og som udvikler og gennemfører helhedsorienteret katastrofe- risikostyring på alle niveauer, i overensstemmelse med Sendai-rammen for Katastrofe- og Risikoforebyggelse (Sendai Framework for Disaster Risk Reduction 2015-2030).
+                <span class="mål-tekst">Inden 2020</span>,skal der ske en betydelig stigning i antallet af byer og bosættelser, der vedtager og gennemfører integrerede politikker og planer, der stræber mod inklusion, ressourceeffektivitet, modvirkning og tilpasning til klimaændringer, modstandsdygtighed over for katastrofer, og som udvikler og gennemfører helhedsorienteret katastrofe- risikostyring på alle niveauer, i overensstemmelse med Sendai-rammen for Katastrofe- og Risikoforebyggelse (Sendai Framework for Disaster Risk Reduction 2015-2030).
                 <br>
                 <br>
-                <span id="mål-tekst">De mindst udviklede lande skal støttes</span>,bl.a. gennem finansiel og teknisk bistand, til at bygge bæredygtige og robuste bygninger med anvendelse af lokale materialer.
+                <span class="mål-tekst">De mindst udviklede lande skal støttes</span>,bl.a. gennem finansiel og teknisk bistand, til at bygge bæredygtige og robuste bygninger med anvendelse af lokale materialer.
                 <br>
             </p>
 

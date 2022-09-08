@@ -71,12 +71,12 @@ background-image: cover;
     background-color: orange;
 }
 
-#mål-tekst{
+.mål-tekst{
     color: red;
     font-family: Helvetica, serif,bold;
     font-size: 25;
 }
-#mål-hvid
+.mål-hvid
 {
     color: white;
     font-family: Helvetica, sans-serif;
