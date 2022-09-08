@@ -75,8 +75,6 @@ Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdags
 
 <section>
 
-<?php
-$im = imagecreatefrompng("test.png");
 
 <div class="">
   <div class="flexcontainer" style="background-color:#ffff;">
@@ -86,7 +84,7 @@ $im = imagecreatefrompng("test.png");
  <p> 6.2 <br> Inden 2030 skal der opnås lige adgang til egnet sanitet og hygiejne for alle, og ordentlige toilet forhold for alle, med særlig opmærksomhed på kvinder og pigers behov, og på mennesker i sårbare situationer.</p>
             
             
-<p> 6.3 <img src="image.png" alt="height:20px width: 20px;"> <br> Inden 2030 skal vandkvaliteten forbedres ved at reducere forurening, afskaffe affaldsdumping og minimere udslip af farlige kemikalier og materialer, og halvere andelen af ubehandlet spildevand og væsentligt øge genanvendelse og sikker genbrug globalt.</p>
+<p> 6.3 <img class="imgsmall" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_6_TARGET_6.1_0.png" alt=""><br> Inden 2030 skal vandkvaliteten forbedres ved at reducere forurening, afskaffe affaldsdumping og minimere udslip af farlige kemikalier og materialer, og halvere andelen af ubehandlet spildevand og væsentligt øge genanvendelse og sikker genbrug globalt.</p>
 
 <p> 6.4 <br> 	
 Inden 2030 skal effektiviteten af vandanvendelsen indenfor alle sektorer øges væsentligt, og der skal sikres bæredygtig indvinding af og forsyning med ferskvand for at imødegå vandknaphed, og væsentligt reducere antallet af mennesker, der lider af vandmangel, betydeligt. </p>
