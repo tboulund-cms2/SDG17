@@ -120,16 +120,14 @@
 
 @media screen and (max-width: 1000px) {
     .forums{
-        width: auto;
-        height: fit-content;
+        margin: -1vh;
     }
     
 }
 
 @media screen and (max-width: 900px) {
     .forums{
-        height: 100px;
-        width: 200px;
+        margin: -1vh;
     }
     
 }
