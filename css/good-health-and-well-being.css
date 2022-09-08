@@ -90,8 +90,7 @@ body {
 
   display: flex;
   align-items: center;
-  padding-top: 10px;
-
+  padding-bottom: 20px;
 }
 
 .main-info-grid-icon-box img{
