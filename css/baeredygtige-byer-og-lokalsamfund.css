@@ -111,7 +111,8 @@
 }
 
 .pcconfiq {
-    font-size: 25px;
+    font-size: 25px !important;
+    color: white;
     font-family: Impact, sans-serif;
-
+    margin: 30px;
 }
