@@ -85,6 +85,12 @@
                 <br>
             </p>
 
+            <div>
+                <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
+            </div>
+
+
+
 
         </div>
         <section id="power-wordpress" class="d-flex col-md-12 info-background justify-content-center align-items-center">

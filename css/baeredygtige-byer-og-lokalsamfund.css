@@ -11,6 +11,10 @@
     background-image: cover;
 }
 
+.image-2 {
+    background-image: cover;
+}
+
 .container-byer {
     --bs-gutter-x: 0rem !important;
     max-width: 100% !important;
@@ -117,4 +121,3 @@
     font-family: Impact, sans-serif;
     margin: -1vh;
 }
-
