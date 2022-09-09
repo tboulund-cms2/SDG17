@@ -86,7 +86,7 @@
             </p>
             <div class="infographic col-md-12 col-sm-12 col-12">
                 <div>
-                    <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
+                    <img class="img-fluid w-100" src="<?php the_field("image-2") ?>" alt="">
                 </div>
             </div>
 
