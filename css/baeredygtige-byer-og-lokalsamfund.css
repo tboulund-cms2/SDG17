@@ -12,7 +12,11 @@
 }
 
 .image-2 {
-    background-image: cover;
+    background-size: cover;
+    background-size: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .container-byer {
