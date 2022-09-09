@@ -84,11 +84,11 @@
                 <span class="mål-tekst">De mindst udviklede lande skal støttes</span>,bl.a. gennem finansiel og teknisk bistand, til at bygge bæredygtige og robuste bygninger med anvendelse af lokale materialer.
                 <br>
             </p>
-
-            <div>
-                <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
+            <div class="col-md-12 col-sm-12">
+                <div>
+                    <img class="image-2" src="<?php the_field("image-2") ?>" alt="">
+                </div>
             </div>
-
 
 
 
