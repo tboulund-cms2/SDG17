@@ -75,7 +75,7 @@ Adgang til vand og sanitet er et af 17 verdensmål, som indgår i udviklingsdags
           <div><img class="imgsmall" src="https://www.verdensmaalene.dk/sites/default/files/filarkiv/Billeder/GOAL_6_TARGET_6.1_0.png" alt=""></div> 
 <section>
 
-<a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/mal-6-rent-vand-og-sanitet/members/all-members/" target="_blank"> Join the Conversation </a>
+<a class="btn btn-cta" role="button" href="http://boulund.com/sdg17/groups/mal-6-rent-vand-og-sanitet/members/all-members/" target="_blank"> Gør en forskel og bliv en del af gruppen </a>
 
 <div class="">
   <div class="" style="background-color:#031d65;">
