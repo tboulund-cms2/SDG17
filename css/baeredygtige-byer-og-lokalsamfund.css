@@ -12,10 +12,7 @@
 }
 
 .image-2 {
-    background-size: cover;
-    background-size: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: cover;
     justify-content: center;
     align-content: center;
 }
