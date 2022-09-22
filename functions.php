@@ -1,4 +1,5 @@
 <?php
+echo "Something fun";
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
